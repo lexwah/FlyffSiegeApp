@@ -1,0 +1,28 @@
+.share-box {
+  display: flex;
+  align-items: center;
+  border-radius: 5px;
+  border: solid 1px var(--grey-medium-dark);
+  cursor: pointer;
+}
+
+.share-input {
+  /* width: calc(100% - 34px); */
+  overflow: hidden;
+  text-overflow: ellipsis;
+  background: none;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 10px 5px 10px 5px;
+  flex-grow: 1;
+  margin-right: 5px;
+  font-size: 16px;
+}
+
+.share-copy-btn {
+  padding: 5px;
+  background: var(--grey-normal);
+  border-radius: 5px;
+  margin-right: 4px;
+}

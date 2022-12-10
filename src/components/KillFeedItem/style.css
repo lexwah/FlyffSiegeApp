@@ -1,0 +1,34 @@
+.kf-item {
+  padding: 15px;
+  display: flex;
+  align-items: center;
+  background: #fff;
+
+  margin: 7px 0px 7px 15px;
+}
+
+.kf-icon {
+  width: 16px;
+  height: 16px;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.kf-killer {
+  font-weight: 600;
+}
+
+.kf-target {
+  margin-right: 15px;
+  font-weight: 600;
+}
+
+.good {
+  color: var(--success-dark);
+}
+
+.bad {
+  color: var(--danger-dark);
+}
+
+.kf-points {}

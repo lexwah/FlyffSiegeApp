@@ -1,0 +1,30 @@
+.app {
+  display: flex;
+  align-items: stretch;
+  height: 100%;
+  flex-grow: 1;
+}
+
+.paste-content {
+  height: 200px;
+  min-height: 200px;
+  max-height: 200px;
+  width: calc(100% - 5px);
+  min-width: calc(100% - 5px);
+  max-width: calc(100% - 5px);
+  border-radius: 5px;
+  border: solid 1px rgb(204 216 223);
+  outline: none;
+  font-size: 16px;
+  margin-bottom: 15px;
+}
+
+.paste-content-buttons {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.paste-content-submit {
+  width: 80px;
+  margin-top: 15px;
+}

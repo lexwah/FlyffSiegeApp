@@ -1,0 +1,169 @@
+/* 
+  From https://github.com/nzbin/three-dots
+*/
+.dot-typing {
+  position: relative;
+  left: -9999px;
+  width: 10px;
+  height: 10px;
+  border-radius: 5px;
+  background-color: var(--text-color);
+  color: var(--text-color);
+  box-shadow: 9984px 0 0 0 var(--text-color), 9999px 0 0 0 var(--text-color), 10014px 0 0 0 var(--text-color);
+  animation: dotTyping 1.5s infinite linear;
+}
+
+@keyframes dotTyping {
+  0% {
+    box-shadow: 9984px 0 0 0 var(--text-color), 9999px 0 0 0 var(--text-color), 10014px 0 0 0 var(--text-color);
+  }
+
+  16.667% {
+    box-shadow: 9984px -10px 0 0 var(--text-color), 9999px 0 0 0 var(--text-color), 10014px 0 0 0 var(--text-color);
+  }
+
+  33.333% {
+    box-shadow: 9984px 0 0 0 var(--text-color), 9999px 0 0 0 var(--text-color), 10014px 0 0 0 var(--text-color);
+  }
+
+  50% {
+    box-shadow: 9984px 0 0 0 var(--text-color), 9999px -10px 0 0 var(--text-color), 10014px 0 0 0 var(--text-color);
+  }
+
+  66.667% {
+    box-shadow: 9984px 0 0 0 var(--text-color), 9999px 0 0 0 var(--text-color), 10014px 0 0 0 var(--text-color);
+  }
+
+  83.333% {
+    box-shadow: 9984px 0 0 0 var(--text-color), 9999px 0 0 0 var(--text-color), 10014px -10px 0 0 var(--text-color);
+  }
+
+  100% {
+    box-shadow: 9984px 0 0 0 var(--text-color), 9999px 0 0 0 var(--text-color), 10014px 0 0 0 var(--text-color);
+  }
+}
+
+/* ---------------------------------------------------- */
+
+
+/* Begin animations from Animate.style (https://animate.style)*/
+@keyframes slideInRight {
+  from {
+    transform: translate3d(100%, 0, 0);
+    visibility: visible;
+  }
+
+  to {
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+.slideInRight {
+  animation-name: slideInRight;
+}
+
+@keyframes slideInDown {
+  from {
+    transform: translate3d(0, -100%, 0);
+  }
+
+  to {
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+.slideInDown {
+  animation-name: slideInDown;
+}
+
+
+@keyframes fadeInDown {
+  from {
+    opacity: 0;
+    transform: translate3d(0, -10%, 0);
+  }
+
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+.fadeInDown {
+  animation-name: fadeInDown;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translate3d(0, 10%, 0);
+  }
+
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+.fadeInUp {
+  animation-name: fadeInUp;
+}
+
+@keyframes fadeInRight {
+  from {
+    transform: translate3d(10%, 0, 0);
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+.fadeInRight {
+  animation-name: fadeInRight;
+}
+
+@keyframes fadeInLeft {
+  from {
+    opacity: 0;
+    transform: translate3d(-10%, 0, 0);
+  }
+
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+.fadeInLeft {
+  animation-name: fadeInLeft;
+}
+
+@keyframes pulse {
+  from {
+    transform: scale3d(1, 1, 1);
+  }
+
+  50% {
+    transform: scale3d(1.1, 1.1, 1.1);
+  }
+
+  to {
+    transform: scale3d(1, 1, 1);
+  }
+}
+
+.pulse {
+  animation-name: pulse;
+  animation-timing-function: ease-in-out;
+}
+
+
+
+.animated {
+  animation-duration: 0.3s;
+}
+
+/* End animate.style animations */

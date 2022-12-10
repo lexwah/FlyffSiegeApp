@@ -1,0 +1,102 @@
+{
+  "extends": [
+    "airbnb",
+    "plugin:@typescript-eslint/recommended"
+  ],
+  "settings": {
+    "import/parsers": {
+      "@typescript-eslint/parser": [
+        ".ts",
+        ".tsx"
+      ]
+    },
+    "import/resolver": {
+      "node": {
+        "extensions": [
+          ".js",
+          ".jsx",
+          ".ts",
+          ".tsx"
+        ]
+      }
+    }
+  },
+  "rules": {
+    "semi": "warn",
+    "comma-dangle": "off",
+    "linebreak-style": 0,
+    "react/prop-types": 0,
+    "react/jsx-props-no-spreading": "off",
+    "react/prefer-stateless-function": 0,
+    "import/extensions": "off",
+    "react/function-component-definition": "off",
+    "react/jsx-filename-extension": [
+      2,
+      {
+        "extensions": [
+          ".js",
+          ".jsx",
+          ".ts",
+          ".tsx"
+        ]
+      }
+    ],
+    "react/require-default-props": "off",
+    "react/no-array-index-key": "off",
+    // note you must disable the base rule as it can report incorrect errors
+    "no-shadow": "off",
+    "@typescript-eslint/no-shadow": "off",
+    "indent": "off",
+    "@typescript-eslint/indent": [
+      "error",
+      2
+    ],
+    "no-warning-comments": [
+      2,
+      {
+        "terms": [
+          "todo",
+          "fixme",
+          "xxx"
+        ],
+        "location": "start"
+      }
+    ],
+    "no-invalid-this": "off",
+    "@typescript-eslint/no-invalid-this": [
+      "error"
+    ],
+    "react/forbid-prop-types": "off",
+    "react/destructuring-assignment": "off",
+    "prefer-destructuring": "off",
+    "import/no-extraneous-dependencies": "off",
+    "import/no-absolute-path": "off",
+    "no-underscore-dangle": "off",
+    "object-shorthand": [
+      "error",
+      "always"
+    ],
+    "func-names": "off",
+    "max-len": "off",
+    "no-param-reassign": [
+      "error",
+      {
+        "props": false
+      }
+    ],
+    "no-plusplus": [
+      "error",
+      {
+        "allowForLoopAfterthoughts": true
+      }
+    ],
+    "no-use-before-define": [
+      "error",
+      {
+        "functions": false,
+        "classes": false
+      }
+    ],
+    "react-hooks/exhaustive-deps": "off"
+  }
+}

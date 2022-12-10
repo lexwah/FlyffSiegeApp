@@ -1,0 +1,14 @@
+.siege-view {
+  display: flex;
+  align-items: stretch;
+  height: 100%;
+  flex-grow: 1;
+}
+
+.siege-view-loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  flex-grow: 1;
+}
