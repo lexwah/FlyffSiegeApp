@@ -10,11 +10,13 @@ const TextEntryDialog = ({
   onClose,
   title,
   description,
+  placeholder
 }: {
   title: string,
   description?: string,
   isPassword?: boolean,
-  onClose: (text: string | null)=>void
+  onClose: (text: string | null)=>void,
+  placeholder?: string
 }): React.ReactElement => {
   const [text, setText] = React.useState<string>('');
 
@@ -47,6 +49,7 @@ const TextEntryDialog = ({
       }
 
       <TextEntryDialogField
+        placeholder={placeholder}
         autoComplete="no"
         type={isPassword ? 'password' : 'text'}
         className="text-entry-dialog-text"

@@ -13,6 +13,18 @@ export const shareSiege = async (params: {
   date: Date
 }): Promise<AxiosResponse> => axios.post(constructURL('share'), params);
 
+export const submitSiegeVod = async (params: {
+  siegeId: string,
+  url: string,
+  password: string
+}): Promise<AxiosResponse> => axios.post(constructURL(`siege/${params.siegeId}/vod`), params);
+
+export const deleteSiegeVod = async (params: {
+  siegeId: string,
+  youtubeId: string,
+  password: string
+}): Promise<AxiosResponse> => axios.post(constructURL(`siege/${params.siegeId}/vod/delete`), params);
+
 export const unshareSiege = async (params: {
   siegeId: string,
   password: string

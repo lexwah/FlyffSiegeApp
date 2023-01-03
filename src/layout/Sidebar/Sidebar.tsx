@@ -20,7 +20,7 @@ import DialogButtons from '../../components/DialogButtons/DialogButtons';
 import { DropdownOption } from '../../components/SelectMenu/SelectMenu';
 import { FlyffServer, labelForServer } from '../../util/util';
 
-const DESC_ENABLE = 'Please set a password for this Siege log. This will allow you to disable sharing later if needed.';
+const DESC_ENABLE = 'Please set an easy-to-remember password for this Siege log. This will allow you to change the settings and add VODs later.';
 const DESC_DISABLE = 'Please enter the password for this Siege log to continue.';
 
 const CONFIRM_ALREADY_SHARED = 'This Siege has already been uploaded, below is the URL:';
@@ -334,7 +334,7 @@ const Sidebar = ({
         </Button>
       </div>
 
-      {/* <div className="credits">
+      <div className="credits">
         <span>
           Made by&nbsp;
           <b>Ruler</b>
@@ -343,7 +343,7 @@ const Sidebar = ({
           &nbsp;
           <b>Mushpoie</b>
         </span>
-      </div> */}
+      </div>
     </div>
   );
 };

@@ -37,3 +37,9 @@
 .medal.third {
   color: var(--bronze);
 }
+
+.guild-tooltip {
+  z-index: 4;
+  background: var(--text-color);
+  opacity: 1;
+}

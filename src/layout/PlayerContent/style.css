@@ -77,6 +77,12 @@
   margin-bottom: 30px;
 }
 
+.overview-kf-hint {
+  display: block;
+  font-size: 14px;
+  margin-bottom: 15px;
+}
+
 .overview-kf {
 
   height: 400px;
@@ -90,7 +96,7 @@
 }
 
 .overview-chart-block {
-  height: 400px;
+  height: 430px;
   padding: 15px;
 }
 

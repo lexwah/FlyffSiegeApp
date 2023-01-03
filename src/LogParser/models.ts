@@ -27,7 +27,7 @@ export interface PointGain {
   basic: number,
   bonus?: number,
   total?: number,
-  bonusType?: BonusPointType
+  bonusTypes?: BonusPointType[]
 }
 
 export interface Kill {
@@ -36,4 +36,10 @@ export interface Kill {
 
   // This is optional because it won't be populated right away
   pointGain?: PointGain
+}
+
+export interface Vod {
+  siegeId: string,
+  youtubeId: string,
+  title: string
 }

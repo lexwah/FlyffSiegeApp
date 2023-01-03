@@ -32,3 +32,37 @@
 }
 
 .kf-points {}
+
+.kf-bonuses {
+  display: flex;
+  align-items: center;
+}
+
+.kill-bonus {
+  border-radius: 3px;
+  padding: 1px 5px 1px 5px;
+  margin-left: 15px;
+  font-size: 10px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.kill-bonus.defender {
+  background: rgb(106, 83, 128);
+  color: #fff;
+}
+
+.kill-bonus.ress {
+  background: rgb(58, 81, 116);
+  color: #fff;
+}
+
+.kill-bonus.shutdown {
+  background: rgb(65, 136, 97);
+  color: #fff;
+}
+
+.kill-bonus.unknown {
+  background: rgb(104, 104, 104);
+  color: #fff;
+}

@@ -12,7 +12,9 @@ export enum FlyffServer {
   JAPAN = 'リシス'
 }
 
+// consolidate these two into a capitalize() function?
 export const labelForServer = (server: string): string => `${server.charAt(0).toLocaleUpperCase()}${server.slice(1)}`;
+export const labelForKillBonus = (bonus: string): string => `${bonus.charAt(0).toLocaleUpperCase()}${bonus.slice(1)}`;
 
 export interface Siege {
   siegeId: string,

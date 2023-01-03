@@ -5,25 +5,30 @@ import {
 } from 'react-router-dom';
 import AutoSizer from 'react-virtualized-auto-sizer';
 import {
-  OrderedListOutlined, PieChartOutlined, SearchOutlined
+  OrderedListOutlined, PieChartOutlined, SearchOutlined, YoutubeOutlined
 } from '@ant-design/icons';
 import './style.css';
 import PlayerListItem from '../../components/PlayerListItem/PlayerListItem';
 import PlayerDetails from '../PlayerDetails/PlayerDetails';
-import { Guild, Kill, Player } from '../../LogParser/models';
+import {
+  Guild, Kill, Player, Vod
+} from '../../LogParser/models';
 import TabContainer from '../../components/Tabs/TabContainer';
 import Tab from '../../components/Tabs/Tab';
 import Overview from './Overview';
+import VodsPage from '../VodsPage/VodsPage';
 
 const PlayerContent = ({
   players,
   killFeed,
-  guilds = []
+  guilds = [],
+  vods = []
 }:
 {
   players: Player[],
   killFeed: Kill[],
-  guilds: Guild[]
+  guilds: Guild[],
+  vods: Vod[]
 }): React.ReactElement => {
   const [filteredResults, setFilteredResults] = React.useState<Player[]>(players);
   const [searchTerm, setSearchTerm] = React.useState<string>('');
@@ -101,14 +106,24 @@ const PlayerContent = ({
           {' '}
           Player Ranking
         </Tab>
-
+        {
+          siegeId !== 'new' && (
+            <Tab className="player-content-tab" href={`/siege/${siegeId}/vods`}>
+              <YoutubeOutlined className="pc-tab-icon" />
+              {' '}
+              VODs
+            </Tab>
+          )
+        }
       </TabContainer>
       <Routes>
         <Route element={rankingContent} path="ranking" />
+        <Route element={<VodsPage initialVods={vods} />} path="vods" />
         <Route
           path="details/:playerName"
           element={<PlayerDetails players={players} killFeed={killFeed} />}
         />
+
         <Route index element={<Overview killFeed={killFeed} guilds={guilds} />} />
       </Routes>
 

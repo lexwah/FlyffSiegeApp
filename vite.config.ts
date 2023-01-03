@@ -9,7 +9,7 @@ let port = Number(env.VITE_PORT);
 if (isNaN(port)) port = 3009;
 
 const deployMode = env.DEPLOY_MODE || 'local';
-const apiURL = deployMode === 'local' ? 'http://localhost:3001' : 'https://siege-api.lexwah.com';
+const apiURL = deployMode === 'local' ? 'http://localhost:3001' : 'https://api.flyffsiege.com';
 
 // https://vitejs.dev/config/
 /** @type {import('vite').UserConfig} */

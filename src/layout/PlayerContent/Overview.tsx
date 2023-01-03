@@ -38,7 +38,7 @@ const Overview = ({ killFeed, guilds }: {
     );
   };
 
-  const setupChart = async () => {
+  const setupChartData = async () => {
     await new Promise<void>((resolve) => {
       let colorPool = [
         '#c9e8ff',
@@ -53,8 +53,10 @@ const Overview = ({ killFeed, guilds }: {
         '#50c94c'
       ];
 
-      const xAxis: number[] = [];
+      const xAxis: number[] = [0];
       let tally = 0;
+
+      // Every time a guild gains a kill, record the total number of points at that moment
       let guildTallies: { guildName: string, tallies: number[]}[] = guilds.map((guild) => ({
         guildName: guild.name,
         tallies: [0]
@@ -65,6 +67,7 @@ const Overview = ({ killFeed, guilds }: {
         xAxis.push(tally);
 
         const guildName = kill.killer.guild;
+
         guildTallies = guildTallies.map((gTally) => {
           const previousValueForThisGuild = gTally.tallies[gTally.tallies.length - 1];
 
@@ -73,13 +76,17 @@ const Overview = ({ killFeed, guilds }: {
             tallies: guildName === gTally.guildName ? [...gTally.tallies, previousValueForThisGuild + (kill.pointGain?.total || 0)] : [...gTally.tallies, previousValueForThisGuild]
           };
         });
+
+        // console.log(guildTallies);
       });
 
+      // console.log(`xAxis length is ${xAxis.length}`);
       const sets = guilds.map((guild) => {
         const randomColor = colorPool[Math.floor(Math.random() * colorPool.length)];
         colorPool = colorPool.filter((color) => color !== randomColor);
 
         const talliesForThisGuild = guildTallies.find((tally) => tally.guildName === guild.name);
+        // console.log(`tallies length for guild ${guild.name} is ${talliesForThisGuild.tallies.length}`);
 
         const dataSet = {
           label: guild.name,
@@ -101,7 +108,7 @@ const Overview = ({ killFeed, guilds }: {
   };
 
   const init = async () => {
-    await setupChart();
+    await setupChartData();
     await loadChartJs();
     setIsLoading(false);
   };
@@ -125,7 +132,41 @@ const Overview = ({ killFeed, guilds }: {
     datasets: dataSets
   };
 
+  const footer = (tooltipItems: any) => {
+    const kill = killFeed[tooltipItems[0].dataIndex];
+    return `[${kill?.killer.guild}] ${kill?.killer.name} killed [${kill?.target.guild}] ${kill?.target.name} (+${kill?.pointGain.total})`;
+  };
+
+  const title = (tooltipItems: any) => {
+    const killNumber = tooltipItems[0].dataIndex + 1;
+    return `Kill #${killNumber}`;
+  };
+
   const chartOptions = {
+
+    plugins: {
+      zoom: {
+        wheel: {
+          enabled: true,
+        },
+        pinch: {
+          enabled: true
+        },
+        mode: 'xy',
+      },
+      tooltip: {
+        callbacks: {
+          footer,
+          title
+        },
+        caretSize: 0
+      },
+
+    },
+    interaction: {
+      intersect: false,
+      mode: 'index' as const, // cast to avoid TS warning
+    },
     responsive: true,
     scales: {
       y: {
@@ -142,12 +183,11 @@ const Overview = ({ killFeed, guilds }: {
         },
         // suggestedMin: 1,
         // suggestedMax: killFeed.length,
-        ticks: {
-          // stepSize: killFeed.length / 10
-        }
+        ticks: { }
 
       }
-    }
+    },
+
   };
 
   return (
@@ -162,8 +202,10 @@ const Overview = ({ killFeed, guilds }: {
           : (
             <>
 
-              <h3 className="overview-kf-title">Performance over time</h3>
+              <h3 className="overview-kf-title chart">Performance over time</h3>
               <div className="overview-chart-block overview-tile">
+                <span className="overview-kf-hint">Hint: click on a Guild color to toggle that guild in the chart</span>
+
                 <Line options={chartOptions} data={data} />
               </div>
 

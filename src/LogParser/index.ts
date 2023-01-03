@@ -56,7 +56,7 @@ const parsePointGain = (line: string): PointGain => {
 
     // If more than just a basic point
     let totalBonus = 0;
-    const reasons = '';
+    const reasons:BonusPointType[] = [];
     if (breakdownSections.length > 1) {
       breakdownSections.shift();
       breakdownSections.forEach((section) => {
@@ -77,12 +77,12 @@ const parsePointGain = (line: string): PointGain => {
         }
 
         totalBonus += bonusAmount;
-        reasons.concat(bonusType);
+        reasons.push(bonusType);
       });
     }
 
     pointGain.bonus = totalBonus;
-    pointGain.bonusType = reasons as BonusPointType;
+    pointGain.bonusTypes = reasons;
   }
 
   pointGain.total = pointGain.basic + (pointGain.bonus || 0);
@@ -101,7 +101,7 @@ const sortPlayers = (allKills: Kill[]): Player[] => {
       existingKillerEntity.kills += 1;
       existingKillerEntity.points += (pointGain?.total || 0);
     } else {
-      players.push({ ...killer, points: pointGain?.total || 0 });
+      players.push({ ...killer, kills: 1, points: pointGain?.total || 0 });
     }
 
     if (existingTargetEntity !== undefined) {

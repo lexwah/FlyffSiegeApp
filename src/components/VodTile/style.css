@@ -1,0 +1,73 @@
+.vod-tile {
+  position: relative;
+  background: #fff;
+  transition: all 0.2s linear;
+  -webkit-transition: all 0.2s linear;
+  -moz-transition: all 0.2s linear;
+  -o-transition: all 0.2s linear;
+  width: 200px;
+  height: 200px;
+  border-radius: 5px;
+  box-shadow: rgb(145 158 171 / 20%) 0px 0px 2px 0px, rgb(145 158 171 / 12%) 0px 12px 24px -4px;
+}
+
+.vod-thumb {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+.vod-title {
+  position: absolute;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  bottom: 0px;
+  display: flex;
+  align-items: center;
+  width: calc(100% - 10px);
+  height: 50px;
+  text-overflow: ellipsis;
+  padding-left: 10px;
+  overflow: hidden;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.vod-tile:hover {
+  transform: scale(1.08);
+  box-shadow: rgb(145 158 171 / 80%) 0px 12px 24px -4px;
+}
+
+.delete-vod {
+  position: absolute;
+  top: -20px;
+  right: 0px;
+  z-index: 2;
+  color: var(--danger);
+  display: none;
+  background: #fff;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  align-items: center;
+  justify-content: center;
+  border: solid 1px #f1ecec;
+}
+
+.vod-tile:hover .delete-vod {
+  display: flex;
+}
+
+.vod-yt-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100px;
+  top: calc(50% - 50px);
+  position: absolute;
+  color: #fff;
+  width: 100%;
+  font-size: 50px;
+}

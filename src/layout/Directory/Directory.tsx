@@ -28,7 +28,13 @@ const Directory = (): React.ReactElement => {
     try {
       const response = await getSieges({ server: selectedServer?.value, date: selectedDate });
       const { sieges: s } = response.data;
-      setSieges(s);
+      setSieges(s.sort((a: Siege, b:Siege) => {
+        const siegeDateA = a.siegeDate || 0;
+        const siegeDateB = b.siegeDate || 0;
+        if (siegeDateA > siegeDateB) return 1;
+        if (siegeDateA < siegeDateB) return -1;
+        return 0;
+      }).reverse());
       setIsLoading(false);
     } catch (e) {
       console.log(e);
@@ -89,7 +95,7 @@ const Directory = (): React.ReactElement => {
                   value={selectedServer}
                 />
 
-                <DatePicker
+                {/* <DatePicker
                   placeholderText="Filter by date"
                   showPopperArrow={false}
                   selected={selectedDate}
@@ -101,7 +107,7 @@ const Directory = (): React.ReactElement => {
                       value={selectedDate?.toString()}
                     />
                   )}
-                />
+                /> */}
 
                 <Button
                   className="directory-apply"
