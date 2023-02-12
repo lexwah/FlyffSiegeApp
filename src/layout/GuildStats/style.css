@@ -1,0 +1,47 @@
+.gs-filter {
+  width: 300px;
+  margin-bottom: 30px;
+}
+
+.gs-container {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  overflow: auto;
+}
+
+.gs-empty {
+  display: flex;
+  flex-grow: 1;
+  margin-top: 40px;
+}
+
+.gs-tile {
+  background: #fff;
+  box-shadow: rgb(145 158 171 / 20%) 0px 0px 2px 0px, rgb(145 158 171 / 12%) 0px 12px 24px -4px;
+  border-radius: 5px;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-bottom: 30px;
+  padding: 15px;
+}
+
+.gs-chart-block {
+  height: auto;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.gs-chart-box {
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  height: 380px;
+  width: 100%;
+}
+
+.gs-chart-title {
+  text-align: left;
+  margin: unset;
+}

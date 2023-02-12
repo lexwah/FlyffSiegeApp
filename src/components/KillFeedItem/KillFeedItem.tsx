@@ -9,7 +9,7 @@ const KillFeedItem = ({
 }: {
   killer: Player, target: Player, pointGain?: PointGain, isDeath: boolean
 }): React.ReactElement => {
-  const bonuses = pointGain.bonusTypes?.map((bonus) => {
+  const bonuses = pointGain.bonusTypes?.map((bonus, index) => {
     let bClass;
     switch (bonus) {
       case BonusPointType.DEFENDER:
@@ -31,7 +31,7 @@ const KillFeedItem = ({
         break;
     }
     return (
-      <div className={`kill-bonus ${bClass}`}>
+      <div key={`kill-bonus-${index}`} className={`kill-bonus ${bClass}`}>
         {`${labelForKillBonus(bonus)} bonus`}
       </div>
     );

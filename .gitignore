@@ -14,6 +14,7 @@ dist-ssr
 build
 .env
 flyfflogo.png
+build
 
 # Editor directories and files
 .vscode/*

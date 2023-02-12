@@ -5,7 +5,7 @@ import {
 } from 'react-router-dom';
 import AutoSizer from 'react-virtualized-auto-sizer';
 import {
-  OrderedListOutlined, PieChartOutlined, SearchOutlined, YoutubeOutlined
+  OrderedListOutlined, PieChartOutlined, RadarChartOutlined, SearchOutlined, YoutubeOutlined
 } from '@ant-design/icons';
 import './style.css';
 import PlayerListItem from '../../components/PlayerListItem/PlayerListItem';
@@ -17,6 +17,7 @@ import TabContainer from '../../components/Tabs/TabContainer';
 import Tab from '../../components/Tabs/Tab';
 import Overview from './Overview';
 import VodsPage from '../VodsPage/VodsPage';
+import GuildStats from '../GuildStats/GuildStats';
 
 const PlayerContent = ({
   players,
@@ -106,6 +107,11 @@ const PlayerContent = ({
           {' '}
           Player Ranking
         </Tab>
+        <Tab className="player-content-tab" href={`/siege/${siegeId}/guild-stats`}>
+          <RadarChartOutlined className="pc-tab-icon" />
+          {' '}
+          Guild Statistics
+        </Tab>
         {
           siegeId !== 'new' && (
             <Tab className="player-content-tab" href={`/siege/${siegeId}/vods`}>
@@ -118,12 +124,16 @@ const PlayerContent = ({
       </TabContainer>
       <Routes>
         <Route element={rankingContent} path="ranking" />
+        <Route element={<GuildStats killFeed={killFeed} players={players} guilds={guilds} />} path="guild-stats" />
+        <Route
+          path="guild-stats/:guildName"
+          element={<GuildStats killFeed={killFeed} players={players} guilds={guilds} />}
+        />
         <Route element={<VodsPage initialVods={vods} />} path="vods" />
         <Route
           path="details/:playerName"
           element={<PlayerDetails players={players} killFeed={killFeed} />}
         />
-
         <Route index element={<Overview killFeed={killFeed} guilds={guilds} />} />
       </Routes>
 
