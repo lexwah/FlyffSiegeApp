@@ -21,6 +21,16 @@ a.player:active {
   transform: scale(0.98);
 }
 
+a.player.dark {
+  background: var(--sidebar-bg-dark);
+  box-shadow: none;
+  color: #fff;
+}
+
+a.player.dark:hover {
+  background: var(--sidebar-bg-dark);
+}
+
 .player-rank {
   font-weight: 400;
   margin-right: 30px;
@@ -78,6 +88,14 @@ a.player:active {
 
 .player-deaths {
   color: var(--danger-dark);
+}
+
+.player.dark .player-kills {
+  color: var(--success-light);
+}
+
+.player.dark .player-deaths {
+  color: var(--danger-light);
 }
 
 .crown {

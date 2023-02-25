@@ -3,8 +3,11 @@
   display: flex;
   align-items: center;
   background: #fff;
-
   margin: 7px 0px 7px 15px;
+}
+
+.kf-item.dark {
+  background: var(--sidebar-bg-dark);
 }
 
 .kf-icon {
@@ -27,8 +30,16 @@
   color: var(--success-dark);
 }
 
+.dark .good {
+  color: var(--success-light);
+}
+
 .bad {
   color: var(--danger-dark);
+}
+
+.dark .bad {
+  color: var(--danger-light);
 }
 
 .kf-points {}

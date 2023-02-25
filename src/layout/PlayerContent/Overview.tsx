@@ -4,6 +4,7 @@ import React from 'react';
 import { Line } from 'react-chartjs-2';
 import KillFeedItem from '../../components/KillFeedItem/KillFeedItem';
 import { Guild, Kill } from '../../LogParser/models';
+import { useDarkMode } from '../../ui-preferences/DarkMode';
 import './style.css';
 
 const Overview = ({ killFeed, guilds }: {
@@ -13,6 +14,7 @@ const Overview = ({ killFeed, guilds }: {
   const [dataSets, setDataSets] = React.useState([]);
   const [labels, setLabels] = React.useState<number[]>([]);
   const [isLoading, setIsLoading] = React.useState<boolean>(true);
+  const isDarkMode = useDarkMode();
 
   const loadChartJs = async () => {
     const defaultObj = (await import('chart.js'));
@@ -203,14 +205,14 @@ const Overview = ({ killFeed, guilds }: {
             <>
 
               <h3 className="overview-kf-title chart">Performance over time</h3>
-              <div className="overview-chart-block overview-tile">
+              <div className={`overview-chart-block overview-tile${isDarkMode ? ' dark' : ''}`}>
                 <span className="overview-kf-hint">Hint: click on a Guild color to toggle that guild in the chart</span>
 
                 <Line options={chartOptions} data={data} />
               </div>
 
               <h3 className="overview-kf-title">Combat log</h3>
-              <div className="overview-kf overview-tile">
+              <div className={`overview-kf overview-tile${isDarkMode ? ' dark' : ''}`}>
                 {killElements}
               </div>
 

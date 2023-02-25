@@ -26,6 +26,11 @@
   padding: 15px;
 }
 
+.gs-tile.dark {
+  box-shadow: none;
+  background: var(--panel-bg-dark);
+}
+
 .gs-chart-block {
   height: auto;
   display: flex;

@@ -9,10 +9,12 @@ import Button from '../../components/Button/Button';
 import Landing from '../Landing/Landing';
 import SiegeView from '../SiegePage/SiegePage';
 import Directory from '../Directory/Directory';
+import { useDarkMode } from '../../ui-preferences/DarkMode';
 
 const App = (): React.ReactElement => {
   const [isModalShown, setIsModalShown] = React.useState<boolean>(false);
   const [textFieldContent, setTextFieldContent] = React.useState<string | undefined>(undefined);
+  const isDarkMode = useDarkMode();
   const navigate = useNavigate();
 
   const onLogParsed = () => {
@@ -39,7 +41,7 @@ const App = (): React.ReactElement => {
   };
 
   return (
-    <div className="app">
+    <div className={`app${isDarkMode ? ' dark' : ''}`}>
       <Routes>
         <Route
           path="/siege/:siegeId/*"

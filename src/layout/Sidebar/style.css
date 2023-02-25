@@ -9,6 +9,10 @@
   overflow-y: auto;
 }
 
+.app.dark .sidebar {
+  background: var(--sidebar-bg-dark);
+}
+
 .guild-ranking-title {
   margin-top: 0px;
   text-align: center;

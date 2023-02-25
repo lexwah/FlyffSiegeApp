@@ -33,6 +33,14 @@
   -o-transition: all 0.15s linear;
 }
 
+.tab.dark {
+  color: #fff;
+}
+
+.tab.dark::after {
+  background: #fff;
+}
+
 .tab.selected::after,
 .tab:hover::after,
 .tab:focus::after {

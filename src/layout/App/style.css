@@ -3,6 +3,13 @@
   align-items: stretch;
   height: 100%;
   flex-grow: 1;
+  background: var(--grey-medium);
+  color: var(--text-color);
+}
+
+.app.dark {
+  background: var(--background-dark);
+  color: #fff;
 }
 
 .paste-content {

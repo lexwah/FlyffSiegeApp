@@ -6,6 +6,7 @@ import { useParams } from 'react-router-dom';
 import LoadingIndicator from '../../components/LoadingIndicator/LoadingIndicator';
 import SelectMenu from '../../components/SelectMenu/SelectMenu';
 import { Guild, Kill, Player } from '../../LogParser/models';
+import { useDarkMode } from '../../ui-preferences/DarkMode';
 import './style.css';
 
 interface KillShare {
@@ -30,6 +31,7 @@ const GuildStats = ({
   const [isLoadingChartJs, setIsLoadingChartJs] = useState<boolean>(true);
   const [killsChartData, setKillsChartData] = useState<any>(null);
   const [deathsChartData, setDeathsChartData] = useState<any>(null);
+  const dark = useDarkMode();
 
   const loadChartJs = async () => {
     const defaultObj = (await import('chart.js'));
@@ -175,7 +177,7 @@ const GuildStats = ({
           </div>
         ) : (
           <>
-            <div className="gs-chart-block gs-tile">
+            <div className={`gs-chart-block gs-tile${dark ? ' dark' : ''}`}>
               <h3 className="gs-chart-title">Kills on other Guilds</h3>
               {
                 (isBusy || isLoadingChartJs || !killsChartData) ? (
@@ -188,7 +190,7 @@ const GuildStats = ({
               }
             </div>
 
-            <div className="gs-chart-block gs-tile">
+            <div className={`gs-chart-block gs-tile${dark ? ' dark' : ''}`}>
               <h3 className="gs-chart-title">Deaths from other Guilds</h3>
               {
                 (isBusy || isLoadingChartJs || !deathsChartData) ? (
