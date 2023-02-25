@@ -26,11 +26,28 @@
   padding: 15px;
 }
 
+.gs-tile.inline-charts {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
 .gs-chart-block {
   height: auto;
   display: flex;
   justify-content: center;
   flex-direction: column;
+  width: 49%;
+}
+
+
+
+.gs-chart-block.left {
+  border-right: solid 1px var(--grey-normal);
+}
+
+.gs-chart-block.right {
+  padding-left: 16px;
 }
 
 .gs-chart-box {
@@ -41,7 +58,23 @@
   width: 100%;
 }
 
+.gs-chart-block.bar .gs-chart-box {
+  margin-top: 30px;
+
+}
+
 .gs-chart-title {
   text-align: left;
   margin: unset;
+}
+
+@media screen and (max-width:1090px) {
+  .gs-tile.inline-charts {
+    flex-direction: column;
+  }
+
+  .gs-chart-block.left {
+    padding-right: unset;
+    border-right: unset;
+  }
 }
