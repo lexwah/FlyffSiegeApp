@@ -3,15 +3,12 @@ import './style.css';
 import { CaretRightOutlined } from '@ant-design/icons';
 import { BonusPointType, Player, PointGain } from '../../LogParser/models';
 import { labelForKillBonus } from '../../util/util';
-import { useDarkMode } from '../../ui-preferences/DarkMode';
 
 const KillFeedItem = ({
   killer, target, pointGain, isDeath
 }: {
   killer: Player, target: Player, pointGain?: PointGain, isDeath: boolean
 }): React.ReactElement => {
-  const dark = useDarkMode();
-
   const bonuses = pointGain.bonusTypes?.map((bonus, index) => {
     let bClass;
     switch (bonus) {
@@ -41,7 +38,7 @@ const KillFeedItem = ({
   }) || null;
 
   return (
-    <div className={`kf-item${dark ? ' dark' : ''}`}>
+    <div className="kf-item">
       <span className={`kf-killer${isDeath ? ' bad' : ' good'}`}>
         [
         {killer.guild}

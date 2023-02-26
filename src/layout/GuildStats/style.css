@@ -26,7 +26,7 @@
   padding: 15px;
 }
 
-.gs-tile.dark {
+.dark .gs-tile {
   box-shadow: none;
   background: var(--panel-bg-dark);
 }

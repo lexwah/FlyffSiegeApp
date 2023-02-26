@@ -11,3 +11,7 @@
 .icon-btn:hover {
   background: var(--grey-medium)
 }
+
+.dark .icon-btn:hover {
+  background: var(--panel-bg-dark);
+}

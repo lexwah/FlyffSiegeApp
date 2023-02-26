@@ -33,11 +33,11 @@
   -o-transition: all 0.15s linear;
 }
 
-.tab.dark {
+.dark .tab {
   color: #fff;
 }
 
-.tab.dark::after {
+.dark .tab::after {
   background: #fff;
 }
 

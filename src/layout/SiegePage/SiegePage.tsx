@@ -13,9 +13,11 @@ import './style.css';
 const SiegeView = ({
   pastedLog,
   onLogParsed,
+  isDarkMode
 }: {
   pastedLog?: string,
   onLogParsed: () => void,
+  isDarkMode?: boolean
 }): React.ReactElement => {
   const [ranking, setRanking] = React.useState<Player[]>([]);
   const [guilds, setGuilds] = React.useState<Guild[]>([]);
@@ -98,7 +100,13 @@ const SiegeView = ({
         killFeed={killFeed}
         guilds={guilds}
       />
-      <PlayerContent guilds={guilds} players={players} killFeed={killFeed} vods={vods} />
+      <PlayerContent
+        isDarkMode={isDarkMode}
+        guilds={guilds}
+        players={players}
+        killFeed={killFeed}
+        vods={vods}
+      />
     </div>
   );
 };

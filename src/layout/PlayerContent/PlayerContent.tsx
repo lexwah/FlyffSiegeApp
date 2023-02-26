@@ -23,13 +23,15 @@ const PlayerContent = ({
   players,
   killFeed,
   guilds = [],
-  vods = []
+  vods = [],
+  isDarkMode
 }:
 {
   players: Player[],
   killFeed: Kill[],
   guilds: Guild[],
-  vods: Vod[]
+  vods: Vod[],
+  isDarkMode?: boolean
 }): React.ReactElement => {
   const [filteredResults, setFilteredResults] = React.useState<Player[]>(players);
   const [searchTerm, setSearchTerm] = React.useState<string>('');
@@ -134,7 +136,7 @@ const PlayerContent = ({
           path="details/:playerName"
           element={<PlayerDetails players={players} killFeed={killFeed} />}
         />
-        <Route index element={<Overview killFeed={killFeed} guilds={guilds} />} />
+        <Route index element={<Overview killFeed={killFeed} guilds={guilds} isDarkMode={isDarkMode} />} />
       </Routes>
 
     </div>

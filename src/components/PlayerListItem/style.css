@@ -21,13 +21,13 @@ a.player:active {
   transform: scale(0.98);
 }
 
-a.player.dark {
+.dark a.player {
   background: var(--sidebar-bg-dark);
   box-shadow: none;
   color: #fff;
 }
 
-a.player.dark:hover {
+.dark a.playerhover {
   background: var(--sidebar-bg-dark);
 }
 
@@ -40,7 +40,7 @@ a.player.dark:hover {
 .player-name-block {
   display: flex;
   flex-direction: row;
-  align-items: flex-start;
+  align-items: center;
 }
 
 .player-name {
@@ -90,11 +90,11 @@ a.player.dark:hover {
   color: var(--danger-dark);
 }
 
-.player.dark .player-kills {
+.dark .player .player-kills {
   color: var(--success-light);
 }
 
-.player.dark .player-deaths {
+.dark .player .player-deaths {
   color: var(--danger-light);
 }
 

@@ -1,0 +1,50 @@
+/* 
+  From https://github.com/nzbin/three-dots
+*/
+.dot-typing {
+  position: relative;
+  left: -9999px;
+  width: 10px;
+  height: 10px;
+  border-radius: 5px;
+  background-color: var(--text-color);
+  color: var(--text-color);
+  box-shadow: 9984px 0 0 0 var(--text-color), 9999px 0 0 0 var(--text-color), 10014px 0 0 0 var(--text-color);
+  animation: dotTyping 1.5s infinite linear;
+}
+
+.dark .dot-typing {
+  color: #fff;
+  background-color: #fff;
+  box-shadow: 9984px 0 0 0 #fff, 9999px 0 0 0 #fff, 10014px 0 0 0 #fff;
+}
+
+@keyframes dotTyping {
+  0% {
+    box-shadow: 9984px 0 0 0 var(--text-color), 9999px 0 0 0 var(--text-color), 10014px 0 0 0 var(--text-color);
+  }
+
+  16.667% {
+    box-shadow: 9984px -10px 0 0 var(--text-color), 9999px 0 0 0 var(--text-color), 10014px 0 0 0 var(--text-color);
+  }
+
+  33.333% {
+    box-shadow: 9984px 0 0 0 var(--text-color), 9999px 0 0 0 var(--text-color), 10014px 0 0 0 var(--text-color);
+  }
+
+  50% {
+    box-shadow: 9984px 0 0 0 var(--text-color), 9999px -10px 0 0 var(--text-color), 10014px 0 0 0 var(--text-color);
+  }
+
+  66.667% {
+    box-shadow: 9984px 0 0 0 var(--text-color), 9999px 0 0 0 var(--text-color), 10014px 0 0 0 var(--text-color);
+  }
+
+  83.333% {
+    box-shadow: 9984px 0 0 0 var(--text-color), 9999px 0 0 0 var(--text-color), 10014px -10px 0 0 var(--text-color);
+  }
+
+  100% {
+    box-shadow: 9984px 0 0 0 var(--text-color), 9999px 0 0 0 var(--text-color), 10014px 0 0 0 var(--text-color);
+  }
+}

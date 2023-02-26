@@ -6,7 +6,6 @@ import { useParams } from 'react-router-dom';
 import LoadingIndicator from '../../components/LoadingIndicator/LoadingIndicator';
 import SelectMenu from '../../components/SelectMenu/SelectMenu';
 import { Guild, Kill, Player } from '../../LogParser/models';
-import { useDarkMode } from '../../ui-preferences/DarkMode';
 import './style.css';
 
 interface KillShare {
@@ -37,7 +36,6 @@ const GuildStats = ({
   const [isLoadingChartJs, setIsLoadingChartJs] = useState<boolean>(true);
   const [killsChartData, setKillsChartData] = useState<any>(null);
   const [deathsChartData, setDeathsChartData] = useState<any>(null);
-  const dark = useDarkMode();
   const [playerKillData, setPlayerKillData] = useState<any>(null);
   const [playerDeathData, setPlayerDeathData] = useState<any>(null);
 
@@ -318,7 +316,7 @@ const GuildStats = ({
           </div>
         ) : (
           <>
-            <div className={`gs-tile${dark ? ' dark' : ''} inline-charts`}>
+            <div className="gs-tile inline-charts">
               <div className="gs-chart-block left">
                 <h3 className="gs-chart-title">Kills on other Guilds</h3>
                 {
@@ -346,7 +344,7 @@ const GuildStats = ({
               </div>
             </div>
 
-            <div className={`gs-tile${dark ? ' dark' : ''} inline-charts`}>
+            <div className="gs-tile inline-charts">
               <div className="gs-chart-block bar left">
                 <h3 className="gs-chart-title">
                   Took down

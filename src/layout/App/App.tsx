@@ -4,18 +4,25 @@ import {
   Route, Routes, useNavigate
 } from 'react-router-dom';
 
+import DarkModeToggle from 'react-dark-mode-toggle';
 import ModalDialog from '../../components/ModalDialog/ModalDialog';
 import Button from '../../components/Button/Button';
 import Landing from '../Landing/Landing';
 import SiegeView from '../SiegePage/SiegePage';
 import Directory from '../Directory/Directory';
-import { useDarkMode } from '../../ui-preferences/DarkMode';
 
 const App = (): React.ReactElement => {
   const [isModalShown, setIsModalShown] = React.useState<boolean>(false);
   const [textFieldContent, setTextFieldContent] = React.useState<string | undefined>(undefined);
-  const isDarkMode = useDarkMode();
+  const [isDarkMode, setIsDarkMode] = React.useState<boolean>(false);
   const navigate = useNavigate();
+
+  React.useEffect(() => {
+    const darkModePreference = localStorage.getItem('darkMode');
+    if (darkModePreference !== undefined) {
+      setIsDarkMode(darkModePreference === 'true');
+    }
+  }, []);
 
   const onLogParsed = () => {
     setTextFieldContent(undefined);
@@ -40,8 +47,22 @@ const App = (): React.ReactElement => {
     navigate('/siege/new');
   };
 
+  const onDarkModeToggled = () => {
+    const newVal = !isDarkMode;
+    setIsDarkMode(newVal);
+
+    localStorage.setItem('darkMode', `${newVal}`);
+  };
+
   return (
     <div className={`app${isDarkMode ? ' dark' : ''}`}>
+      <div className="dark-mode-toggle-container">
+        <DarkModeToggle
+          onChange={onDarkModeToggled}
+          checked={isDarkMode}
+          size={50}
+        />
+      </div>
       <Routes>
         <Route
           path="/siege/:siegeId/*"
@@ -49,6 +70,7 @@ const App = (): React.ReactElement => {
             <SiegeView
               onLogParsed={onLogParsed}
               pastedLog={textFieldContent}
+              isDarkMode={isDarkMode}
             />
           )}
         />

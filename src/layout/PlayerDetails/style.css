@@ -15,6 +15,11 @@
   flex-grow: 1;
 }
 
+.dark .kf-block {
+  background: var(--panel-bg-dark);
+  box-shadow: none;
+}
+
 .player-details-top {
   display: flex;
   align-items: center;

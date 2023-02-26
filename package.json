@@ -22,6 +22,7 @@
     "react-confirm": "0.2.3",
     "react-copy-to-clipboard": "5.1.0",
     "react-custom-scrollbars": "4.2.1",
+    "react-dark-mode-toggle": "^0.2.0",
     "react-datepicker": "^4.8.0",
     "react-dom": "18.2.0",
     "react-popper": "^2.3.0",

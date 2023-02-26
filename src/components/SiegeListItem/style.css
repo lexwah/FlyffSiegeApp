@@ -25,6 +25,12 @@
   transform: scale(0.98);
 }
 
+.dark .sl-item {
+  box-shadow: none;
+  background: var(--panel-bg-dark);
+  color: #fff;
+}
+
 .sl-item-server {
   font-weight: 400;
 }

@@ -4,17 +4,16 @@ import React from 'react';
 import { Line } from 'react-chartjs-2';
 import KillFeedItem from '../../components/KillFeedItem/KillFeedItem';
 import { Guild, Kill } from '../../LogParser/models';
-import { useDarkMode } from '../../ui-preferences/DarkMode';
 import './style.css';
 
-const Overview = ({ killFeed, guilds }: {
+const Overview = ({ killFeed, guilds, isDarkMode }: {
   killFeed: Kill[],
-  guilds: Guild[]
+  guilds: Guild[],
+  isDarkMode?: boolean
 }): React.ReactElement => {
   const [dataSets, setDataSets] = React.useState([]);
   const [labels, setLabels] = React.useState<number[]>([]);
   const [isLoading, setIsLoading] = React.useState<boolean>(true);
-  const isDarkMode = useDarkMode();
 
   const loadChartJs = async () => {
     const defaultObj = (await import('chart.js'));
@@ -163,6 +162,14 @@ const Overview = ({ killFeed, guilds }: {
         },
         caretSize: 0
       },
+      legend: {
+        title: {
+          color: isDarkMode ? '#fff' : 'var(--text-color)'
+        },
+        labels: {
+          color: isDarkMode ? '#fff' : 'var(--text-color)'
+        }
+      }
 
     },
     interaction: {
@@ -175,13 +182,15 @@ const Overview = ({ killFeed, guilds }: {
         title: {
           text: 'Guild Point Totals',
           display: true,
-          family: 'Quicksand'
+          family: 'Quicksand',
+          color: isDarkMode ? '#fff' : 'var(--text-color)'
         },
       },
       x: {
         title: {
           text: 'Total kills over time in the Siege',
-          display: true
+          display: true,
+          color: isDarkMode ? '#fff' : 'var(--text-color)'
         },
         // suggestedMin: 1,
         // suggestedMax: killFeed.length,
