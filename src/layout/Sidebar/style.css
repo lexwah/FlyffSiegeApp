@@ -1,0 +1,178 @@
+.sidebar {
+  background: #fff;
+  width: 40%;
+  max-width: 250px;
+  padding: 0px 15px 0px 15px;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  overflow-y: auto;
+}
+
+.app.dark .sidebar {
+  background: var(--sidebar-bg-dark);
+}
+
+.guild-ranking-title {
+  margin-top: 0px;
+  text-align: center;
+  margin-bottom: 0px;
+}
+
+.server-date {
+  font-size: 14px;
+  text-align: center;
+}
+
+.guild-ranking-list {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  margin-top: 30px;
+}
+
+.sidebar-top {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
+
+.date-select {
+  padding: 9px 6px 9px 6px;
+  border-radius: 5px;
+  border: solid 1px #cccccc;
+  font-size: 16px;
+  color: var(--text-color);
+}
+
+.sidebar-label {
+  font-weight: 700;
+}
+
+.sidebar-home {
+  text-align: center;
+}
+
+.logo-top {
+  margin-top: 15px;
+  margin-bottom: 30px;
+  width: calc(100% - 90px);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+span.disclaimer {
+  margin-top: 30px;
+  font-size: 12px;
+  line-height: 16px;
+}
+
+.share-btn {
+  position: relative;
+  margin-top: 30px;
+}
+
+.share-btn-icon {
+  position: absolute;
+  left: 20px;
+  font-size: 18px;
+}
+
+.share-block {
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.sharing-switch {
+  margin-left: 15px;
+}
+
+.share-loading {
+  font-size: 16px;
+  margin-left: 5px;
+  animation-duration: 0.7s;
+}
+
+.credits {
+  flex-grow: 1;
+  display: flex;
+  align-items: flex-end;
+  width: 100%;
+  font-size: 12px;
+}
+
+.credits b {
+  color: #e52c1a;
+}
+
+.upload-btn {
+  margin-top: 30px;
+}
+
+.share-optional-block {
+  display: flex;
+  flex-direction: column;
+  border-top: solid 1px var(--grey-normal);
+  padding: 5px 0px 15px 0px;
+  border-bottom: solid 1px var(--grey-normal);
+  margin-top: 30px;
+}
+
+.share-optional-title {
+  background: #fff;
+  position: relative;
+  bottom: 18px;
+  width: 135px;
+  text-align: center;
+}
+
+.share-optional-label {
+  font-weight: 600;
+}
+
+.share-optional-label.date {
+  margin-top: 15px;
+}
+
+.share-optional-date-text {
+  font-size: 16px;
+  padding: 10px 5px;
+  border-radius: 5px;
+  border: solid 1px var(--grey-medium-dark);
+  width: 290px;
+}
+
+.share-optional-date-text.error {
+  border: solid 1px var(--danger-dark);
+}
+
+#server-select {
+  width: 100%;
+  max-width: 300px;
+}
+
+div.react-datepicker__header {
+  background-color: #fff;
+}
+
+div.react-datepicker {
+  border: none;
+  box-shadow: rgba(145, 158, 171, 0.7) 0px 12px 24px -4px;
+  border: solid 1px var(--grey-medium);
+}
+
+div.react-datepicker__day {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+
+div.react-datepicker__day:hover {
+  border-radius: 50%;
+}
+
+.share-desc-pw {
+  margin-bottom: 15px;
+}

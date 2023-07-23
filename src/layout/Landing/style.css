@@ -1,0 +1,34 @@
+.landing {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+.landing-logo {
+  width: 300px;
+  margin-bottom: 30px;
+}
+
+.landing-title {
+  margin-bottom: 30px;
+}
+
+.landing-btn {
+  padding: 15px 15px 15px 15px;
+  width: 200px;
+  font-size: 18px;
+}
+
+.landing-browse {
+  margin-top: 30px;
+  color: var(--button-primary);
+}
+
+.credits.credits-landing {
+  position: fixed !important;
+  bottom: 5px;
+  left: 5px;
+}

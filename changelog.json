@@ -1,0 +1,19 @@
+[
+  {
+    "version": "2nd July, 2023",
+    "items": [
+      "Improvement for Guild Siege timestamps in the graphs",
+      "Added timestamps to the kill feed list in Overview and Player Details",
+      "Fixed a bug that counted each kill twice for Sieges that had more than one VOD",
+      "Added a VOD count indicator for the catalog view"
+    ]
+  },
+  {
+    "version": "1st July, 2023",
+    "items": [
+      "Added 獨眼蝙蝠 to the server list",
+      "Added FWC to the server list",
+      "Added support for the new Guild Siege timestamps"
+    ]
+  }
+]

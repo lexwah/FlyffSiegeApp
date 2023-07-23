@@ -1,0 +1,38 @@
+.app-info-button {
+  font-size: 22px;
+  cursor: pointer;
+  transition: all 0.2s linear;
+  -webkit-transition: all 0.25s linear;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 5px;
+}
+
+.app-info-button:hover {
+  background: var(--grey-normal);
+}
+
+.dark .app-info-button:hover {
+  background: var(--sidebar-bg-dark);
+}
+
+.ai-tooltip {
+  z-index: 4;
+  background: var(--text-color);
+  opacity: 1;
+  font-size: 16px;
+}
+
+.ai-container {
+  display: flex;
+  flex-direction: column;
+  row-gap: 15px;
+}
+
+.ai-title {
+  font-size: 16px;
+  margin-bottom: 5px;
+}

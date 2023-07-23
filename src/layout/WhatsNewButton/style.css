@@ -1,0 +1,50 @@
+.whats-new-button {
+  font-size: 22px;
+  cursor: pointer;
+  transition: all 0.2s linear;
+  -webkit-transition: all 0.25s linear;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 5px;
+  position: relative;
+}
+
+.whats-new-button:hover {
+  background: var(--grey-normal);
+}
+
+.dark .whats-new-button:hover {
+  background: var(--sidebar-bg-dark);
+}
+
+.wn-tooltip {
+  z-index: 4;
+  background: var(--text-color);
+  opacity: 1;
+  font-size: 16px;
+}
+
+.wn-blip {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--danger);
+  position: absolute;
+  top: 6px;
+  left: 6px;
+}
+
+.wn-title {
+  font-size: 16px;
+}
+
+.wn-list {
+  display: flex;
+  flex-direction: column;
+  row-gap: 15px;
+  max-height: 400px;
+  overflow-y: auto;
+}

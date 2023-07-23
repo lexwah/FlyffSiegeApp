@@ -1,0 +1,3629 @@
+[18:20:12] [Overwhelmed] Arcturus(2 grade) → Attack [Genèse] Ken
+< Basic Point +2 >
+
+[18:20:12] [Astral] ZezetteV2(2 grade) → Attack [Gotei13] TenkFs
+< Basic Point +2 >
+
+[18:20:13] [Eternity] FookᅟMi(2 grade) → Attack [Happy Hometown] 半溪明月
+< Basic Point +2 >
+
+[18:20:14] [Justice] Majin(2 grade) → Attack [The Guild] Shoah
+< Basic Point +2 >
+
+[18:20:14] [Eternity] Fang(2 grade) → Attack [Happy Hometown] Evee
+< Basic Point +2 >
+
+[18:20:15] [Gotei13] Diaf(2 grade) → Attack [Happy Hometown] Guild Master rainy
+< Basic Point +2 >
+
+[18:20:15] [Eternity] Fang(2 grade) → Attack [Happy Hometown] 青霞仙子
+< Basic Point +2 >
+
+[18:20:15] [The Guild] Guild Master Dio(2 grade) → Attack [Justice] Guild Master Prydazo
+< Basic Point +2 >
+
+[18:20:16] [Justice] Majin(2 grade) → Attack [The Guild] Mococcino
+< Basic Point +2 >
+
+[18:20:16] [Hope] Guild Master Nika(3 grade) → Attack [Gotei13] Defender Tenk
+< Basic Point +2, Defender Bonus +1 >
+
+[18:20:16] [Eternity] Fang(3 grade) → Attack [Happy Hometown] Defender 云裳
+< Basic Point +2, Defender Bonus +1 >
+
+[18:20:17] [Hope] シーク(2 grade) → Attack [Gotei13] Arce
+< Basic Point +2 >
+
+[18:20:17] [Genèse] Argovie(3 grade) → Attack [Overwhelmed] Defender buki
+< Basic Point +2, Defender Bonus +1 >
+
+[18:20:18] [Eternity] FookᅟMi(2 grade) → Attack [Gotei13] Diaf
+< Basic Point +2 >
+
+[18:20:19] [Hope] JevanFynn(2 grade) → Attack [Gotei13] CamillaCabello
+< Basic Point +2 >
+
+[18:20:20] [Justice] Damagedieter(2 grade) → Attack [The Guild] YoYoHakusho
+< Basic Point +2 >
+
+[18:20:21] [Overwhelmed] Guild Master MeguminX(3 grade) → Attack [Genèse] Defender Skytecs
+< Basic Point +2, Defender Bonus +1 >
+
+[18:20:22] [The Guild] Guild Master Dio(2 grade) → Attack [Justice] Majin
+< Basic Point +2 >
+
+[18:20:22] [Hope] JevanFynn(2 grade) → Attack [Gotei13] Guild Master Shameless
+< Basic Point +2 >
+
+[18:20:24] [Happy Hometown] Breeze(2 grade) → Attack [Astral] Kekra
+< Basic Point +2 >
+
+[18:20:24] [Genèse] Argovie(2 grade) → Attack [Overwhelmed] Guild Master MeguminX
+< Basic Point +2 >
+
+[18:20:24] [Astral] Hørus(2 grade) → Attack [Happy Hometown] Breeze
+< Basic Point +2 >
+
+[18:20:25] [Eternity] Fang(2 grade) → Attack [Gotei13] TenkFs
+< Basic Point +2 >
+
+[18:20:26] [Overwhelmed] Arcturus(2 grade) → Attack [Genèse] Alpha57
+< Basic Point +2 >
+
+[18:20:26] [Hope] JevanFynn(2 grade) → Attack [Astral] ZezetteV2
+< Basic Point +2 >
+
+[18:20:28] [Genèse] Argovie(2 grade) → Attack [Overwhelmed] Rruru
+< Basic Point +2 >
+
+[18:20:28] [Eternity] FookᅟMi(2 grade) → Attack [Happy Hometown] luckyme
+< Basic Point +2 >
+
+[18:20:29] [Genèse] Sangoku(2 grade) → Attack [Overwhelmed] Psyko
+< Basic Point +2 >
+
+[18:20:29] [Hope] シーク(2 grade) → Attack [Happy Hometown] 崇凛丶
+< Basic Point +2 >
+
+[18:20:31] [The Guild] Hamburger(2 grade) → Attack [Gotei13] Arce
+< Basic Point +2 >
+
+[18:20:31] [Hope] JevanFynn(2 grade) → Attack [Happy Hometown] 水瓶座
+< Basic Point +2 >
+
+[18:20:32] [Eternity] Guild Master FookᅟYu(2 grade) → Attack [Happy Hometown] Popsicle
+< Basic Point +2 >
+
+[18:20:32] [The Guild] Hamburger(2 grade) → Attack [Gotei13] CamillaCabello
+< Basic Point +2 >
+
+[18:20:32] [Genèse] Sangoku(2 grade) → Attack [Gotei13] Diaf
+< Basic Point +2 >
+
+[18:20:32] [Hope] JevanFynn(2 grade) → Attack [Happy Hometown] 一枕清风
+< Basic Point +2 >
+
+[18:20:36] [Eternity] Fang(2 grade) → Attack [The Guild] Hit
+< Basic Point +2 >
+
+[18:20:36] [Genèse] Argovie(2 grade) → Attack [Overwhelmed] Blanc
+< Basic Point +2 >
+
+[18:20:36] [Astral] Siioz(3 grade) → Attack [Gotei13] Defender Tenk
+< Basic Point +2, Defender Bonus +1 >
+
+[18:20:36] [Hope] JevanFynn(2 grade) → Attack [Happy Hometown] 靠着墙壁晒太阳的过客
+< Basic Point +2 >
+
+[18:20:37] [Hope] Lea(2 grade) → Attack [Gotei13] TenkFs
+< Basic Point +2 >
+
+[18:20:37] [Overwhelmed] bochi(2 grade) → Attack [Astral] Guild Master McVP
+< Basic Point +2 >
+
+[18:20:38] [Overwhelmed] Kanji(2 grade) → Attack [Genèse] Mönch
+< Basic Point +2 >
+
+[18:20:38] [Overwhelmed] bochi(3 grade) → Attack [Genèse] Argovie
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:20:39] [Genèse] Sangoku(2 grade) → Attack [Overwhelmed] bochi
+< Basic Point +2 >
+
+[18:20:40] [Eternity] Guardiane(2 grade) → Attack [The Guild] MASHPOIESERVER
+< Basic Point +2 >
+
+[18:20:40] [Hope] シーク(2 grade) → Attack [Happy Hometown] 半溪明月
+< Basic Point +2 >
+
+[18:20:40] [The Guild] Hamburger(2 grade) → Attack [Happy Hometown] Evee
+< Basic Point +2 >
+
+[18:20:41] [Astral] xiv(2 grade) → Attack [Eternity] Guardiane
+< Basic Point +2 >
+
+[18:20:44] [Hope] Lea(3 grade) → Attack [Happy Hometown] Defender 云裳
+< Basic Point +2, Defender Bonus +1 >
+
+[18:20:44] [Justice] Damagedieter(2 grade) → Attack [The Guild] Guild Master Dio
+< Basic Point +2 >
+
+[18:20:44] [Justice] Stinki(3 grade) → Attack [The Guild] Defender Selene
+< Basic Point +2, Defender Bonus +1 >
+
+[18:20:44] [Eternity] Fang(2 grade) → Attack [Happy Hometown] 青霞仙子
+< Basic Point +2 >
+
+[18:20:44] [Astral] xiv(2 grade) → Attack [Gotei13] Guild Master Shameless
+< Basic Point +2 >
+
+[18:20:45] [Hope] Lea(2 grade) → Attack [Gotei13] Diaf
+< Basic Point +2 >
+
+[18:20:46] [Justice] C17(2 grade) → Attack [The Guild] Mew
+< Basic Point +2 >
+
+[18:20:46] [Genèse] Graouw(2 grade) → Attack [Overwhelmed] Mitochondria
+< Basic Point +2 >
+
+[18:20:46] [Hope] Guild Master Nika(2 grade) → Attack [Gotei13] CamillaCabello
+< Basic Point +2 >
+
+[18:20:46] [Hope] JevanFynn(2 grade) → Attack [Overwhelmed] Arcturus
+< Basic Point +2 >
+
+[18:20:47] [Genèse] Sangoku(2 grade) → Attack [Overwhelmed] Kanji
+< Basic Point +2 >
+
+[18:20:47] [Happy Hometown] Guild Master rainy(2 grade) → Attack [Gotei13] Arce
+< Basic Point +2 >
+
+[18:20:47] [Justice] Damagedieter(3 grade) → Attack [The Guild] Hamburger
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:20:47] [Eternity] Fang(2 grade) → Attack [Happy Hometown] Breeze
+< Basic Point +2 >
+
+[18:20:48] [Eternity] FookᅟMi(2 grade) → Attack [Happy Hometown] Guild Master rainy
+< Basic Point +2 >
+
+[18:20:49] [Hope] Guild Master Nika(2 grade) → Attack [Gotei13] TenkFs
+< Basic Point +2 >
+
+[18:20:49] [Justice] Madara(2 grade) → Attack [The Guild] heda
+< Basic Point +2 >
+
+[18:20:49] [Eternity] Fang(2 grade) → Attack [Astral] Hørus
+< Basic Point +2 >
+
+[18:20:50] [Eternity] Fang(2 grade) → Attack [Astral] xiv
+< Basic Point +2 >
+
+[18:20:50] [Eternity] Fang(2 grade) → Attack [Astral] ULQ
+< Basic Point +2 >
+
+[18:20:51] [Eternity] Fang(3 grade) → Attack [Astral] Defender Teraze
+< Basic Point +2, Defender Bonus +1 >
+
+[18:20:52] [Genèse] Sangoku(2 grade) → Attack [Overwhelmed] rqッ
+< Basic Point +2 >
+
+[18:20:52] [Eternity] Guild Master FookᅟYu(2 grade) → Attack [Happy Hometown] 崇凛丶
+< Basic Point +2 >
+
+[18:20:53] [Justice] Madara(2 grade) → Attack [Happy Hometown] luckyme
+< Basic Point +2 >
+
+[18:20:55] [Hope] Guild Master Nika(2 grade) → Attack [Genèse] Euridisse
+< Basic Point +2 >
+
+[18:20:55] [Eternity] Totk(2 grade) → Attack [The Guild] MagnusBane
+< Basic Point +2 >
+
+[18:20:56] [Justice] Damagedieter(3 grade) → Attack [Eternity] FookᅟMi
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:20:56] [Justice] C17(3 grade) → Attack [Gotei13] Defender Tenk
+< Basic Point +2, Defender Bonus +1 >
+
+[18:20:57] [Hope] シーク(2 grade) → Attack [Genèse] Hopleking
+< Basic Point +2 >
+
+[18:20:57] [Justice] Madara(2 grade) → Attack [Happy Hometown] 水瓶座
+< Basic Point +2 >
+
+[18:20:58] [Hope] Guild Master Nika(2 grade) → Attack [Overwhelmed] Ribcage
+< Basic Point +2 >
+
+[18:21:00] [The Guild] Pepperoni(2 grade) → Attack [Happy Hometown] 靠着墙壁晒太阳的过客
+< Basic Point +2 >
+
+[18:21:01] [Astral] Siioz(2 grade) → Attack [Overwhelmed] BaldMann
+< Basic Point +2 >
+
+[18:21:01] [Hope] Guild Master Nika(2 grade) → Attack [Overwhelmed] koki
+< Basic Point +2 >
+
+[18:21:01] [Justice] Stinki(2 grade) → Attack [Eternity] fettywap
+< Basic Point +2 >
+
+[18:21:01] [Hope] シーク(2 grade) → Attack [Genèse] Graouw
+< Basic Point +2 >
+
+[18:21:01] [The Guild] Shoah(2 grade) → Attack [Gotei13] Guild Master Shameless
+< Basic Point +2 >
+
+[18:21:01] [Eternity] Fang(2 grade) → Attack [Astral] McNurse
+< Basic Point +2 >
+
+[18:21:02] [The Guild] No(2 grade) → Attack [Happy Hometown] Popsicle
+< Basic Point +2 >
+
+[18:21:03] [Hope] Guild Master Nika(2 grade) → Attack [Overwhelmed] lMikel
+< Basic Point +2 >
+
+[18:21:05] [The Guild] Shoah(2 grade) → Attack [Gotei13] Arce
+< Basic Point +2 >
+
+[18:21:05] [Genèse] Sangoku(2 grade) → Attack [The Guild] Pepperoni
+< Basic Point +2 >
+
+[18:21:05] [Justice] Madara(2 grade) → Attack [Happy Hometown] 半溪明月
+< Basic Point +2 >
+
+[18:21:06] [Gotei13] CamillaCabello(2 grade) → Attack [The Guild] Shoah
+< Basic Point +2 >
+
+[18:21:07] [Astral] Shyray(2 grade) → Attack [Happy Hometown] 一枕清风
+< Basic Point +2 >
+
+[18:21:07] [Gotei13] TenkFs(2 grade) → Attack [Happy Hometown] Evee
+< Basic Point +2 >
+
+[18:21:08] [Hope] JevanFynn(2 grade) → Attack [Genèse] Pang
+< Basic Point +2 >
+
+[18:21:09] [Justice] Madara(2 grade) → Attack [Genèse] Wabi
+< Basic Point +2 >
+
+[18:21:09] [Hope] シーク(2 grade) → Attack [Gotei13] TenkFs
+< Basic Point +2 >
+
+[18:21:09] [Overwhelmed] Boy(2 grade) → Attack [Astral] Nefertiti
+< Basic Point +2 >
+
+[18:21:09] [Gotei13] Diaf(3 grade) → Attack [Happy Hometown] Defender 云裳
+< Basic Point +2, Defender Bonus +1 >
+
+[18:21:10] [Genèse] Sangoku(2 grade) → Attack [Overwhelmed] Boy
+< Basic Point +2 >
+
+[18:21:12] [Eternity] Totk(2 grade) → Attack [The Guild] ranger
+< Basic Point +2 >
+
+[18:21:13] [Justice] Madara(4 grade) → Attack [Genèse] Sangoku
+< Basic Point +2, Killing streak Bonus +2 >
+
+[18:21:13] [Justice] Madara(3 grade) → Attack [Overwhelmed] Defender buki
+< Basic Point +2, Defender Bonus +1 >
+
+[18:21:13] [Justice] bobele(2 grade) → Attack [Astral] Bitox
+< Basic Point +2 >
+
+[18:21:13] [Hope] Rizz(2 grade) → Attack [Gotei13] CamillaCabello
+< Basic Point +2 >
+
+[18:21:13] [Eternity] Bojaro(2 grade) → Attack [Happy Hometown] 青霞仙子
+< Basic Point +2 >
+
+[18:21:14] [The Guild] Mococcino(3 grade) → Attack [Gotei13] Defender Tenk
+< Basic Point +2, Defender Bonus +1 >
+
+[18:21:16] [Hope] JevanFynn(2 grade) → Attack [The Guild] No
+< Basic Point +2 >
+
+[18:21:17] [Astral] Siioz(2 grade) → Attack [The Guild] Lainy
+< Basic Point +2 >
+
+[18:21:17] [Genèse] Skyline(2 grade) → Attack [Overwhelmed] Rruru
+< Basic Point +2 >
+
+[18:21:17] [Hope] Guild Master Nika(2 grade) → Attack [Gotei13] Diaf
+< Basic Point +2 >
+
+[18:21:18] [Happy Hometown] Guild Master rainy(2 grade) → Attack [Justice] bobele
+< Basic Point +2 >
+
+[18:21:18] [Justice] C17(2 grade) → Attack [Happy Hometown] Guild Master rainy
+< Basic Point +2 >
+
+[18:21:18] [Astral] Shyray(2 grade) → Attack [Happy Hometown] Breeze
+< Basic Point +2 >
+
+[18:21:18] [Hope] シーク(2 grade) → Attack [The Guild] Mococcino
+< Basic Point +2 >
+
+[18:21:19] [Eternity] Fang(2 grade) → Attack [Happy Hometown] 崇凛丶
+< Basic Point +2 >
+
+[18:21:19] [Hope] シーク(2 grade) → Attack [Gotei13] Arce
+< Basic Point +2 >
+
+[18:21:19] [Justice] C17(2 grade) → Attack [Happy Hometown] luckyme
+< Basic Point +2 >
+
+[18:21:20] [Eternity] Totk(2 grade) → Attack [Astral] Xiana
+< Basic Point +2 >
+
+[18:21:21] [Justice] Damagedieter(2 grade) → Attack [Genèse] Skyline
+< Basic Point +2 >
+
+[18:21:21] [Hope] Guild Master Nika(2 grade) → Attack [Gotei13] TenkFs
+< Basic Point +2 >
+
+[18:21:22] [Justice] Madara(2 grade) → Attack [Happy Hometown] 水瓶座
+< Basic Point +2 >
+
+[18:21:23] [Eternity] Ariii(2 grade) → Attack [Astral] Zien
+< Basic Point +2 >
+
+[18:21:23] [Eternity] Fang(2 grade) → Attack [Astral] ULQUI
+< Basic Point +2 >
+
+[18:21:25] [The Guild] YoYoHakusho(2 grade) → Attack [Overwhelmed] Psyko
+< Basic Point +2 >
+
+[18:21:25] [Justice] Madara(2 grade) → Attack [Happy Hometown] 靠着墙壁晒太阳的过客
+< Basic Point +2 >
+
+[18:21:26] [Overwhelmed] Guild Master MeguminX(2 grade) → Attack [Genèse] Guild Master Ezz
+< Basic Point +2 >
+
+[18:21:27] [Overwhelmed] bochi(2 grade) → Attack [Genèse] Ken
+< Basic Point +2 >
+
+[18:21:27] [Justice] Madara(2 grade) → Attack [The Guild] Hit
+< Basic Point +2 >
+
+[18:21:28] [Hope] eimagi(2 grade) → Attack [Gotei13] CamillaCabello
+< Basic Point +2 >
+
+[18:21:28] [Eternity] Guild Master FookᅟYu(3 grade) → Attack [Astral] Siioz
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:21:30] [Overwhelmed] Mitochondria(2 grade) → Attack [Happy Hometown] 半溪明月
+< Basic Point +2 >
+
+[18:21:30] [Justice] Stinki(2 grade) → Attack [Genèse] Eren
+< Basic Point +2 >
+
+[18:21:30] [Hope] シーク(2 grade) → Attack [Overwhelmed] bochi
+< Basic Point +2 >
+
+[18:21:30] [Justice] C17(2 grade) → Attack [The Guild] Mew
+< Basic Point +2 >
+
+[18:21:31] [Overwhelmed] Mitochondria(2 grade) → Attack [Happy Hometown] 一枕清风
+< Basic Point +2 >
+
+[18:21:31] [Hope] シーク(2 grade) → Attack [Overwhelmed] Mitochondria
+< Basic Point +2 >
+
+[18:21:31] [Hope] JevanFynn(2 grade) → Attack [Gotei13] Arce
+< Basic Point +2 >
+
+[18:21:31] [Hope] Lea(2 grade) → Attack [Happy Hometown] Evee
+< Basic Point +2 >
+
+[18:21:32] [The Guild] Guild Master Dio(2 grade) → Attack [Happy Hometown] Popsicle
+< Basic Point +2 >
+
+[18:21:32] [Overwhelmed] Arcturus(5 grade) → Attack [Hope] シーク
+< Basic Point +2, Killing streak Bonus +3 >
+
+[18:21:32] [Astral] Shyray(2 grade) → Attack [The Guild] MASHPOIESERVER
+< Basic Point +2 >
+
+[18:21:33] [Justice] Madara(2 grade) → Attack [Genèse] Alpha57
+< Basic Point +2 >
+
+[18:21:34] [Hope] Lea(3 grade) → Attack [Happy Hometown] Defender 云裳
+< Basic Point +2, Defender Bonus +1 >
+
+[18:21:34] [The Guild] Guild Master Dio(2 grade) → Attack [Gotei13] TenkFs
+< Basic Point +2 >
+
+[18:21:34] [Eternity] Guild Master FookᅟYu(3 grade) → Attack [Gotei13] Defender Tenk
+< Basic Point +2, Defender Bonus +1 >
+
+[18:21:34] [Hope] Guild Master Nika(2 grade) → Attack [Overwhelmed] Arcturus
+< Basic Point +2 >
+
+[18:21:36] [Hope] JevanFynn(2 grade) → Attack [Astral] Guild Master McVP
+< Basic Point +2 >
+
+[18:21:37] [Justice] Misang(2 grade) → Attack [Happy Hometown] 青霞仙子
+< Basic Point +2 >
+
+[18:21:37] [Astral] Hørus(2 grade) → Attack [Genèse] SPARTACUS
+< Basic Point +2 >
+
+[18:21:40] [Justice] Madara(2 grade) → Attack [The Guild] Hamburger
+< Basic Point +2 >
+
+[18:21:41] [Justice] Misang(2 grade) → Attack [Gotei13] Diaf
+< Basic Point +2 >
+
+[18:21:41] [Hope] Guild Master Nika(2 grade) → Attack [Overwhelmed] Blanc
+< Basic Point +2 >
+
+[18:21:41] [Astral] ZezetteV2(2 grade) → Attack [Gotei13] CamillaCabello
+< Basic Point +2 >
+
+[18:21:42] [Eternity] Ariii(2 grade) → Attack [The Guild] YoYoHakusho
+< Basic Point +2 >
+
+[18:21:42] [Eternity] Guild Master FookᅟYu(2 grade) → Attack [Genèse] Argovie
+< Basic Point +2 >
+
+[18:21:42] [Justice] C17(2 grade) → Attack [The Guild] heda
+< Basic Point +2 >
+
+[18:21:42] [Happy Hometown] Guild Master rainy(2 grade) → Attack [Genèse] Euridisse
+< Basic Point +2 >
+
+[18:21:43] [Justice] Damagedieter(3 grade) → Attack [Genèse] Defender Skytecs
+< Basic Point +2, Defender Bonus +1 >
+
+[18:21:44] [Overwhelmed] rqッ(2 grade) → Attack [Happy Hometown] Guild Master rainy
+< Basic Point +2 >
+
+[18:21:44] [Justice] Madara(2 grade) → Attack [Happy Hometown] 崇凛丶
+< Basic Point +2 >
+
+[18:21:44] [Justice] Misang(2 grade) → Attack [Happy Hometown] luckyme
+< Basic Point +2 >
+
+[18:21:44] [Eternity] Fang(2 grade) → Attack [The Guild] MagnusBane
+< Basic Point +2 >
+
+[18:21:46] [Overwhelmed] rqッ(2 grade) → Attack [Gotei13] Arce
+< Basic Point +2 >
+
+[18:21:46] [Hope] Guild Master Nika(2 grade) → Attack [Overwhelmed] BaldMann
+< Basic Point +2 >
+
+[18:21:46] [The Guild] Guild Master Dio(2 grade) → Attack [Gotei13] TenkFs
+< Basic Point +2 >
+
+[18:21:47] [Astral] xiv(3 grade) → Attack [The Guild] Guild Master Dio
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:21:47] [Hope] Cük(2 grade) → Attack [Overwhelmed] rqッ
+< Basic Point +2 >
+
+[18:21:48] [Hope] Guild Master Nika(2 grade) → Attack [Happy Hometown] 水瓶座
+< Basic Point +2 >
+
+[18:21:49] [Gotei13] Tenk(2 grade) → Attack [Happy Hometown] 靠着墙壁晒太阳的过客
+< Basic Point +2 >
+
+[18:21:50] [Overwhelmed] Kanji(3 grade) → Attack [Gotei13] Defender Tenk
+< Basic Point +2, Defender Bonus +1 >
+
+[18:21:50] [Astral] ZezetteV2(2 grade) → Attack [Overwhelmed] Kanji
+< Basic Point +2 >
+
+[18:21:50] [Justice] C17(2 grade) → Attack [Happy Hometown] Breeze
+< Basic Point +2 >
+
+[18:21:51] [Overwhelmed] Ribcage(2 grade) → Attack [Genèse] Mönch
+< Basic Point +2 >
+
+[18:21:52] [Eternity] Fang(2 grade) → Attack [Astral] Kekra
+< Basic Point +2 >
+
+[18:21:52] [Justice] Stinki(2 grade) → Attack [Genèse] Hopleking
+< Basic Point +2 >
+
+[18:21:53] [Eternity] Fang(2 grade) → Attack [Astral] ZezetteV2
+< Basic Point +2 >
+
+[18:21:53] [Eternity] Fang(2 grade) → Attack [Astral] xiv
+< Basic Point +2 >
+
+[18:21:53] [The Guild] Selene(2 grade) → Attack [Gotei13] Diaf
+< Basic Point +2 >
+
+[18:21:53] [Hope] Guild Master Nika(2 grade) → Attack [Genèse] Graouw
+< Basic Point +2 >
+
+[18:21:54] [The Guild] Pepperoni(2 grade) → Attack [Genèse] Pang
+< Basic Point +2 >
+
+[18:21:55] [The Guild] Selene(2 grade) → Attack [Gotei13] CamillaCabello
+< Basic Point +2 >
+
+[18:21:55] [Hope] Guild Master Nika(2 grade) → Attack [Overwhelmed] koki
+< Basic Point +2 >
+
+[18:21:56] [Eternity] Ariii(2 grade) → Attack [Happy Hometown] 半溪明月
+< Basic Point +2 >
+
+[18:21:58] [The Guild] Selene(2 grade) → Attack [Gotei13] TenkFs
+< Basic Point +2 >
+
+[18:21:58] [Gotei13] Arce(2 grade) → Attack [Happy Hometown] Evee
+< Basic Point +2 >
+
+[18:22:00] [Justice] Stinki(2 grade) → Attack [Overwhelmed] Guild Master MeguminX
+< Basic Point +2 >
+
+[18:22:00] [Hope] Guild Master Nika(2 grade) → Attack [Overwhelmed] lMikel
+< Basic Point +2 >
+
+[18:22:00] [Justice] Madara(2 grade) → Attack [Gotei13] Arce
+< Basic Point +2 >
+
+[18:22:00] [The Guild] ranger(2 grade) → Attack [Overwhelmed] Ribcage
+< Basic Point +2 >
+
+[18:22:00] [Hope] Guild Master Nika(3 grade) → Attack [Justice] Misang
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:22:01] [Astral] Hørus(2 grade) → Attack [Happy Hometown] Popsicle
+< Basic Point +2 >
+
+[18:22:02] [Eternity] Totk(2 grade) → Attack [Happy Hometown] 一枕清风
+< Basic Point +2 >
+
+[18:22:02] [Hope] Guild Master Nika(3 grade) → Attack [Happy Hometown] Defender 云裳
+< Basic Point +2, Defender Bonus +1 >
+
+[18:22:03] [Eternity] Guild Master FookᅟYu(2 grade) → Attack [Astral] ULQ
+< Basic Point +2 >
+
+[18:22:05] [The Guild] Lainy(3 grade) → Attack [Astral] Shyray
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:22:05] [Eternity] Fang(2 grade) → Attack [Gotei13] Diaf
+< Basic Point +2 >
+
+[18:22:05] [Eternity] Fang(2 grade) → Attack [Astral] McNurse
+< Basic Point +2 >
+
+[18:22:05] [Justice] Madara(2 grade) → Attack [Happy Hometown] 青霞仙子
+< Basic Point +2 >
+
+[18:22:06] [Justice] Madara(2 grade) → Attack [Overwhelmed] Boy
+< Basic Point +2 >
+
+[18:22:06] [Hope] Guild Master Nika(3 grade) → Attack [Gotei13] Defender Tenk
+< Basic Point +2, Defender Bonus +1 >
+
+[18:22:06] [Eternity] Guild Master FookᅟYu(2 grade) → Attack [Genèse] Ken
+< Basic Point +2 >
+
+[18:22:07] [The Guild] Selene(2 grade) → Attack [Astral] Nefertiti
+< Basic Point +2 >
+
+[18:22:08] [The Guild] Shoah(2 grade) → Attack [Gotei13] CamillaCabello
+< Basic Point +2 >
+
+[18:22:08] [Genèse] Wabi(3 grade) → Attack [Overwhelmed] Defender buki
+< Basic Point +2, Defender Bonus +1 >
+
+[18:22:09] [The Guild] Pepperoni(2 grade) → Attack [Gotei13] TenkFs
+< Basic Point +2 >
+
+[18:22:11] [Justice] Madara(2 grade) → Attack [Genèse] Eren
+< Basic Point +2 >
+
+[18:22:11] [Eternity] Guild Master FookᅟYu(2 grade) → Attack [Genèse] Skyline
+< Basic Point +2 >
+
+[18:22:12] [Justice] Madara(2 grade) → Attack [Happy Hometown] Guild Master rainy
+< Basic Point +2 >
+
+[18:22:12] [Gotei13] Arce(2 grade) → Attack [The Guild] ranger
+< Basic Point +2 >
+
+[18:22:13] [Overwhelmed] bochi(2 grade) → Attack [Happy Hometown] luckyme
+< Basic Point +2 >
+
+[18:22:13] [Eternity] LeStrangler(2 grade) → Attack [Genèse] Guild Master Ezz
+< Basic Point +2 >
+
+[18:22:14] [The Guild] Lainy(2 grade) → Attack [Gotei13] Arce
+< Basic Point +2 >
+
+[18:22:14] [Hope] JevanFynn(2 grade) → Attack [Happy Hometown] 崇凛丶
+< Basic Point +2 >
+
+[18:22:14] [Eternity] Fang(2 grade) → Attack [Genèse] Wabi
+< Basic Point +2 >
+
+[18:22:14] [Justice] C17(2 grade) → Attack [Happy Hometown] 水瓶座
+< Basic Point +2 >
+
+[18:22:14] [Overwhelmed] bochi(2 grade) → Attack [Justice] Ringmaster
+< Basic Point +2 >
+
+[18:22:16] [Happy Hometown] 靠着墙壁晒太阳的过客(2 grade) → Attack [Astral] Bitox
+< Basic Point +2 >
+
+[18:22:16] [Hope] Rizz(2 grade) → Attack [The Guild] No
+< Basic Point +2 >
+
+[18:22:17] [Eternity] Fang(2 grade) → Attack [Happy Hometown] 靠着墙壁晒太阳的过客
+< Basic Point +2 >
+
+[18:22:17] [Justice] C17(2 grade) → Attack [Astral] Xiana
+< Basic Point +2 >
+
+[18:22:17] [Eternity] Bojaro(2 grade) → Attack [Overwhelmed] bochi
+< Basic Point +2 >
+
+[18:22:18] [Overwhelmed] Mitochondria(2 grade) → Attack [Gotei13] Diaf
+< Basic Point +2 >
+
+[18:22:20] [Eternity] Guild Master FookᅟYu(3 grade) → Attack [Gotei13] Defender Tenk
+< Basic Point +2, Defender Bonus +1 >
+
+[18:22:20] [Eternity] Fang(2 grade) → Attack [Genèse] Alpha57
+< Basic Point +2 >
+
+[18:22:21] [Justice] AngelicBabe(2 grade) → Attack [Gotei13] CamillaCabello
+< Basic Point +2 >
+
+[18:22:21] [Overwhelmed] Arcturus(2 grade) → Attack [Astral] Zien
+< Basic Point +2 >
+
+[18:22:22] [Eternity] Ariii(2 grade) → Attack [Astral] ULQUI
+< Basic Point +2 >
+
+[18:22:23] [Eternity] Ariii(2 grade) → Attack [The Guild] Pepperoni
+< Basic Point +2 >
+
+[18:22:24] [Justice] C17(2 grade) → Attack [Happy Hometown] 半溪明月
+< Basic Point +2 >
+
+[18:22:24] [Overwhelmed] Blanc(2 grade) → Attack [Happy Hometown] Evee
+< Basic Point +2 >
+
+[18:22:26] [Gotei13] Arce(3 grade) → Attack [The Guild] Mococcino
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[18:22:26] [Eternity] Guild Master FookᅟYu(2 grade) → Attack [Genèse] Argovie
+< Basic Point +2 >
+
+[18:22:26] [Justice] Madara(2 grade) → Attack [Genèse] Sangoku
+< Basic Point +2 >
+
+[18:22:27] [Hope] Cük(4 grade) → Attack [The Guild] Defender Selene
+< Basic Point +2, Defender Bonus +1, Killing streak Bonus +1 >
+
+[18:22:28] [Overwhelmed] Rruru(3 grade) → Attack [Happy Hometown] Defender 云裳
+< Basic Point +2, Defender Bonus +1 >
+
+[18:22:28] [Eternity] Ariii(2 grade) → Attack [The Guild] Shoah
+< Basic Point +2 >
+
+[18:22:28] [Justice] AngelicBabe(2 grade) → Attack [Happy Hometown] Popsicle
+< Basic Point +2 >
+
+[18:22:28] [Justice] Damagedieter(2 grade) → Attack [Happy Hometown] Breeze
+< Basic Point +2 >
+
+[18:22:29] [Eternity] Guild Master FookᅟYu(2 grade) → Attack [Genèse] Euridisse
+< Basic Point +2 >
+
+[18:22:29] [Overwhelmed] Mitochondria(2 grade) → Attack [Gotei13] Diaf
+< Basic Point +2 >
+
+[18:22:29] [Overwhelmed] Mitochondria(2 grade) → Attack [Astral] Guild Master McVP
+< Basic Point +2 >
+
+[18:22:30] [Justice] Damagedieter(3 grade) → Attack [Astral] Defender Teraze
+< Basic Point +2, Defender Bonus +1 >
+
+[18:22:31] [Justice] Stinki(2 grade) → Attack [Astral] Siioz
+< Basic Point +2 >
+
+[18:22:32] [Eternity] LeStrangler(5 grade) → Attack [Hope] JevanFynn
+< Basic Point +2, Killing streak Bonus +3 >
+
+[18:22:33] [Hope] Guild Master Nika(2 grade) → Attack [Happy Hometown] 一枕清风
+< Basic Point +2 >
+
+[18:22:34] [Justice] Stinki(2 grade) → Attack [Astral] Kekra
+< Basic Point +2 >
+
+[18:22:36] [Justice] Noutix(2 grade) → Attack [Astral] Hørus
+< Basic Point +2 >
+
+[18:22:36] [Genèse] Skytecs(2 grade) → Attack [The Guild] Lainy
+< Basic Point +2 >
+
+[18:22:36] [Justice] C17(2 grade) → Attack [Gotei13] CamillaCabello
+< Basic Point +2 >
+
+[18:22:37] [Eternity] Guild Master FookᅟYu(2 grade) → Attack [Happy Hometown] Guild Master rainy
+< Basic Point +2 >
+
+[18:22:37] [Eternity] Ariii(2 grade) → Attack [Genèse] SPARTACUS
+< Basic Point +2 >
+
+[18:22:38] [Justice] Madara(2 grade) → Attack [Happy Hometown] 青霞仙子
+< Basic Point +2 >
+
+[18:22:41] [Eternity] Ariii(3 grade) → Attack [Gotei13] Defender Tenk
+< Basic Point +2, Defender Bonus +1 >
+
+[18:22:41] [Justice] Madara(2 grade) → Attack [Happy Hometown] luckyme
+< Basic Point +2 >
+
+[18:22:41] [Justice] C17(2 grade) → Attack [Happy Hometown] 崇凛丶
+< Basic Point +2 >
+
+[18:22:41] [Astral] ZezetteV2(2 grade) → Attack [Gotei13] Arce
+< Basic Point +2 >
+
+[18:22:43] [Justice] C17(2 grade) → Attack [Gotei13] Diaf
+< Basic Point +2 >
+
+[18:22:43] [Hope] Rizz(2 grade) → Attack [Genèse] Pang
+< Basic Point +2 >
+
+[18:22:43] [Genèse] Skytecs(2 grade) → Attack [Happy Hometown] 水瓶座
+< Basic Point +2 >
+
+[18:22:44] [Eternity] Totk(2 grade) → Attack [Happy Hometown] 靠着墙壁晒太阳的过客
+< Basic Point +2 >
+
+[18:22:44] [Eternity] Guild Master FookᅟYu(2 grade) → Attack [The Guild] Hit
+< Basic Point +2 >
+
+[18:22:45] [Overwhelmed] Rruru(2 grade) → Attack [Genèse] Mönch
+< Basic Point +2 >
+
+[18:22:45] [Overwhelmed] Mitochondria(2 grade) → Attack [Astral] McNurse
+< Basic Point +2 >
+
+[18:22:46] [The Guild] YoYoHakusho(2 grade) → Attack [Astral] Shyray
+< Basic Point +2 >
+
+[18:22:47] [Astral] ULQ(2 grade) → Attack [The Guild] MASHPOIESERVER
+< Basic Point +2 >
+
+[18:22:48] [Eternity] Fang(2 grade) → Attack [The Guild] heda
+< Basic Point +2 >
+
+[18:22:48] [Genèse] Skytecs(2 grade) → Attack [The Guild] Mew
+< Basic Point +2 >
+
+[18:22:48] [The Guild] YoYoHakusho(2 grade) → Attack [Astral] xiv
+< Basic Point +2 >
+
+[18:22:49] [Overwhelmed] BaldMann(2 grade) → Attack [Astral] ZezetteV2
+< Basic Point +2 >
+
+[18:22:49] [Astral] ULQ(2 grade) → Attack [The Guild] YoYoHakusho
+< Basic Point +2 >
+
+[18:22:49] [Hope] Guild Master Nika(2 grade) → Attack [Astral] Nefertiti
+< Basic Point +2 >
+
+[18:22:50] [Hope] Guild Master Nika(2 grade) → Attack [Genèse] Ken
+< Basic Point +2 >
+
+[18:22:51] [Justice] Madara(2 grade) → Attack [Happy Hometown] Evee
+< Basic Point +2 >
+
+[18:22:51] [Hope] Lea(2 grade) → Attack [Happy Hometown] 半溪明月
+< Basic Point +2 >
+
+[18:22:52] [Overwhelmed] Mitochondria(3 grade) → Attack [Happy Hometown] Defender 云裳
+< Basic Point +2, Defender Bonus +1 >
+
+[18:22:53] [Overwhelmed] Mitochondria(2 grade) → Attack [Happy Hometown] Popsicle
+< Basic Point +2 >
+
+[18:22:53] [Justice] Madara(2 grade) → Attack [The Guild] Hamburger
+< Basic Point +2 >
+
+[18:22:54] [Hope] Rizz(2 grade) → Attack [Astral] ULQ
+< Basic Point +2 >
+
+[18:22:56] [Justice] Madara(2 grade) → Attack [The Guild] MagnusBane
+< Basic Point +2 >
+
+[18:22:56] [Overwhelmed] Mitochondria(2 grade) → Attack [Astral] Bitox
+< Basic Point +2 >
+
+[18:22:56] [Justice] Stinki(2 grade) → Attack [Genèse] Eren
+< Basic Point +2 >
+
+[18:22:57] [Eternity] Fang(2 grade) → Attack [Genèse] Skyline
+< Basic Point +2 >
+
+[18:22:57] [Hope] Rizz(2 grade) → Attack [Genèse] Hopleking
+< Basic Point +2 >
+
+[18:22:59] [Hope] PsychicSquare(5 grade) → Attack [Eternity] Fang
+< Basic Point +2, Killing streak Bonus +3 >
+
+[18:22:59] [Hope] Guild Master Nika(4 grade) → Attack [Genèse] Defender Skytecs
+< Basic Point +2, Defender Bonus +1, Killing streak Bonus +1 >
+
+[18:22:59] [Overwhelmed] Mitochondria(2 grade) → Attack [The Guild] No
+< Basic Point +2 >
+
+[18:23:00] [Eternity] Bojaro(2 grade) → Attack [Hope] PsychicSquare
+< Basic Point +2 >
+
+[18:23:01] [Overwhelmed] Blanc(2 grade) → Attack [Astral] Guild Master McVP
+< Basic Point +2 >
+
+[18:23:01] [The Guild] ranger(2 grade) → Attack [Astral] Xiana
+< Basic Point +2 >
+
+[18:23:04] [Happy Hometown] Guild Master rainy(4 grade) → Attack [Overwhelmed] Mitochondria
+< Basic Point +2, Killing streak Bonus +2 >
+
+[18:23:04] [Overwhelmed] Rruru(2 grade) → Attack [Happy Hometown] Guild Master rainy
+< Basic Point +2 >
+
+[18:23:04] [The Guild] ranger(2 grade) → Attack [Astral] ULQUI
+< Basic Point +2 >
+
+[18:23:05] [Justice] AngelicBabe(2 grade) → Attack [Happy Hometown] 青霞仙子
+< Basic Point +2 >
+
+[18:23:05] [Justice] Damagedieter(2 grade) → Attack [Happy Hometown] luckyme
+< Basic Point +2 >
+
+[18:23:05] [The Guild] Guild Master Dio(3 grade) → Attack [Gotei13] Defender Tenk
+< Basic Point +2, Defender Bonus +1 >
+
+[18:23:06] [Justice] Damagedieter(2 grade) → Attack [Happy Hometown] 崇凛丶
+< Basic Point +2 >
+
+[18:23:07] [Justice] Noutix(2 grade) → Attack [Astral] Zien
+< Basic Point +2 >
+
+[18:23:08] [Justice] Stinki(2 grade) → Attack [Genèse] Graouw
+< Basic Point +2 >
+
+[18:23:09] [Overwhelmed] Psyko(2 grade) → Attack [Happy Hometown] 一枕清风
+< Basic Point +2 >
+
+[18:23:09] [The Guild] Mococcino(2 grade) → Attack [Happy Hometown] Breeze
+< Basic Point +2 >
+
+[18:23:11] [Eternity] Ariii(4 grade) → Attack [Hope] Rizz
+< Basic Point +2, Killing streak Bonus +2 >
+
+[18:23:11] [Justice] AngelicBabe(2 grade) → Attack [Genèse] Argovie
+< Basic Point +2 >
+
+[18:23:12] [Overwhelmed] BaldMann(2 grade) → Attack [Genèse] Alpha57
+< Basic Point +2 >
+
+[18:23:14] [Genèse] Wabi(2 grade) → Attack [Astral] Siioz
+< Basic Point +2 >
+
+[18:23:16] [Astral] Hørus(2 grade) → Attack [Genèse] Guild Master Ezz
+< Basic Point +2 >
+
+[18:23:17] [The Guild] Selene(2 grade) → Attack [Happy Hometown] 靠着墙壁晒太阳的过客
+< Basic Point +2 >
+
+[18:23:17] [Happy Hometown] 半溪明月(2 grade) → Attack [Astral] McNurse
+< Basic Point +2 >
+
+[18:23:18] [Genèse] Wabi(2 grade) → Attack [Astral] Hørus
+< Basic Point +2 >
+
+[18:23:19] [The Guild] Guild Master Dio(2 grade) → Attack [Genèse] Sangoku
+< Basic Point +2 >
+
+[18:23:19] [Happy Hometown] 水瓶座(2 grade) → Attack [The Guild] Pepperoni
+< Basic Point +2 >
+
+[18:23:19] [Justice] Stinki(2 grade) → Attack [Happy Hometown] Evee
+< Basic Point +2 >
+
+[18:23:22] [Eternity] Ariii(2 grade) → Attack [Happy Hometown] 半溪明月
+< Basic Point +2 >
+
+[18:23:22] [The Guild] Mococcino(2 grade) → Attack [Happy Hometown] 水瓶座
+< Basic Point +2 >
+
+[18:23:23] [Hope] Lea(3 grade) → Attack [Happy Hometown] Defender 云裳
+< Basic Point +2, Defender Bonus +1 >
+
+[18:23:23] [Eternity] Ariii(2 grade) → Attack [Happy Hometown] Popsicle
+< Basic Point +2 >
+
+[18:23:24] [Justice] AngelicBabe(2 grade) → Attack [Genèse] Pang
+< Basic Point +2 >
+
+[18:23:26] [Justice] Madara(2 grade) → Attack [Genèse] Euridisse
+< Basic Point +2 >
+
+[18:23:28] [Justice] Damagedieter(2 grade) → Attack [The Guild] Shoah
+< Basic Point +2 >
+
+[18:23:31] [Hope] Lea(2 grade) → Attack [The Guild] Lainy
+< Basic Point +2 >
+
+[18:23:31] [Astral] xiv(2 grade) → Attack [Genèse] Wabi
+< Basic Point +2 >
+
+[18:23:32] [Happy Hometown] Guild Master rainy(2 grade) → Attack [Genèse] Ken
+< Basic Point +2 >
+
+[18:23:34] [Overwhelmed] Psyko(2 grade) → Attack [Astral] Shyray
+< Basic Point +2 >
+
+[18:23:34] [Genèse] SPARTACUS(2 grade) → Attack [Happy Hometown] Guild Master rainy
+< Basic Point +2 >
+
+[18:23:34] [Hope] Vegeta(2 grade) → Attack [Eternity] LeStrangler
+< Basic Point +2 >
+
+[18:23:34] [Justice] Madara(2 grade) → Attack [Happy Hometown] 青霞仙子
+< Basic Point +2 >
+
+[18:23:34] [Eternity] Ariii(2 grade) → Attack [The Guild] Guild Master Dio
+< Basic Point +2 >
+
+[18:23:34] [Overwhelmed] rqッ(2 grade) → Attack [Astral] xiv
+< Basic Point +2 >
+
+[18:23:35] [Justice] Noutix(2 grade) → Attack [Overwhelmed] Blanc
+< Basic Point +2 >
+
+[18:23:36] [The Guild] Mococcino(2 grade) → Attack [Happy Hometown] 一枕清风
+< Basic Point +2 >
+
+[18:23:36] [Eternity] Ariii(3 grade) → Attack [The Guild] Defender Selene
+< Basic Point +2, Defender Bonus +1 >
+
+[18:23:37] [Astral] ZezetteV2(2 grade) → Attack [The Guild] ranger
+< Basic Point +2 >
+
+[18:23:37] [Overwhelmed] BaldMann(3 grade) → Attack [Justice] Noutix
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:23:37] [Justice] Madara(2 grade) → Attack [Happy Hometown] 崇凛丶
+< Basic Point +2 >
+
+[18:23:37] [Overwhelmed] Rruru(2 grade) → Attack [Happy Hometown] luckyme
+< Basic Point +2 >
+
+[18:23:38] [The Guild] Mococcino(5 grade) → Attack [Justice] Damagedieter
+< Basic Point +2, Killing streak Bonus +3 >
+
+[18:23:39] [Justice] Madara(3 grade) → Attack [The Guild] Mococcino
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:23:41] [Justice] AngelicBabe(5 grade) → Attack [Eternity] Guild Master FookᅟYu
+< Basic Point +2, Killing streak Bonus +3 >
+
+[18:23:43] [Happy Hometown] Breeze(2 grade) → Attack [Astral] Kekra
+< Basic Point +2 >
+
+[18:23:44] [Eternity] Ariii(5 grade) → Attack [Justice] C17
+< Basic Point +2, Killing streak Bonus +3 >
+
+[18:23:44] [Overwhelmed] Arcturus(2 grade) → Attack [Astral] ZezetteV2
+< Basic Point +2 >
+
+[18:23:46] [Happy Hometown] Evee(2 grade) → Attack [Astral] Bitox
+< Basic Point +2 >
+
+[18:23:46] [The Guild] MASHPOIESERVER(2 grade) → Attack [Astral] Nefertiti
+< Basic Point +2 >
+
+[18:23:47] [Genèse] SPARTACUS(2 grade) → Attack [Happy Hometown] Breeze
+< Basic Point +2 >
+
+[18:23:47] [Eternity] Ariii(2 grade) → Attack [The Guild] heda
+< Basic Point +2 >
+
+[18:23:48] [Overwhelmed] BaldMann(2 grade) → Attack [Happy Hometown] Evee
+< Basic Point +2 >
+
+[18:23:48] [Genèse] Hopleking(2 grade) → Attack [Happy Hometown] 半溪明月
+< Basic Point +2 >
+
+[18:23:48] [Astral] ULQ(2 grade) → Attack [The Guild] MASHPOIESERVER
+< Basic Point +2 >
+
+[18:23:49] [Genèse] Eren(3 grade) → Attack [Happy Hometown] Defender 云裳
+< Basic Point +2, Defender Bonus +1 >
+
+[18:23:50] [Genèse] Skytecs(2 grade) → Attack [The Guild] Hit
+< Basic Point +2 >
+
+[18:23:50] [Hope] Lea(2 grade) → Attack [Justice] Logout
+< Basic Point +2 >
+
+[18:23:50] [Hope] Vegeta(2 grade) → Attack [Eternity] Lyra
+< Basic Point +2 >
+
+[18:23:51] [The Guild] YoYoHakusho(3 grade) → Attack [Eternity] Bojaro
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:23:52] [Hope] Guild Master Nika(2 grade) → Attack [Happy Hometown] 靠着墙壁晒太阳的过客
+< Basic Point +2 >
+
+[18:23:52] [Overwhelmed] Rruru(4 grade) → Attack [Justice] AngelicBabe
+< Basic Point +2, Killing streak Bonus +2 >
+
+[18:23:52] [Overwhelmed] rqッ(2 grade) → Attack [Happy Hometown] 水瓶座
+< Basic Point +2 >
+
+[18:23:53] [Astral] ULQ(2 grade) → Attack [The Guild] YoYoHakusho
+< Basic Point +2 >
+
+[18:23:54] [Genèse] Skytecs(2 grade) → Attack [The Guild] Mew
+< Basic Point +2 >
+
+[18:23:56] [Overwhelmed] Arcturus(2 grade) → Attack [Eternity] Steffen
+< Basic Point +2 >
+
+[18:23:57] [Hope] Cük(2 grade) → Attack [Justice] Seepferdchen
+< Basic Point +2 >
+
+[18:23:57] [Astral] ULQ(2 grade) → Attack [The Guild] Hamburger
+< Basic Point +2 >
+
+[18:23:58] [Justice] Madara(2 grade) → Attack [Astral] Xiana
+< Basic Point +2 >
+
+[18:23:59] [Overwhelmed] BaldMann(6 grade) → Attack [Justice] Defender Stinki
+< Basic Point +2, Defender Bonus +1, Killing streak Bonus +3 >
+
+[18:23:59] [Genèse] Skytecs(2 grade) → Attack [Overwhelmed] Kanji
+< Basic Point +2 >
+
+[18:24:00] [Eternity] Ariii(5 grade) → Attack [Justice] Madara
+< Basic Point +2, Killing streak Bonus +3 >
+
+[18:24:00] [Overwhelmed] Psyko(2 grade) → Attack [The Guild] MagnusBane
+< Basic Point +2 >
+
+[18:24:00] [Hope] Guild Master Nika(2 grade) → Attack [Astral] ULQUI
+< Basic Point +2 >
+
+[18:24:02] [Overwhelmed] Rruru(2 grade) → Attack [Happy Hometown] Guild Master rainy
+< Basic Point +2 >
+
+[18:24:02] [Eternity] Whiskey(2 grade) → Attack [Justice] Seductive
+< Basic Point +2 >
+
+[18:24:02] [Astral] ULQ(2 grade) → Attack [Happy Hometown] Popsicle
+< Basic Point +2 >
+
+[18:24:04] [Genèse] Skytecs(2 grade) → Attack [Astral] Guild Master McVP
+< Basic Point +2 >
+
+[18:24:05] [Overwhelmed] Rruru(2 grade) → Attack [Justice] ありがとう
+< Basic Point +2 >
+
+[18:24:05] [Eternity] Ariii(2 grade) → Attack [Happy Hometown] 青霞仙子
+< Basic Point +2 >
+
+[18:24:05] [Overwhelmed] rqッ(2 grade) → Attack [Happy Hometown] luckyme
+< Basic Point +2 >
+
+[18:24:05] [Hope] Vegeta(2 grade) → Attack [Happy Hometown] 崇凛丶
+< Basic Point +2 >
+
+[18:24:06] [Astral] ULQ(2 grade) → Attack [Eternity] RecepTayyipErdogan
+< Basic Point +2 >
+
+[18:24:09] [Eternity] Ariii(2 grade) → Attack [Justice] Guild Master Prydazo
+< Basic Point +2 >
+
+[18:24:10] [Eternity] KemalKilicdaroglu(3 grade) → Attack [Overwhelmed] rqッ
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:24:10] [Genèse] Eren(2 grade) → Attack [Eternity] Kumi
+< Basic Point +2 >
+
+[18:24:11] [Genèse] Skytecs(3 grade) → Attack [Astral] Defender Teraze
+< Basic Point +2, Defender Bonus +1 >
+
+[18:24:11] [The Guild] Shoah(2 grade) → Attack [Happy Hometown] 一枕清风
+< Basic Point +2 >
+
+[18:24:12] [Justice] Misang(2 grade) → Attack [Overwhelmed] koki
+< Basic Point +2 >
+
+[18:24:13] [The Guild] Guild Master Dio(2 grade) → Attack [Astral] McNurse
+< Basic Point +2 >
+
+[18:24:14] [Hope] Cük(5 grade) → Attack [Eternity] Ariii
+< Basic Point +2, Killing streak Bonus +3 >
+
+[18:24:14] [Justice] Majin(4 grade) → Attack [Overwhelmed] BaldMann
+< Basic Point +2, Killing streak Bonus +2 >
+
+[18:24:14] [Justice] Majin(2 grade) → Attack [Happy Hometown] Evee
+< Basic Point +2 >
+
+[18:24:15] [Overwhelmed] Arcturus(4 grade) → Attack [Astral] ULQ
+< Basic Point +2, Killing streak Bonus +2 >
+
+[18:24:16] [Hope] Guild Master Nika(5 grade) → Attack [Eternity] Defender Totk
+< Basic Point +2, Defender Bonus +1, Killing streak Bonus +2 >
+
+[18:24:17] [Genèse] Eren(3 grade) → Attack [Happy Hometown] Defender 云裳
+< Basic Point +2, Defender Bonus +1 >
+
+[18:24:18] [Hope] Cük(2 grade) → Attack [Justice] Misang
+< Basic Point +2 >
+
+[18:24:19] [Eternity] Guardiane(2 grade) → Attack [Happy Hometown] 半溪明月
+< Basic Point +2 >
+
+[18:24:21] [Eternity] Guardiane(2 grade) → Attack [Happy Hometown] 靠着墙壁晒太阳的过客
+< Basic Point +2 >
+
+[18:24:22] [Happy Hometown] Breeze(2 grade) → Attack [Astral] Zien
+< Basic Point +2 >
+
+[18:24:22] [Genèse] SPARTACUS(2 grade) → Attack [Astral] Siioz
+< Basic Point +2 >
+
+[18:24:23] [Justice] Majin(3 grade) → Attack [Overwhelmed] Psyko
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:24:23] [Astral] Hørus(2 grade) → Attack [Happy Hometown] Breeze
+< Basic Point +2 >
+
+[18:24:23] [Hope] Vegeta(2 grade) → Attack [Justice] Damagedieter
+< Basic Point +2 >
+
+[18:24:24] [Justice] Noutix(2 grade) → Attack [The Guild] Guild Master Dio
+< Basic Point +2 >
+
+[18:24:25] [Genèse] Eren(2 grade) → Attack [Overwhelmed] lMikel
+< Basic Point +2 >
+
+[18:24:27] [Hope] Cük(3 grade) → Attack [Justice] Majin
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:24:27] [Genèse] Skyline(4 grade) → Attack [Overwhelmed] Rruru
+< Basic Point +2, Killing streak Bonus +2 >
+
+[18:24:29] [The Guild] Pepperoni(2 grade) → Attack [Happy Hometown] Guild Master rainy
+< Basic Point +2 >
+
+[18:24:29] [Eternity] Guardiane(2 grade) → Attack [Astral] Shyray
+< Basic Point +2 >
+
+[18:24:30] [Eternity] Fang(2 grade) → Attack [Happy Hometown] Popsicle
+< Basic Point +2 >
+
+[18:24:30] [Overwhelmed] Ribcage(3 grade) → Attack [Eternity] Guardiane
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:24:32] [The Guild] No(2 grade) → Attack [Happy Hometown] 水瓶座
+< Basic Point +2 >
+
+[18:24:34] [The Guild] Selene(2 grade) → Attack [Astral] Bitox
+< Basic Point +2 >
+
+[18:24:35] [Overwhelmed] Guild Master MeguminX(2 grade) → Attack [Happy Hometown] 青霞仙子
+< Basic Point +2 >
+
+[18:24:36] [Hope] Vegeta(2 grade) → Attack [Eternity] Fang
+< Basic Point +2 >
+
+[18:24:36] [The Guild] Lainy(2 grade) → Attack [Happy Hometown] 崇凛丶
+< Basic Point +2 >
+
+[18:24:41] [Genèse] Hopleking(2 grade) → Attack [Astral] Nefertiti
+< Basic Point +2 >
+
+[18:24:41] [Overwhelmed] Arcturus(2 grade) → Attack [Astral] Kekra
+< Basic Point +2 >
+
+[18:24:41] [Genèse] Skytecs(2 grade) → Attack [Justice] bobele
+< Basic Point +2 >
+
+[18:24:42] [Overwhelmed] Boy(2 grade) → Attack [Astral] xiv
+< Basic Point +2 >
+
+[18:24:42] [Hope] Cük(2 grade) → Attack [Eternity] KemalKilicdaroglu
+< Basic Point +2 >
+
+[18:24:43] [The Guild] Shoah(2 grade) → Attack [Justice] Ringmaster
+< Basic Point +2 >
+
+[18:24:43] [Eternity] LeStrangler(2 grade) → Attack [Happy Hometown] 靠着墙壁晒太阳的过客
+< Basic Point +2 >
+
+[18:24:43] [Overwhelmed] Boy(2 grade) → Attack [Happy Hometown] luckyme
+< Basic Point +2 >
+
+[18:24:44] [Justice] Noutix(2 grade) → Attack [The Guild] Shoah
+< Basic Point +2 >
+
+[18:24:45] [The Guild] Selene(2 grade) → Attack [Astral] Xiana
+< Basic Point +2 >
+
+[18:24:45] [Overwhelmed] Boy(2 grade) → Attack [Justice] AngelicBabe
+< Basic Point +2 >
+
+[18:24:46] [The Guild] Lainy(2 grade) → Attack [Justice] Noutix
+< Basic Point +2 >
+
+[18:24:47] [Genèse] Eren(2 grade) → Attack [Happy Hometown] 一枕清风
+< Basic Point +2 >
+
+[18:24:47] [Overwhelmed] bochi(2 grade) → Attack [Genèse] Hopleking
+< Basic Point +2 >
+
+[18:24:48] [Happy Hometown] Breeze(2 grade) → Attack [Justice] Logout
+< Basic Point +2 >
+
+[18:24:48] [Eternity] Guild Master FookᅟYu(2 grade) → Attack [Happy Hometown] Popsicle
+< Basic Point +2 >
+
+[18:24:49] [Overwhelmed] Ribcage(5 grade) → Attack [Genèse] Defender Skytecs
+< Basic Point +2, Defender Bonus +1, Killing streak Bonus +2 >
+
+[18:24:49] [Genèse] Skyline(2 grade) → Attack [Overwhelmed] bochi
+< Basic Point +2 >
+
+[18:24:50] [Overwhelmed] Arcturus(2 grade) → Attack [Happy Hometown] 水瓶座
+< Basic Point +2 >
+
+[18:24:51] [Eternity] FookᅟMi(2 grade) → Attack [Happy Hometown] Breeze
+< Basic Point +2 >
+
+[18:24:51] [The Guild] ranger(2 grade) → Attack [Astral] Hørus
+< Basic Point +2 >
+
+[18:24:52] [Hope] Guild Master Nika(2 grade) → Attack [Eternity] Whiskey
+< Basic Point +2 >
+
+[18:24:53] [Overwhelmed] Guild Master MeguminX(3 grade) → Attack [Genèse] SPARTACUS
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:24:54] [The Guild] ranger(2 grade) → Attack [Astral] Guild Master McVP
+< Basic Point +2 >
+
+[18:24:55] [The Guild] Selene(2 grade) → Attack [Astral] ULQUI
+< Basic Point +2 >
+
+[18:24:56] [Justice] Madara(2 grade) → Attack [Astral] McNurse
+< Basic Point +2 >
+
+[18:24:57] [Genèse] Skyline(2 grade) → Attack [Justice] C17
+< Basic Point +2 >
+
+[18:24:59] [Eternity] LeStrangler(2 grade) → Attack [Justice] Madara
+< Basic Point +2 >
+
+[18:25:00] [Overwhelmed] Arcturus(3 grade) → Attack [Justice] Defender Stinki
+< Basic Point +2, Defender Bonus +1 >
+
+[18:25:01] [Hope] Lea(2 grade) → Attack [Happy Hometown] 一枕清风
+< Basic Point +2 >
+
+[18:25:01] [Eternity] Guild Master FookᅟYu(2 grade) → Attack [The Guild] No
+< Basic Point +2 >
+
+[18:25:01] [Overwhelmed] Guild Master MeguminX(2 grade) → Attack [Justice] ありがとう
+< Basic Point +2 >
+
+[18:25:03] [Eternity] Guild Master FookᅟYu(2 grade) → Attack [Justice] Seepferdchen
+< Basic Point +2 >
+
+[18:25:04] [Hope] Guild Master Nika(2 grade) → Attack [Happy Hometown] Breeze
+< Basic Point +2 >
+
+[18:25:06] [The Guild] Lainy(2 grade) → Attack [Justice] Seductive
+< Basic Point +2 >
+
+[18:25:07] [Hope] Vegeta(2 grade) → Attack [Eternity] fettywap
+< Basic Point +2 >
+
+[18:25:11] [Overwhelmed] Boy(2 grade) → Attack [Astral] Shyray
+< Basic Point +2 >
+
+[18:25:11] [Eternity] Bojaro(2 grade) → Attack [The Guild] ranger
+< Basic Point +2 >
+
+[18:25:12] [Eternity] Guild Master FookᅟYu(2 grade) → Attack [The Guild] Mococcino
+< Basic Point +2 >
+
+[18:25:12] [Overwhelmed] Arcturus(2 grade) → Attack [Astral] ULQ
+< Basic Point +2 >
+
+[18:25:13] [Astral] Siioz(3 grade) → Attack [Overwhelmed] Defender buki
+< Basic Point +2, Defender Bonus +1 >
+
+[18:25:13] [Eternity] Guild Master FookᅟYu(3 grade) → Attack [The Guild] Lainy
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:25:14] [Hope] Vegeta(2 grade) → Attack [Astral] ZezetteV2
+< Basic Point +2 >
+
+[18:25:16] [Eternity] LeStrangler(2 grade) → Attack [The Guild] Pepperoni
+< Basic Point +2 >
+
+[18:25:17] [Eternity] FookᅟMi(2 grade) → Attack [The Guild] heda
+< Basic Point +2 >
+
+[18:25:17] [Justice] Majin(2 grade) → Attack [Overwhelmed] Mitochondria
+< Basic Point +2 >
+
+[18:25:19] [Eternity] Guild Master FookᅟYu(4 grade) → Attack [The Guild] Defender Selene
+< Basic Point +2, Defender Bonus +1, Killing streak Bonus +1 >
+
+[18:25:20] [Overwhelmed] Ribcage(2 grade) → Attack [Justice] bobele
+< Basic Point +2 >
+
+[18:25:20] [Justice] Guild Master Prydazo(3 grade) → Attack [Overwhelmed] Ribcage
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:25:22] [Justice] Damagedieter(4 grade) → Attack [Overwhelmed] Arcturus
+< Basic Point +2, Killing streak Bonus +2 >
+
+[18:25:23] [Genèse] Alpha57(2 grade) → Attack [Astral] Bitox
+< Basic Point +2 >
+
+[18:25:23] [Eternity] LeStrangler(3 grade) → Attack [Genèse] Skyline
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:25:24] [Astral] Siioz(3 grade) → Attack [Overwhelmed] Guild Master MeguminX
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:25:24] [Justice] Ringmaster(3 grade) → Attack [Overwhelmed] Boy
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:25:25] [Hope] Guild Master Nika(2 grade) → Attack [Eternity] Lyra
+< Basic Point +2 >
+
+[18:25:28] [Genèse] Argovie(3 grade) → Attack [Eternity] LeStrangler
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:25:30] [Justice] Damagedieter(2 grade) → Attack [Overwhelmed] Blanc
+< Basic Point +2 >
+
+[18:25:31] [Justice] AngelicBabe(2 grade) → Attack [The Guild] MagnusBane
+< Basic Point +2 >
+
+[18:25:32] [Hope] Cük(2 grade) → Attack [Eternity] Steffen
+< Basic Point +2 >
+
+[18:25:33] [The Guild] Hamburger(2 grade) → Attack [Astral] Nefertiti
+< Basic Point +2 >
+
+[18:25:35] [Justice] Guild Master Prydazo(2 grade) → Attack [Overwhelmed] rqッ
+< Basic Point +2 >
+
+[18:25:35] [Hope] Guild Master Nika(2 grade) → Attack [The Guild] Hit
+< Basic Point +2 >
+
+[18:25:35] [Eternity] Bojaro(2 grade) → Attack [Genèse] Alpha57
+< Basic Point +2 >
+
+[18:25:37] [Eternity] Guild Master FookᅟYu(2 grade) → Attack [The Guild] Hamburger
+< Basic Point +2 >
+
+[18:25:37] [Overwhelmed] Kanji(2 grade) → Attack [Astral] Kekra
+< Basic Point +2 >
+
+[18:25:37] [Justice] Guild Master Prydazo(2 grade) → Attack [The Guild] Mew
+< Basic Point +2 >
+
+[18:25:39] [Justice] AngelicBabe(2 grade) → Attack [Overwhelmed] koki
+< Basic Point +2 >
+
+[18:25:41] [Astral] xiv(4 grade) → Attack [Eternity] Guild Master FookᅟYu
+< Basic Point +2, Killing streak Bonus +2 >
+
+[18:25:41] [Justice] Guild Master Prydazo(2 grade) → Attack [The Guild] YoYoHakusho
+< Basic Point +2 >
+
+[18:25:43] [Eternity] Kumi(2 grade) → Attack [Overwhelmed] lMikel
+< Basic Point +2 >
+
+[18:25:45] [Hope] Cük(2 grade) → Attack [Eternity] Ariii
+< Basic Point +2 >
+
+[18:25:46] [Hope] Guild Master Nika(2 grade) → Attack [Eternity] FookᅟMi
+< Basic Point +2 >
+
+[18:25:47] [Justice] Damagedieter(2 grade) → Attack [Overwhelmed] BaldMann
+< Basic Point +2 >
+
+[18:25:48] [Overwhelmed] Kanji(2 grade) → Attack [Astral] Xiana
+< Basic Point +2 >
+
+[18:25:49] [Astral] Siioz(2 grade) → Attack [Eternity] Bojaro
+< Basic Point +2 >
+
+[18:25:50] [Genèse] Argovie(2 grade) → Attack [Eternity] Kumi
+< Basic Point +2 >
+
+[18:25:51] [Astral] xiv(2 grade) → Attack [Overwhelmed] Rruru
+< Basic Point +2 >
+
+[18:25:51] [Hope] Guild Master Nika(2 grade) → Attack [Eternity] RecepTayyipErdogan
+< Basic Point +2 >
+
+[18:25:52] [Genèse] Argovie(2 grade) → Attack [The Guild] Guild Master Dio
+< Basic Point +2 >
+
+[18:25:53] [Astral] Hørus(2 grade) → Attack [Overwhelmed] bochi
+< Basic Point +2 >
+
+[18:25:56] [Astral] Hørus(2 grade) → Attack [The Guild] Mococcino
+< Basic Point +2 >
+
+[18:25:57] [The Guild] MASHPOIESERVER(2 grade) → Attack [Genèse] Graouw
+< Basic Point +2 >
+
+[18:25:58] [Justice] Damagedieter(3 grade) → Attack [Genèse] Argovie
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:25:59] [Eternity] Fang(2 grade) → Attack [The Guild] No
+< Basic Point +2 >
+
+[18:25:59] [Eternity] Fang(2 grade) → Attack [Overwhelmed] Kanji
+< Basic Point +2 >
+
+[18:25:59] [Eternity] Fang(2 grade) → Attack [Genèse] Guild Master Ezz
+< Basic Point +2 >
+
+[18:25:59] [Hope] Vegeta(2 grade) → Attack [Eternity] Guardiane
+< Basic Point +2 >
+
+[18:25:59] [Astral] xiv(3 grade) → Attack [Overwhelmed] Defender buki
+< Basic Point +2, Defender Bonus +1 >
+
+[18:25:59] [Eternity] Fang(4 grade) → Attack [Genèse] Eren
+< Basic Point +2, Killing streak Bonus +2 >
+
+[18:26:00] [Justice] Guild Master Prydazo(2 grade) → Attack [Overwhelmed] Mitochondria
+< Basic Point +2 >
+
+[18:26:00] [The Guild] MASHPOIESERVER(2 grade) → Attack [Genèse] Sangoku
+< Basic Point +2 >
+
+[18:26:02] [Eternity] Fang(2 grade) → Attack [Genèse] Mönch
+< Basic Point +2 >
+
+[18:26:04] [Justice] Ringmaster(2 grade) → Attack [Eternity] fettywap
+< Basic Point +2 >
+
+[18:26:04] [Hope] Guild Master Nika(2 grade) → Attack [Overwhelmed] Psyko
+< Basic Point +2 >
+
+[18:26:06] [Eternity] KemalKilicdaroglu(2 grade) → Attack [The Guild] ranger
+< Basic Point +2 >
+
+[18:26:07] [Eternity] Whiskey(2 grade) → Attack [The Guild] Shoah
+< Basic Point +2 >
+
+[18:26:08] [Hope] Guild Master Nika(3 grade) → Attack [Eternity] Defender Totk
+< Basic Point +2, Defender Bonus +1 >
+
+[18:26:09] [Hope] Cük(2 grade) → Attack [The Guild] Pepperoni
+< Basic Point +2 >
+
+[18:26:10] [The Guild] Lainy(4 grade) → Attack [Eternity] Fang
+< Basic Point +2, Killing streak Bonus +2 >
+
+[18:26:12] [Justice] Damagedieter(2 grade) → Attack [Astral] Zien
+< Basic Point +2 >
+
+[18:26:15] [Justice] Damagedieter(2 grade) → Attack [Overwhelmed] Ribcage
+< Basic Point +2 >
+
+[18:26:16] [Genèse] Skytecs(2 grade) → Attack [Overwhelmed] Blanc
+< Basic Point +2 >
+
+[18:26:16] [Justice] Majin(2 grade) → Attack [The Guild] Lainy
+< Basic Point +2 >
+
+[18:26:16] [Hope] Vegeta(2 grade) → Attack [The Guild] heda
+< Basic Point +2 >
+
+[18:26:20] [Justice] Guild Master Prydazo(2 grade) → Attack [Eternity] Whiskey
+< Basic Point +2 >
+
+[18:26:20] [Hope] Cük(2 grade) → Attack [Eternity] LeStrangler
+< Basic Point +2 >
+
+[18:26:20] [Overwhelmed] Boy(3 grade) → Attack [Astral] xiv
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:26:20] [Astral] Hørus(2 grade) → Attack [Eternity] Lyra
+< Basic Point +2 >
+
+[18:26:21] [Eternity] KemalKilicdaroglu(3 grade) → Attack [The Guild] Defender Selene
+< Basic Point +2, Defender Bonus +1 >
+
+[18:26:22] [Justice] Damagedieter(3 grade) → Attack [Astral] Defender Teraze
+< Basic Point +2, Defender Bonus +1 >
+
+[18:26:23] [Justice] AngelicBabe(3 grade) → Attack [Astral] Siioz
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:26:23] [Genèse] Ken(2 grade) → Attack [Eternity] KemalKilicdaroglu
+< Basic Point +2 >
+
+[18:26:24] [Overwhelmed] rqッ(2 grade) → Attack [The Guild] MagnusBane
+< Basic Point +2 >
+
+[18:26:24] [Overwhelmed] Arcturus(2 grade) → Attack [The Guild] MASHPOIESERVER
+< Basic Point +2 >
+
+[18:26:26] [Justice] Damagedieter(2 grade) → Attack [Overwhelmed] Boy
+< Basic Point +2 >
+
+[18:26:26] [Hope] Guild Master Nika(2 grade) → Attack [Eternity] Steffen
+< Basic Point +2 >
+
+[18:26:27] [Hope] I9hdkill(2 grade) → Attack [Astral] ULQUI
+< Basic Point +2 >
+
+[18:26:28] [Justice] Misang(2 grade) → Attack [Eternity] Guild Master FookᅟYu
+< Basic Point +2 >
+
+[18:26:29] [Genèse] Skytecs(2 grade) → Attack [Overwhelmed] lMikel
+< Basic Point +2 >
+
+[18:26:29] [Overwhelmed] Guild Master MeguminX(2 grade) → Attack [The Guild] Hit
+< Basic Point +2 >
+
+[18:26:31] [Justice] AngelicBabe(2 grade) → Attack [Overwhelmed] koki
+< Basic Point +2 >
+
+[18:26:32] [Hope] Cük(2 grade) → Attack [Astral] Guild Master McVP
+< Basic Point +2 >
+
+[18:26:33] [Justice] Ringmaster(2 grade) → Attack [Astral] McNurse
+< Basic Point +2 >
+
+[18:26:34] [The Guild] Hamburger(3 grade) → Attack [Justice] AngelicBabe
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:26:35] [Genèse] Skytecs(2 grade) → Attack [Overwhelmed] Guild Master MeguminX
+< Basic Point +2 >
+
+[18:26:36] [Justice] Damagedieter(2 grade) → Attack [The Guild] Hamburger
+< Basic Point +2 >
+
+[18:26:37] [Genèse] Skytecs(2 grade) → Attack [The Guild] Mew
+< Basic Point +2 >
+
+[18:26:38] [Justice] Majin(2 grade) → Attack [Overwhelmed] Arcturus
+< Basic Point +2 >
+
+[18:26:40] [Genèse] Skytecs(2 grade) → Attack [Eternity] Kumi
+< Basic Point +2 >
+
+[18:26:40] [Justice] Misang(2 grade) → Attack [Overwhelmed] rqッ
+< Basic Point +2 >
+
+[18:26:40] [Eternity] FookᅟMi(3 grade) → Attack [Astral] Hørus
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:26:40] [Justice] Majin(2 grade) → Attack [The Guild] Guild Master Dio
+< Basic Point +2 >
+
+[18:26:40] [The Guild] YoYoHakusho(2 grade) → Attack [Astral] Shyray
+< Basic Point +2 >
+
+[18:26:43] [Genèse] Wabi(2 grade) → Attack [Overwhelmed] bochi
+< Basic Point +2 >
+
+[18:26:44] [Hope] Guild Master Nika(2 grade) → Attack [The Guild] Mococcino
+< Basic Point +2 >
+
+[18:26:45] [Justice] Guild Master Prydazo(2 grade) → Attack [Astral] Bitox
+< Basic Point +2 >
+
+[18:26:46] [Astral] ULQ(2 grade) → Attack [The Guild] YoYoHakusho
+< Basic Point +2 >
+
+[18:26:48] [Justice] Guild Master Prydazo(2 grade) → Attack [Overwhelmed] BaldMann
+< Basic Point +2 >
+
+[18:26:48] [Overwhelmed] Rruru(2 grade) → Attack [Astral] ULQ
+< Basic Point +2 >
+
+[18:26:49] [Justice] Misang(2 grade) → Attack [Astral] Nefertiti
+< Basic Point +2 >
+
+[18:26:50] [Hope] Guild Master Nika(2 grade) → Attack [Overwhelmed] Rruru
+< Basic Point +2 >
+
+[18:26:50] [Genèse] Skytecs(4 grade) → Attack [Justice] Guild Master Prydazo
+< Basic Point +2, Killing streak Bonus +2 >
+
+[18:26:51] [Justice] Noutix(2 grade) → Attack [Genèse] Euridisse
+< Basic Point +2 >
+
+[18:26:52] [Justice] Damagedieter(2 grade) → Attack [The Guild] No
+< Basic Point +2 >
+
+[18:26:53] [Genèse] Wabi(2 grade) → Attack [The Guild] Shoah
+< Basic Point +2 >
+
+[18:26:55] [Hope] Guild Master Nika(2 grade) → Attack [Astral] Xiana
+< Basic Point +2 >
+
+[18:26:55] [Eternity] Ariii(2 grade) → Attack [Genèse] Pang
+< Basic Point +2 >
+
+[18:26:56] [Hope] I9hdkill(3 grade) → Attack [Overwhelmed] Defender buki
+< Basic Point +2, Defender Bonus +1 >
+
+[18:26:58] [Astral] ZezetteV2(2 grade) → Attack [Overwhelmed] Kanji
+< Basic Point +2 >
+
+[18:26:58] [Justice] Damagedieter(2 grade) → Attack [Overwhelmed] Mitochondria
+< Basic Point +2 >
+
+[18:26:59] [Eternity] Bojaro(2 grade) → Attack [Overwhelmed] Psyko
+< Basic Point +2 >
+
+[18:27:00] [The Guild] ranger(2 grade) → Attack [Astral] Kekra
+< Basic Point +2 >
+
+[18:27:00] [Hope] Guild Master Nika(2 grade) → Attack [Eternity] fettywap
+< Basic Point +2 >
+
+[18:27:02] [Eternity] Guardiane(2 grade) → Attack [Genèse] Wabi
+< Basic Point +2 >
+
+[18:27:03] [Hope] Vegeta(2 grade) → Attack [Eternity] FookᅟMi
+< Basic Point +2 >
+
+[18:27:05] [Hope] Guild Master Nika(2 grade) → Attack [Eternity] Guardiane
+< Basic Point +2 >
+
+[18:27:06] [Astral] xiv(2 grade) → Attack [The Guild] ranger
+< Basic Point +2 >
+
+[18:27:06] [Overwhelmed] Blanc(2 grade) → Attack [The Guild] MagnusBane
+< Basic Point +2 >
+
+[18:27:10] [Astral] ZezetteV2(2 grade) → Attack [Justice] Logout
+< Basic Point +2 >
+
+[18:27:10] [Genèse] Hopleking(2 grade) → Attack [Overwhelmed] lMikel
+< Basic Point +2 >
+
+[18:27:11] [Justice] Damagedieter(2 grade) → Attack [Astral] ZezetteV2
+< Basic Point +2 >
+
+[18:27:12] [Genèse] Skytecs(2 grade) → Attack [Eternity] Ariii
+< Basic Point +2 >
+
+[18:27:13] [Hope] Guild Master Nika(2 grade) → Attack [Eternity] Bojaro
+< Basic Point +2 >
+
+[18:27:15] [Hope] Lea(2 grade) → Attack [Eternity] RecepTayyipErdogan
+< Basic Point +2 >
+
+[18:27:15] [Genèse] Alpha57(2 grade) → Attack [Overwhelmed] koki
+< Basic Point +2 >
+
+[18:27:17] [Hope] Cük(2 grade) → Attack [Genèse] Alpha57
+< Basic Point +2 >
+
+[18:27:18] [Eternity] Fang(2 grade) → Attack [Astral] ULQUI
+< Basic Point +2 >
+
+[18:27:19] [Astral] xiv(2 grade) → Attack [Overwhelmed] Ribcage
+< Basic Point +2 >
+
+[18:27:20] [Justice] Damagedieter(2 grade) → Attack [Overwhelmed] Blanc
+< Basic Point +2 >
+
+[18:27:20] [Overwhelmed] Guild Master MeguminX(2 grade) → Attack [Justice] Noutix
+< Basic Point +2 >
+
+[18:27:20] [Eternity] Fang(2 grade) → Attack [The Guild] Hit
+< Basic Point +2 >
+
+[18:27:21] [Genèse] SPARTACUS(2 grade) → Attack [Overwhelmed] Boy
+< Basic Point +2 >
+
+[18:27:22] [Justice] C17(2 grade) → Attack [Overwhelmed] Guild Master MeguminX
+< Basic Point +2 >
+
+[18:27:23] [The Guild] heda(2 grade) → Attack [Astral] Guild Master McVP
+< Basic Point +2 >
+
+[18:27:24] [The Guild] MASHPOIESERVER(2 grade) → Attack [Eternity] Whiskey
+< Basic Point +2 >
+
+[18:27:25] [Eternity] LeStrangler(2 grade) → Attack [Astral] xiv
+< Basic Point +2 >
+
+[18:27:26] [Overwhelmed] Arcturus(2 grade) → Attack [Genèse] SPARTACUS
+< Basic Point +2 >
+
+[18:27:27] [The Guild] Lainy(2 grade) → Attack [Eternity] Fang
+< Basic Point +2 >
+
+[18:27:31] [The Guild] MASHPOIESERVER(2 grade) → Attack [Overwhelmed] bochi
+< Basic Point +2 >
+
+[18:27:35] [Hope] Vegeta(2 grade) → Attack [Genèse] Graouw
+< Basic Point +2 >
+
+[18:27:35] [Hope] Cük(2 grade) → Attack [Genèse] Hopleking
+< Basic Point +2 >
+
+[18:27:36] [Astral] Hørus(3 grade) → Attack [Eternity] Defender Totk
+< Basic Point +2, Defender Bonus +1 >
+
+[18:27:36] [Astral] Hørus(2 grade) → Attack [Eternity] KemalKilicdaroglu
+< Basic Point +2 >
+
+[18:27:36] [The Guild] heda(3 grade) → Attack [Overwhelmed] Defender buki
+< Basic Point +2, Defender Bonus +1 >
+
+[18:27:36] [Hope] Lea(2 grade) → Attack [Astral] Bitox
+< Basic Point +2 >
+
+[18:27:37] [Astral] Hørus(2 grade) → Attack [Eternity] LeStrangler
+< Basic Point +2 >
+
+[18:27:37] [The Guild] Hamburger(2 grade) → Attack [Eternity] Lyra
+< Basic Point +2 >
+
+[18:27:38] [Overwhelmed] BaldMann(3 grade) → Attack [Astral] Hørus
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:27:39] [Justice] C17(2 grade) → Attack [Overwhelmed] rqッ
+< Basic Point +2 >
+
+[18:27:40] [Astral] Shyray(2 grade) → Attack [Overwhelmed] BaldMann
+< Basic Point +2 >
+
+[18:27:40] [Justice] Majin(2 grade) → Attack [Genèse] Argovie
+< Basic Point +2 >
+
+[18:27:44] [Eternity] Steffen(2 grade) → Attack [Astral] Shyray
+< Basic Point +2 >
+
+[18:27:44] [Hope] Cük(2 grade) → Attack [Genèse] Ken
+< Basic Point +2 >
+
+[18:27:45] [The Guild] MASHPOIESERVER(2 grade) → Attack [Overwhelmed] Rruru
+< Basic Point +2 >
+
+[18:27:46] [Justice] Majin(2 grade) → Attack [Genèse] Skyline
+< Basic Point +2 >
+
+[18:27:46] [Eternity] Guild Master FookᅟYu(2 grade) → Attack [Astral] Zien
+< Basic Point +2 >
+
+[18:27:48] [The Guild] MASHPOIESERVER(2 grade) → Attack [Overwhelmed] Mitochondria
+< Basic Point +2 >
+
+[18:27:50] [Overwhelmed] Kanji(2 grade) → Attack [The Guild] heda
+< Basic Point +2 >
+
+[18:27:51] [The Guild] Lainy(2 grade) → Attack [Eternity] Kumi
+< Basic Point +2 >
+
+[18:27:52] [Astral] ULQ(2 grade) → Attack [Genèse] Eren
+< Basic Point +2 >
+
+[18:27:52] [Eternity] Guild Master FookᅟYu(2 grade) → Attack [Astral] Nefertiti
+< Basic Point +2 >
+
+[18:27:53] [Genèse] Skytecs(2 grade) → Attack [Overwhelmed] lMikel
+< Basic Point +2 >
+
+[18:27:53] [Eternity] Guardiane(2 grade) → Attack [Genèse] Sangoku
+< Basic Point +2 >
+
+[18:27:55] [Overwhelmed] Arcturus(3 grade) → Attack [The Guild] MASHPOIESERVER
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:27:55] [Astral] ULQ(2 grade) → Attack [Overwhelmed] Kanji
+< Basic Point +2 >
+
+[18:27:55] [Genèse] Skytecs(2 grade) → Attack [Overwhelmed] Psyko
+< Basic Point +2 >
+
+[18:27:56] [Eternity] Steffen(2 grade) → Attack [Astral] Xiana
+< Basic Point +2 >
+
+[18:27:58] [Astral] ULQ(2 grade) → Attack [Eternity] Steffen
+< Basic Point +2 >
+
+[18:27:59] [Justice] C17(2 grade) → Attack [The Guild] Hamburger
+< Basic Point +2 >
+
+[18:28:00] [Astral] ULQ(2 grade) → Attack [Eternity] Guild Master FookᅟYu
+< Basic Point +2 >
+
+[18:28:01] [Justice] C17(2 grade) → Attack [Overwhelmed] koki
+< Basic Point +2 >
+
+[18:28:01] [Eternity] Guardiane(2 grade) → Attack [Astral] Kekra
+< Basic Point +2 >
+
+[18:28:02] [Hope] Vegeta(2 grade) → Attack [Genèse] Guild Master Ezz
+< Basic Point +2 >
+
+[18:28:04] [Eternity] FookᅟMi(2 grade) → Attack [The Guild] Mew
+< Basic Point +2 >
+
+[18:28:05] [Hope] Lea(2 grade) → Attack [Genèse] Pang
+< Basic Point +2 >
+
+[18:28:06] [Eternity] Guardiane(2 grade) → Attack [Genèse] Euridisse
+< Basic Point +2 >
+
+[18:28:07] [Justice] Majin(2 grade) → Attack [Overwhelmed] Blanc
+< Basic Point +2 >
+
+[18:28:07] [Justice] Damagedieter(2 grade) → Attack [The Guild] Pepperoni
+< Basic Point +2 >
+
+[18:28:08] [Eternity] Guardiane(2 grade) → Attack [The Guild] Guild Master Dio
+< Basic Point +2 >
+
+[18:28:10] [Eternity] Guardiane(3 grade) → Attack [The Guild] Defender Selene
+< Basic Point +2, Defender Bonus +1 >
+
+[18:28:10] [Justice] Madara(2 grade) → Attack [Overwhelmed] Ribcage
+< Basic Point +2 >
+
+[18:28:12] [Astral] Siioz(2 grade) → Attack [Genèse] Mönch
+< Basic Point +2 >
+
+[18:28:13] [Astral] Guild Master McVP(2 grade) → Attack [Overwhelmed] bochi
+< Basic Point +2 >
+
+[18:28:13] [Hope] Vegeta(2 grade) → Attack [Eternity] Ariii
+< Basic Point +2 >
+
+[18:28:17] [Astral] ULQ(2 grade) → Attack [Overwhelmed] Boy
+< Basic Point +2 >
+
+[18:28:19] [Overwhelmed] Guild Master MeguminX(2 grade) → Attack [Astral] ZezetteV2
+< Basic Point +2 >
+
+[18:28:20] [Genèse] Skytecs(2 grade) → Attack [The Guild] Mococcino
+< Basic Point +2 >
+
+[18:28:21] [Overwhelmed] buki(2 grade) → Attack [Astral] Guild Master McVP
+< Basic Point +2 >
+
+[18:28:22] [Hope] Guild Master Nika(2 grade) → Attack [Eternity] RecepTayyipErdogan
+< Basic Point +2 >
+
+[18:28:23] [Genèse] Wabi(2 grade) → Attack [The Guild] YoYoHakusho
+< Basic Point +2 >
+
+[18:28:23] [Justice] Damagedieter(4 grade) → Attack [Eternity] Guardiane
+< Basic Point +2, Killing streak Bonus +2 >
+
+[18:28:24] [Overwhelmed] Guild Master MeguminX(2 grade) → Attack [The Guild] Shoah
+< Basic Point +2 >
+
+[18:28:24] [Astral] ULQ(2 grade) → Attack [Overwhelmed] Arcturus
+< Basic Point +2 >
+
+[18:28:24] [Eternity] fettywap(5 grade) → Attack [Justice] Damagedieter
+< Basic Point +2, Killing streak Bonus +3 >
+
+[18:28:25] [Justice] Madara(2 grade) → Attack [Eternity] Bojaro
+< Basic Point +2 >
+
+[18:28:27] [Overwhelmed] rqッ(2 grade) → Attack [The Guild] Lainy
+< Basic Point +2 >
+
+[18:28:27] [Astral] ULQ(2 grade) → Attack [The Guild] No
+< Basic Point +2 >
+
+[18:28:30] [Overwhelmed] Rruru(2 grade) → Attack [Astral] ULQUI
+< Basic Point +2 >
+
+[18:28:31] [Hope] Vegeta(2 grade) → Attack [Genèse] Alpha57
+< Basic Point +2 >
+
+[18:28:33] [Justice] Misang(2 grade) → Attack [The Guild] ranger
+< Basic Point +2 >
+
+[18:28:33] [Overwhelmed] Guild Master MeguminX(2 grade) → Attack [Astral] Bitox
+< Basic Point +2 >
+
+[18:28:33] [Eternity] Fang(3 grade) → Attack [Overwhelmed] Defender buki
+< Basic Point +2, Defender Bonus +1 >
+
+[18:28:33] [Eternity] Fang(2 grade) → Attack [The Guild] MagnusBane
+< Basic Point +2 >
+
+[18:28:34] [Hope] Vegeta(2 grade) → Attack [Genèse] SPARTACUS
+< Basic Point +2 >
+
+[18:28:35] [Eternity] Fang(2 grade) → Attack [Overwhelmed] Rruru
+< Basic Point +2 >
+
+[18:28:35] [Eternity] Fang(3 grade) → Attack [Overwhelmed] Guild Master MeguminX
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:28:35] [Justice] C17(2 grade) → Attack [Eternity] fettywap
+< Basic Point +2 >
+
+[18:28:36] [Eternity] Fang(2 grade) → Attack [Overwhelmed] BaldMann
+< Basic Point +2 >
+
+[18:28:37] [Justice] C17(2 grade) → Attack [The Guild] heda
+< Basic Point +2 >
+
+[18:28:38] [Astral] xiv(4 grade) → Attack [Justice] Majin
+< Basic Point +2, Killing streak Bonus +2 >
+
+[18:28:39] [Overwhelmed] rqッ(4 grade) → Attack [Astral] ULQ
+< Basic Point +2, Killing streak Bonus +2 >
+
+[18:28:40] [Justice] Misang(2 grade) → Attack [Overwhelmed] Mitochondria
+< Basic Point +2 >
+
+[18:28:40] [Hope] Cük(2 grade) → Attack [The Guild] Hamburger
+< Basic Point +2 >
+
+[18:28:42] [Astral] Siioz(2 grade) → Attack [Overwhelmed] rqッ
+< Basic Point +2 >
+
+[18:28:42] [The Guild] Hit(2 grade) → Attack [Astral] xiv
+< Basic Point +2 >
+
+[18:28:42] [Eternity] KemalKilicdaroglu(2 grade) → Attack [Genèse] Hopleking
+< Basic Point +2 >
+
+[18:28:43] [Astral] Hørus(2 grade) → Attack [The Guild] MASHPOIESERVER
+< Basic Point +2 >
+
+[18:28:43] [Astral] Hørus(2 grade) → Attack [The Guild] Hit
+< Basic Point +2 >
+
+[18:28:44] [Eternity] Fang(2 grade) → Attack [Genèse] Argovie
+< Basic Point +2 >
+
+[18:28:44] [Hope] Vegeta(2 grade) → Attack [Genèse] Graouw
+< Basic Point +2 >
+
+[18:28:45] [Hope] Lea(2 grade) → Attack [Overwhelmed] lMikel
+< Basic Point +2 >
+
+[18:28:46] [Genèse] Ken(2 grade) → Attack [The Guild] Mew
+< Basic Point +2 >
+
+[18:28:49] [Eternity] Whiskey(2 grade) → Attack [Overwhelmed] koki
+< Basic Point +2 >
+
+[18:28:50] [Justice] Madara(2 grade) → Attack [Astral] Shyray
+< Basic Point +2 >
+
+[18:28:51] [Hope] Guild Master Nika(2 grade) → Attack [Astral] Hørus
+< Basic Point +2 >
+
+[18:28:52] [The Guild] Guild Master Dio(2 grade) → Attack [Genèse] Ken
+< Basic Point +2 >
+
+[18:28:55] [Eternity] KemalKilicdaroglu(2 grade) → Attack [Overwhelmed] Blanc
+< Basic Point +2 >
+
+[18:28:55] [Justice] Stinki(3 grade) → Attack [The Guild] Defender Selene
+< Basic Point +2, Defender Bonus +1 >
+
+[18:28:56] [Justice] Misang(2 grade) → Attack [Astral] Nefertiti
+< Basic Point +2 >
+
+[18:28:57] [Justice] C17(2 grade) → Attack [Overwhelmed] Kanji
+< Basic Point +2 >
+
+[18:28:59] [The Guild] YoYoHakusho(2 grade) → Attack [Genèse] Skyline
+< Basic Point +2 >
+
+[18:29:00] [Overwhelmed] Ribcage(2 grade) → Attack [Genèse] Wabi
+< Basic Point +2 >
+
+[18:29:00] [Hope] Vegeta(2 grade) → Attack [The Guild] Shoah
+< Basic Point +2 >
+
+[18:29:01] [Eternity] Totk(2 grade) → Attack [The Guild] Mococcino
+< Basic Point +2 >
+
+[18:29:02] [Justice] C17(2 grade) → Attack [Astral] Xiana
+< Basic Point +2 >
+
+[18:29:03] [Genèse] Sangoku(2 grade) → Attack [The Guild] YoYoHakusho
+< Basic Point +2 >
+
+[18:29:07] [Overwhelmed] bochi(2 grade) → Attack [Genèse] Eren
+< Basic Point +2 >
+
+[18:29:07] [Justice] Madara(2 grade) → Attack [Overwhelmed] Boy
+< Basic Point +2 >
+
+[18:29:07] [Overwhelmed] bochi(2 grade) → Attack [Genèse] Sangoku
+< Basic Point +2 >
+
+[18:29:09] [Hope] Vegeta(2 grade) → Attack [Overwhelmed] Ribcage
+< Basic Point +2 >
+
+[18:29:10] [Genèse] Guild Master Ezz(2 grade) → Attack [Overwhelmed] bochi
+< Basic Point +2 >
+
+[18:29:11] [Overwhelmed] Arcturus(2 grade) → Attack [The Guild] Guild Master Dio
+< Basic Point +2 >
+
+[18:29:11] [Eternity] Totk(2 grade) → Attack [Astral] McNurse
+< Basic Point +2 >
+
+[18:29:12] [Eternity] LeStrangler(3 grade) → Attack [Justice] Madara
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:29:14] [The Guild] ranger(3 grade) → Attack [Overwhelmed] Defender buki
+< Basic Point +2, Defender Bonus +1 >
+
+[18:29:15] [Justice] Stinki(2 grade) → Attack [Eternity] FookᅟMi
+< Basic Point +2 >
+
+[18:29:16] [Eternity] Whiskey(2 grade) → Attack [Justice] ありがとう
+< Basic Point +2 >
+
+[18:29:17] [The Guild] ranger(2 grade) → Attack [Overwhelmed] Psyko
+< Basic Point +2 >
+
+[18:29:18] [Eternity] Fang(2 grade) → Attack [Justice] Stinki
+< Basic Point +2 >
+
+[18:29:19] [Overwhelmed] Rruru(2 grade) → Attack [The Guild] MagnusBane
+< Basic Point +2 >
+
+[18:29:19] [Eternity] Fang(4 grade) → Attack [Justice] C17
+< Basic Point +2, Killing streak Bonus +2 >
+
+[18:29:20] [Hope] Cük(4 grade) → Attack [Justice] Misang
+< Basic Point +2, Killing streak Bonus +2 >
+
+[18:29:20] [The Guild] No(2 grade) → Attack [Overwhelmed] Rruru
+< Basic Point +2 >
+
+[18:29:20] [Genèse] Euridisse(3 grade) → Attack [Astral] Defender Teraze
+< Basic Point +2, Defender Bonus +1 >
+
+[18:29:21] [Overwhelmed] Arcturus(2 grade) → Attack [The Guild] ranger
+< Basic Point +2 >
+
+[18:29:21] [Eternity] Whiskey(3 grade) → Attack [Justice] Ringmaster
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:29:22] [Overwhelmed] Guild Master MeguminX(2 grade) → Attack [The Guild] Pepperoni
+< Basic Point +2 >
+
+[18:29:23] [Astral] Guild Master McVP(3 grade) → Attack [Overwhelmed] Guild Master MeguminX
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[18:29:23] [Hope] Vegeta(3 grade) → Attack [Eternity] Defender Totk
+< Basic Point +2, Defender Bonus +1 >
+
+[18:29:24] [Astral] ZezetteV2(6 grade) → Attack [Genèse] Defender Skytecs
+< Basic Point +2, Defender Bonus +1, Killing streak Bonus +3 >
+
+[18:29:24] [Overwhelmed] BaldMann(2 grade) → Attack [The Guild] Lainy
+< Basic Point +2 >
+
+[18:29:24] [Hope] Guild Master Nika(2 grade) → Attack [Eternity] LeStrangler
+< Basic Point +2 >
+
+[18:29:24] [Genèse] Guild Master Ezz(2 grade) → Attack [Astral] ZezetteV2
+< Basic Point +2 >
+
+[18:29:27] [Genèse] Euridisse(2 grade) → Attack [Astral] Zien
+< Basic Point +2 >
+
+[18:29:27] [Eternity] Fang(2 grade) → Attack [Justice] Seductive
+< Basic Point +2 >
+
+[18:29:27] [Eternity] Fang(2 grade) → Attack [Overwhelmed] BaldMann
+< Basic Point +2 >
+
+[18:29:28] [Eternity] Fang(2 grade) → Attack [Overwhelmed] Mitochondria
+< Basic Point +2 >
+
+[18:29:30] [Astral] Siioz(2 grade) → Attack [Genèse] Alpha57
+< Basic Point +2 >
+
+[18:29:33] [Genèse] Euridisse(2 grade) → Attack [Astral] Kekra
+< Basic Point +2 >
+
+[18:29:33] [Genèse] Guild Master Ezz(2 grade) → Attack [Astral] Guild Master McVP
+< Basic Point +2 >
+
+[18:29:33] [Eternity] Fang(2 grade) → Attack [The Guild] Hit
+< Basic Point +2 >
+
+[18:29:33] [Hope] Vegeta(2 grade) → Attack [Eternity] Lyra
+< Basic Point +2 >
+
+[18:29:34] [Eternity] Fang(2 grade) → Attack [The Guild] No
+< Basic Point +2 >
+
+[18:29:34] [Overwhelmed] Arcturus(5 grade) → Attack [Eternity] Fang
+< Basic Point +2, Killing streak Bonus +3 >
+
+[18:29:34] [Justice] AngelicBabe(2 grade) → Attack [The Guild] heda
+< Basic Point +2 >
+
+[18:29:35] [Overwhelmed] koki(2 grade) → Attack [Eternity] Kumi
+< Basic Point +2 >
+
+[18:29:36] [Hope] I9hdkill(2 grade) → Attack [The Guild] Mew
+< Basic Point +2 >
+
+[18:29:37] [Hope] Cük(2 grade) → Attack [The Guild] Hamburger
+< Basic Point +2 >
+
+[18:29:37] [The Guild] MASHPOIESERVER(2 grade) → Attack [Astral] ULQUI
+< Basic Point +2 >
+
+[18:29:41] [Hope] I9hdkill(2 grade) → Attack [Overwhelmed] lMikel
+< Basic Point +2 >
+
+[18:29:42] [Astral] ULQ(2 grade) → Attack [The Guild] MASHPOIESERVER
+< Basic Point +2 >
+
+[18:29:42] [Hope] Lea(2 grade) → Attack [Overwhelmed] rqッ
+< Basic Point +2 >
+
+[18:29:43] [Genèse] SPARTACUS(2 grade) → Attack [Justice] Logout
+< Basic Point +2 >
+
+[18:29:44] [Justice] AngelicBabe(2 grade) → Attack [Genèse] SPARTACUS
+< Basic Point +2 >
+
+[18:29:44] [Eternity] KemalKilicdaroglu(2 grade) → Attack [Genèse] Hopleking
+< Basic Point +2 >
+
+[18:29:45] [Hope] Guild Master Nika(2 grade) → Attack [Overwhelmed] Blanc
+< Basic Point +2 >
+
+[18:29:45] [Hope] Lea(2 grade) → Attack [Overwhelmed] koki
+< Basic Point +2 >
+
+[18:29:46] [Eternity] Guild Master FookᅟYu(3 grade) → Attack [Genèse] Guild Master Ezz
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:29:46] [Justice] AngelicBabe(2 grade) → Attack [The Guild] Shoah
+< Basic Point +2 >
+
+[18:29:47] [Hope] Cük(3 grade) → Attack [The Guild] Defender Selene
+< Basic Point +2, Defender Bonus +1 >
+
+[18:29:47] [Astral] Shyray(3 grade) → Attack [Justice] Defender Seepferdchen
+< Basic Point +2, Defender Bonus +1 >
+
+[18:29:48] [Overwhelmed] Kanji(3 grade) → Attack [Eternity] KemalKilicdaroglu
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:29:48] [Overwhelmed] Arcturus(3 grade) → Attack [Eternity] Whiskey
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:29:48] [Eternity] Guild Master FookᅟYu(2 grade) → Attack [Genèse] Pang
+< Basic Point +2 >
+
+[18:29:51] [The Guild] Mococcino(3 grade) → Attack [Astral] Shyray
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[18:29:51] [Eternity] Steffen(2 grade) → Attack [Genèse] Mönch
+< Basic Point +2 >
+
+[18:29:51] [Justice] AngelicBabe(2 grade) → Attack [The Guild] Guild Master Dio
+< Basic Point +2 >
+
+[18:29:53] [Astral] ULQ(2 grade) → Attack [Justice] Guild Master Prydazo
+< Basic Point +2 >
+
+[18:29:53] [Astral] Siioz(2 grade) → Attack [The Guild] Mococcino
+< Basic Point +2 >
+
+[18:29:53] [Hope] I9hdkill(2 grade) → Attack [The Guild] MagnusBane
+< Basic Point +2 >
+
+[18:29:55] [Eternity] Ariii(3 grade) → Attack [Genèse] Euridisse
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:29:56] [Overwhelmed] Boy(2 grade) → Attack [Astral] Bitox
+< Basic Point +2 >
+
+[18:29:57] [Astral] ULQ(5 grade) → Attack [Hope] Cük
+< Basic Point +2, Killing streak Bonus +3 >
+
+[18:29:57] [Hope] Guild Master Nika(2 grade) → Attack [The Guild] YoYoHakusho
+< Basic Point +2 >
+
+[18:29:57] [Overwhelmed] Kanji(2 grade) → Attack [Justice] bobele
+< Basic Point +2 >
+
+[18:29:58] [Justice] Damagedieter(2 grade) → Attack [Overwhelmed] Kanji
+< Basic Point +2 >
+
+[18:29:58] [Overwhelmed] bochi(3 grade) → Attack [The Guild] ranger
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[18:30:00] [Overwhelmed] bochi(3 grade) → Attack [Genèse] Argovie
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[18:30:00] [Overwhelmed] bochi(3 grade) → Attack [The Guild] Pepperoni
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[18:30:00] [Hope] Vegeta(2 grade) → Attack [Overwhelmed] Boy
+< Basic Point +2 >
+
+[18:30:02] [Overwhelmed] Ribcage(3 grade) → Attack [Justice] AngelicBabe
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:30:02] [Justice] Majin(2 grade) → Attack [Overwhelmed] Ribcage
+< Basic Point +2 >
+
+[18:30:04] [Overwhelmed] Arcturus(2 grade) → Attack [Genèse] Graouw
+< Basic Point +2 >
+
+[18:30:05] [Justice] Damagedieter(2 grade) → Attack [Astral] Nefertiti
+< Basic Point +2 >
+
+[18:30:05] [Eternity] Steffen(2 grade) → Attack [Genèse] Ken
+< Basic Point +2 >
+
+[18:30:05] [Hope] Guild Master Nika(2 grade) → Attack [Astral] xiv
+< Basic Point +2 >
+
+[18:30:07] [Eternity] Guild Master FookᅟYu(3 grade) → Attack [Overwhelmed] Defender buki
+< Basic Point +2, Defender Bonus +1 >
+
+[18:30:08] [Astral] ULQ(2 grade) → Attack [The Guild] Lainy
+< Basic Point +2 >
+
+[18:30:08] [Justice] Noutix(3 grade) → Attack [Astral] Siioz
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:30:08] [Justice] Madara(2 grade) → Attack [Astral] Xiana
+< Basic Point +2 >
+
+[18:30:10] [Astral] ULQ(2 grade) → Attack [The Guild] No
+< Basic Point +2 >
+
+[18:30:10] [Eternity] Guild Master FookᅟYu(2 grade) → Attack [Genèse] Skyline
+< Basic Point +2 >
+
+[18:30:11] [The Guild] Hit(4 grade) → Attack [Overwhelmed] bochi
+< Basic Point +2, Resurrecting Bonus +1, Killing streak Bonus +1 >
+
+[18:30:12] [Eternity] Guardiane(2 grade) → Attack [Genèse] Eren
+< Basic Point +2 >
+
+[18:30:13] [Genèse] Wabi(2 grade) → Attack [The Guild] Hamburger
+< Basic Point +2 >
+
+[18:30:14] [Hope] Vegeta(2 grade) → Attack [The Guild] Mew
+< Basic Point +2 >
+
+[18:30:15] [Eternity] Guardiane(2 grade) → Attack [The Guild] heda
+< Basic Point +2 >
+
+[18:30:16] [Astral] ULQ(2 grade) → Attack [The Guild] Hit
+< Basic Point +2 >
+
+[18:30:19] [Eternity] Guild Master FookᅟYu(2 grade) → Attack [Overwhelmed] Psyko
+< Basic Point +2 >
+
+[18:30:21] [Astral] ULQ(2 grade) → Attack [Eternity] Bojaro
+< Basic Point +2 >
+
+[18:30:22] [Eternity] Ariii(2 grade) → Attack [Astral] Kekra
+< Basic Point +2 >
+
+[18:30:25] [Eternity] Steffen(2 grade) → Attack [Overwhelmed] Mitochondria
+< Basic Point +2 >
+
+[18:30:25] [Astral] Hørus(4 grade) → Attack [Eternity] Guild Master FookᅟYu
+< Basic Point +2, Killing streak Bonus +2 >
+
+[18:30:25] [Eternity] Guardiane(3 grade) → Attack [The Guild] Defender Selene
+< Basic Point +2, Defender Bonus +1 >
+
+[18:30:26] [Genèse] Sangoku(2 grade) → Attack [Astral] Zien
+< Basic Point +2 >
+
+[18:30:27] [The Guild] MASHPOIESERVER(4 grade) → Attack [Astral] ULQ
+< Basic Point +2, Killing streak Bonus +2 >
+
+[18:30:27] [Justice] Stinki(2 grade) → Attack [Genèse] Alpha57
+< Basic Point +2 >
+
+[18:30:27] [Astral] ZezetteV2(2 grade) → Attack [Eternity] Ariii
+< Basic Point +2 >
+
+[18:30:29] [Overwhelmed] BaldMann(2 grade) → Attack [The Guild] MASHPOIESERVER
+< Basic Point +2 >
+
+[18:30:29] [Overwhelmed] Arcturus(2 grade) → Attack [Astral] Hørus
+< Basic Point +2 >
+
+[18:30:31] [Hope] Guild Master Nika(2 grade) → Attack [Justice] Noutix
+< Basic Point +2 >
+
+[18:30:32] [Eternity] Guardiane(2 grade) → Attack [Genèse] Hopleking
+< Basic Point +2 >
+
+[18:30:32] [Genèse] Sangoku(2 grade) → Attack [Overwhelmed] BaldMann
+< Basic Point +2 >
+
+[18:30:32] [The Guild] Guild Master Dio(4 grade) → Attack [Genèse] Defender Skytecs
+< Basic Point +2, Defender Bonus +1, Resurrecting Bonus +1 >
+
+[18:30:33] [Overwhelmed] Guild Master MeguminX(3 grade) → Attack [Eternity] Steffen
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:30:35] [Genèse] Wabi(2 grade) → Attack [Overwhelmed] Rruru
+< Basic Point +2 >
+
+[18:30:36] [Genèse] Sangoku(2 grade) → Attack [The Guild] ranger
+< Basic Point +2 >
+
+[18:30:37] [Justice] Damagedieter(2 grade) → Attack [Astral] ZezetteV2
+< Basic Point +2 >
+
+[18:30:37] [Eternity] FookᅟMi(2 grade) → Attack [Overwhelmed] lMikel
+< Basic Point +2 >
+
+[18:30:37] [Hope] Guild Master Nika(2 grade) → Attack [The Guild] YoYoHakusho
+< Basic Point +2 >
+
+[18:30:38] [Justice] Madara(5 grade) → Attack [Hope] Lea
+< Basic Point +2, Killing streak Bonus +3 >
+
+[18:30:38] [The Guild] Guild Master Dio(3 grade) → Attack [Genèse] SPARTACUS
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[18:30:40] [Overwhelmed] Guild Master MeguminX(2 grade) → Attack [Genèse] Wabi
+< Basic Point +2 >
+
+[18:30:41] [Eternity] Guardiane(4 grade) → Attack [Overwhelmed] Arcturus
+< Basic Point +2, Killing streak Bonus +2 >
+
+[18:30:41] [Justice] Majin(2 grade) → Attack [Astral] Shyray
+< Basic Point +2 >
+
+[18:30:43] [Eternity] fettywap(2 grade) → Attack [Overwhelmed] Guild Master MeguminX
+< Basic Point +2 >
+
+[18:30:43] [Hope] Guild Master Nika(2 grade) → Attack [Astral] ULQUI
+< Basic Point +2 >
+
+[18:30:45] [Astral] xiv(3 grade) → Attack [Justice] ありがとう
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[18:30:46] [Justice] Madara(2 grade) → Attack [Genèse] Pang
+< Basic Point +2 >
+
+[18:30:46] [Eternity] FookᅟMi(2 grade) → Attack [Overwhelmed] rqッ
+< Basic Point +2 >
+
+[18:30:48] [Hope] Guild Master Nika(2 grade) → Attack [Astral] xiv
+< Basic Point +2 >
+
+[18:30:48] [Justice] Stinki(2 grade) → Attack [Astral] Siioz
+< Basic Point +2 >
+
+[18:30:51] [Justice] Madara(2 grade) → Attack [Genèse] Guild Master Ezz
+< Basic Point +2 >
+
+[18:30:52] [Justice] Majin(2 grade) → Attack [The Guild] No
+< Basic Point +2 >
+
+[18:30:58] [Astral] ULQ(2 grade) → Attack [The Guild] MASHPOIESERVER
+< Basic Point +2 >
+
+[18:30:58] [The Guild] Lainy(2 grade) → Attack [Overwhelmed] Kanji
+< Basic Point +2 >
+
+[18:30:59] [Overwhelmed] Boy(2 grade) → Attack [Astral] Zien
+< Basic Point +2 >
+
+[18:30:59] [Overwhelmed] Boy(2 grade) → Attack [Astral] Hørus
+< Basic Point +2 >
+
+[18:31:00] [Hope] I9hdkill(2 grade) → Attack [Overwhelmed] Blanc
+< Basic Point +2 >
+
+[18:31:00] [Hope] Broblemspieler(2 grade) → Attack [Eternity] LeStrangler
+< Basic Point +2 >
+
+[18:31:00] [Eternity] fettywap(3 grade) → Attack [Genèse] Sangoku
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:31:01] [Justice] Madara(2 grade) → Attack [The Guild] Guild Master Dio
+< Basic Point +2 >
+
+[18:31:02] [Astral] Siioz(2 grade) → Attack [Overwhelmed] Boy
+< Basic Point +2 >
+
+[18:31:03] [Hope] Guild Master Nika(2 grade) → Attack [Overwhelmed] Ribcage
+< Basic Point +2 >
+
+[18:31:04] [Justice] Stinki(2 grade) → Attack [The Guild] Pepperoni
+< Basic Point +2 >
+
+[18:31:06] [Hope] Vegeta(2 grade) → Attack [Overwhelmed] koki
+< Basic Point +2 >
+
+[18:31:07] [Justice] Damagedieter(3 grade) → Attack [The Guild] Defender Selene
+< Basic Point +2, Defender Bonus +1 >
+
+[18:31:08] [Astral] ULQ(2 grade) → Attack [Overwhelmed] Psyko
+< Basic Point +2 >
+
+[18:31:09] [Genèse] Ken(3 grade) → Attack [Eternity] Defender Totk
+< Basic Point +2, Defender Bonus +1 >
+
+[18:31:12] [Hope] Vegeta(2 grade) → Attack [Eternity] RecepTayyipErdogan
+< Basic Point +2 >
+
+[18:31:13] [Justice] Madara(2 grade) → Attack [Genèse] Graouw
+< Basic Point +2 >
+
+[18:31:13] [Overwhelmed] Rruru(3 grade) → Attack [Eternity] Lyra
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[18:31:13] [Justice] Madara(2 grade) → Attack [Genèse] Argovie
+< Basic Point +2 >
+
+[18:31:14] [Hope] I9hdkill(2 grade) → Attack [Overwhelmed] Rruru
+< Basic Point +2 >
+
+[18:31:16] [Justice] Madara(2 grade) → Attack [Genèse] Euridisse
+< Basic Point +2 >
+
+[18:31:17] [Eternity] fettywap(3 grade) → Attack [Justice] Damagedieter
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:31:17] [Justice] Majin(2 grade) → Attack [Genèse] Skyline
+< Basic Point +2 >
+
+[18:31:18] [Hope] Broblemspieler(2 grade) → Attack [The Guild] Pepperoni
+< Basic Point +2 >
+
+[18:31:18] [Astral] Siioz(2 grade) → Attack [Overwhelmed] BaldMann
+< Basic Point +2 >
+
+[18:31:19] [Overwhelmed] Guild Master MeguminX(2 grade) → Attack [The Guild] Lainy
+< Basic Point +2 >
+
+[18:31:20] [Eternity] Fang(2 grade) → Attack [Overwhelmed] Guild Master MeguminX
+< Basic Point +2 >
+
+[18:31:22] [Justice] Misang(2 grade) → Attack [Eternity] FookᅟMi
+< Basic Point +2 >
+
+[18:31:23] [Astral] ULQ(2 grade) → Attack [Overwhelmed] Arcturus
+< Basic Point +2 >
+
+[18:31:24] [Hope] Guild Master Nika(2 grade) → Attack [Genèse] Ken
+< Basic Point +2 >
+
+[18:31:25] [Justice] Madara(2 grade) → Attack [Eternity] Kumi
+< Basic Point +2 >
+
+[18:31:27] [Hope] Guild Master Nika(3 grade) → Attack [Justice] Majin
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:31:28] [Eternity] Guardiane(2 grade) → Attack [Overwhelmed] rqッ
+< Basic Point +2 >
+
+[18:31:29] [Genèse] Skytecs(2 grade) → Attack [Overwhelmed] Boy
+< Basic Point +2 >
+
+[18:31:31] [Genèse] Skytecs(2 grade) → Attack [Overwhelmed] Ribcage
+< Basic Point +2 >
+
+[18:31:34] [Genèse] Skytecs(2 grade) → Attack [Astral] ZezetteV2
+< Basic Point +2 >
+
+[18:31:34] [Eternity] Fang(4 grade) → Attack [Justice] Madara
+< Basic Point +2, Killing streak Bonus +2 >
+
+[18:31:36] [Eternity] Fang(3 grade) → Attack [Justice] Stinki
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:31:37] [Hope] Broblemspieler(2 grade) → Attack [Justice] C17
+< Basic Point +2 >
+
+[18:31:37] [Hope] Guild Master Nika(2 grade) → Attack [Justice] Misang
+< Basic Point +2 >
+
+[18:31:40] [Eternity] KemalKilicdaroglu(2 grade) → Attack [The Guild] Lainy
+< Basic Point +2 >
+
+[18:31:40] [Astral] ULQ(2 grade) → Attack [Overwhelmed] Kanji
+< Basic Point +2 >
+
+[18:31:40] [Overwhelmed] Guild Master MeguminX(3 grade) → Attack [Genèse] Alpha57
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[18:31:41] [Genèse] SPARTACUS(2 grade) → Attack [Overwhelmed] Psyko
+< Basic Point +2 >
+
+[18:31:44] [Hope] Vegeta(2 grade) → Attack [Justice] Ringmaster
+< Basic Point +2 >
+
+[18:31:44] [Astral] ULQ(3 grade) → Attack [Eternity] Fang
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:31:44] [Genèse] Skytecs(2 grade) → Attack [Overwhelmed] Guild Master MeguminX
+< Basic Point +2 >
+
+[18:31:47] [Eternity] Guardiane(2 grade) → Attack [Overwhelmed] Arcturus
+< Basic Point +2 >
+
+[18:31:47] [Hope] Broblemspieler(2 grade) → Attack [Justice] Seductive
+< Basic Point +2 >
+
+[18:31:49] [Astral] ULQ(2 grade) → Attack [Eternity] Whiskey
+< Basic Point +2 >
+
+[18:31:58] [Justice] Seepferdchen(2 grade) → Attack [Eternity] Bojaro
+< Basic Point +2 >
+
+[18:31:58] [Genèse] Mönch(3 grade) → Attack [Astral] Defender Teraze
+< Basic Point +2, Defender Bonus +1 >
+
+[18:31:59] [Eternity] Guardiane(3 grade) → Attack [Justice] Defender Seepferdchen
+< Basic Point +2, Defender Bonus +1 >
+
+[18:32:01] [Eternity] KemalKilicdaroglu(2 grade) → Attack [Astral] Hørus
+< Basic Point +2 >
+
+[18:32:04] [Eternity] fettywap(4 grade) → Attack [Genèse] Defender Skytecs
+< Basic Point +2, Defender Bonus +1, Killing streak Bonus +1 >
+
+[18:32:05] [Eternity] Guardiane(2 grade) → Attack [Genèse] SPARTACUS
+< Basic Point +2 >
+
+[18:32:05] [Eternity] KemalKilicdaroglu(2 grade) → Attack [Genèse] Hopleking
+< Basic Point +2 >
+
+[18:32:07] [Eternity] Ariii(2 grade) → Attack [Astral] Siioz
+< Basic Point +2 >
+
+[18:32:08] [Justice] Noutix(5 grade) → Attack [Hope] Guild Master Nika
+< Basic Point +2, Killing streak Bonus +3 >
+
+[18:32:08] [Hope] Vegeta(2 grade) → Attack [Justice] Noutix
+< Basic Point +2 >
+
+[18:32:09] [Hope] Broblemspieler(2 grade) → Attack [Eternity] Ariii
+< Basic Point +2 >
+
+[18:32:13] [Hope] Vegeta(2 grade) → Attack [Astral] Zien
+< Basic Point +2 >
+
+[18:32:15] [Justice] Guild Master Prydazo(2 grade) → Attack [Eternity] Guild Master FookᅟYu
+< Basic Point +2 >
+
+[18:32:16] [Eternity] Guardiane(4 grade) → Attack [Astral] ULQ
+< Basic Point +2, Killing streak Bonus +2 >
+
+[18:32:16] [Genèse] Wabi(2 grade) → Attack [Overwhelmed] Arcturus
+< Basic Point +2 >
+
+[18:32:19] [Justice] AngelicBabe(2 grade) → Attack [Genèse] Pang
+< Basic Point +2 >
+
+[18:32:22] [Eternity] Guardiane(2 grade) → Attack [Astral] Siioz
+< Basic Point +2 >
+
+[18:32:22] [Eternity] Guardiane(3 grade) → Attack [Astral] Defender Teraze
+< Basic Point +2, Defender Bonus +1 >
+
+[18:32:23] [Hope] Vegeta(2 grade) → Attack [Genèse] Wabi
+< Basic Point +2 >
+
+[18:32:26] [Hope] Broblemspieler(2 grade) → Attack [Genèse] Eren
+< Basic Point +2 >
+
+[18:32:28] [Eternity] Guardiane(2 grade) → Attack [Genèse] Guild Master Ezz
+< Basic Point +2 >
+
+[18:32:29] [Justice] AngelicBabe(3 grade) → Attack [Eternity] Defender Totk
+< Basic Point +2, Defender Bonus +1 >
+
+[18:32:30] [Hope] Broblemspieler(2 grade) → Attack [Eternity] Steffen
+< Basic Point +2 >
+
+[18:32:30] [Eternity] KemalKilicdaroglu(2 grade) → Attack [Genèse] Sangoku
+< Basic Point +2 >
+
+[18:32:32] [Justice] Damagedieter(2 grade) → Attack [Overwhelmed] Arcturus
+< Basic Point +2 >
+
+[18:32:34] [Justice] Guild Master Prydazo(2 grade) → Attack [Genèse] Graouw
+< Basic Point +2 >
+
+[18:32:35] [Eternity] fettywap(4 grade) → Attack [Hope] I9hdkill
+< Basic Point +2, Killing streak Bonus +2 >
+
+[18:32:36] [Hope] Vegeta(4 grade) → Attack [Eternity] fettywap
+< Basic Point +2, Killing streak Bonus +2 >
+
+[18:32:37] [Justice] Damagedieter(2 grade) → Attack [Genèse] Argovie
+< Basic Point +2 >
+
+[18:32:41] [Justice] Damagedieter(5 grade) → Attack [Eternity] Guardiane
+< Basic Point +2, Killing streak Bonus +3 >
+
+[18:32:45] [Eternity] KemalKilicdaroglu(2 grade) → Attack [Genèse] Ken
+< Basic Point +2 >
+
+[18:32:47] [Eternity] LeStrangler(2 grade) → Attack [Genèse] Skyline
+< Basic Point +2 >
+
+[18:32:48] [Justice] Guild Master Prydazo(2 grade) → Attack [Eternity] LeStrangler
+< Basic Point +2 >
+
+[18:32:51] [Justice] Damagedieter(2 grade) → Attack [Genèse] Euridisse
+< Basic Point +2 >
+
+[18:32:51] [Eternity] FookᅟMi(3 grade) → Attack [Genèse] Defender Skytecs
+< Basic Point +2, Defender Bonus +1 >
+
+[18:32:55] [Justice] Guild Master Prydazo(2 grade) → Attack [Astral] Siioz
+< Basic Point +2 >
+
+[18:32:56] [Astral] ULQ(3 grade) → Attack [Eternity] Kumi
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[18:32:58] [Hope] Vegeta(2 grade) → Attack [Genèse] Hopleking
+< Basic Point +2 >
+
+[18:32:59] [Eternity] Fang(2 grade) → Attack [Hope] Backupele
+< Basic Point +2 >
+
+[18:32:59] [Justice] Damagedieter(2 grade) → Attack [Genèse] Mönch
+< Basic Point +2 >
+
+[18:33:01] [Hope] Broblemspieler(2 grade) → Attack [Eternity] Fang
+< Basic Point +2 >
+
+[18:33:02] [Justice] Guild Master Prydazo(2 grade) → Attack [Genèse] SPARTACUS
+< Basic Point +2 >
+
+[18:33:05] [Astral] ULQ(3 grade) → Attack [Genèse] Pang
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[18:33:07] [Justice] AngelicBabe(3 grade) → Attack [Astral] Defender Teraze
+< Basic Point +2, Defender Bonus +1 >
+
+[18:33:08] [Genèse] Wabi(2 grade) → Attack [Astral] ULQ
+< Basic Point +2 >
+
+[18:33:12] [Justice] Damagedieter(2 grade) → Attack [Genèse] Wabi
+< Basic Point +2 >
+
+[18:33:12] [Hope] Vegeta(2 grade) → Attack [Eternity] Lyra
+< Basic Point +2 >
+
+[18:33:15] [Genèse] Sangoku(2 grade) → Attack [Eternity] FookᅟMi
+< Basic Point +2 >
+
+[18:33:15] [Eternity] KemalKilicdaroglu(2 grade) → Attack [Genèse] Sangoku
+< Basic Point +2 >
+
+[18:33:16] [Justice] AngelicBabe(2 grade) → Attack [Genèse] Eren
+< Basic Point +2 >
+
+[18:33:17] [Justice] Damagedieter(2 grade) → Attack [Genèse] Graouw
+< Basic Point +2 >
+
+[18:33:20] [Justice] Damagedieter(2 grade) → Attack [Genèse] Skyline
+< Basic Point +2 >
+
+[18:33:25] [Justice] Damagedieter(2 grade) → Attack [Eternity] Whiskey
+< Basic Point +2 >
+
+[18:33:26] [Genèse] Guild Master Ezz(3 grade) → Attack [Astral] Defender Teraze
+< Basic Point +2, Defender Bonus +1 >
+
+[18:33:29] [Eternity] Ariii(5 grade) → Attack [Hope] Vegeta
+< Basic Point +2, Killing streak Bonus +3 >
+
+[18:33:30] [Hope] Rio(2 grade) → Attack [Eternity] Ariii
+< Basic Point +2 >
+
+[18:33:30] [Justice] AngelicBabe(2 grade) → Attack [Genèse] Guild Master Ezz
+< Basic Point +2 >
+
+[18:33:35] [Justice] Guild Master Prydazo(2 grade) → Attack [Genèse] SPARTACUS
+< Basic Point +2 >
+
+[18:33:39] [Justice] AngelicBabe(2 grade) → Attack [Genèse] Sangoku
+< Basic Point +2 >
+
+[18:33:42] [Justice] Guild Master Prydazo(3 grade) → Attack [Genèse] Defender Skytecs
+< Basic Point +2, Defender Bonus +1 >
+
+[18:33:45] [Eternity] Guild Master FookᅟYu(3 grade) → Attack [Astral] Defender Teraze
+< Basic Point +2, Defender Bonus +1 >
+
+[18:33:46] [Justice] Damagedieter(2 grade) → Attack [Genèse] Euridisse
+< Basic Point +2 >
+
+[18:33:47] [Justice] Logout(2 grade) → Attack [Genèse] Eren
+< Basic Point +2 >
+
+[18:33:51] [Eternity] KemalKilicdaroglu(2 grade) → Attack [Hope] Rio
+< Basic Point +2 >
+
+[18:33:54] [Justice] Damagedieter(2 grade) → Attack [Genèse] Mönch
+< Basic Point +2 >
+
+[18:33:56] [Justice] Damagedieter(2 grade) → Attack [Genèse] Guild Master Ezz
+< Basic Point +2 >
+
+[18:33:57] [Hope] シーク(3 grade) → Attack [Eternity] Defender Totk
+< Basic Point +2, Defender Bonus +1 >
+
+[18:34:00] [Genèse] Wabi(2 grade) → Attack [Justice] bobele
+< Basic Point +2 >
+
+[18:34:01] [Eternity] Bojaro(2 grade) → Attack [Hope] Packsii
+< Basic Point +2 >
+
+[18:34:02] [Justice] AngelicBabe(2 grade) → Attack [Genèse] Wabi
+< Basic Point +2 >
+
+[18:34:03] [Justice] Guild Master Prydazo(3 grade) → Attack [Genèse] Defender Skytecs
+< Basic Point +2, Defender Bonus +1 >
+
+[18:34:05] [Hope] シーク(2 grade) → Attack [Eternity] Bojaro
+< Basic Point +2 >
+
+[18:34:05] [Eternity] Guild Master FookᅟYu(4 grade) → Attack [Hope] Broblemspieler
+< Basic Point +2, Killing streak Bonus +2 >
+
+[18:34:15] [Justice] Majin(2 grade) → Attack [Hope] Kamui
+< Basic Point +2 >
+
+[18:34:16] [Hope] PsychicSquare(2 grade) → Attack [Eternity] RecepTayyipErdogan
+< Basic Point +2 >
+
+[18:34:19] [Eternity] Steffen(2 grade) → Attack [Hope] Rizz
+< Basic Point +2 >
+
+[18:34:21] [Hope] シーク(4 grade) → Attack [Eternity] KemalKilicdaroglu
+< Basic Point +2, Killing streak Bonus +2 >
+
+[18:34:21] [Justice] Damagedieter(2 grade) → Attack [Genèse] Mönch
+< Basic Point +2 >
+
+[18:34:27] [Eternity] Guardiane(3 grade) → Attack [Hope] シーク
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:34:30] [Eternity] Guardiane(2 grade) → Attack [Hope] PsychicSquare
+< Basic Point +2 >
+
+[18:34:30] [Hope] Cük(2 grade) → Attack [Eternity] Guild Master FookᅟYu
+< Basic Point +2 >
+
+[18:34:30] [Justice] Majin(3 grade) → Attack [Hope] Defender eimagi
+< Basic Point +2, Defender Bonus +1 >
+
+[18:34:34] [Justice] Guild Master Prydazo(2 grade) → Attack [Eternity] LeStrangler
+< Basic Point +2 >
+
+[18:34:37] [Justice] Damagedieter(2 grade) → Attack [Eternity] Steffen
+< Basic Point +2 >
+
+[18:34:39] [Hope] JevanFynn(2 grade) → Attack [Genèse] Wabi
+< Basic Point +2 >
+
+[18:34:43] [Eternity] Guardiane(2 grade) → Attack [Genèse] Mönch
+< Basic Point +2 >
+
+[18:34:53] [Eternity] Fang(2 grade) → Attack [Hope] Backupele
+< Basic Point +2 >
+
+[18:34:54] [Justice] Guild Master Prydazo(2 grade) → Attack [Hope] Guild Master Nika
+< Basic Point +2 >
+
+[18:34:54] [Eternity] Fang(2 grade) → Attack [Hope] Lea
+< Basic Point +2 >
+
+[18:34:57] [Eternity] Guardiane(2 grade) → Attack [Hope] I9hdkill
+< Basic Point +2 >
+
+[18:35:02] [Justice] Damagedieter(2 grade) → Attack [Eternity] Kumi
+< Basic Point +2 >
+
+[18:35:04] [Justice] Guild Master Prydazo(2 grade) → Attack [Eternity] FookᅟMi
+< Basic Point +2 >
+
+[18:35:04] [Eternity] Guardiane(5 grade) → Attack [Justice] Damagedieter
+< Basic Point +2, Killing streak Bonus +3 >
+
+[18:35:10] [Justice] Majin(2 grade) → Attack [Hope] Rio
+< Basic Point +2 >
+
+[18:35:13] [Hope] Vegeta(5 grade) → Attack [Justice] Guild Master Prydazo
+< Basic Point +2, Killing streak Bonus +3 >
+
+[18:35:19] [Eternity] Fang(2 grade) → Attack [Hope] Broblemspieler
+< Basic Point +2 >
+
+[18:35:20] [Eternity] Fang(2 grade) → Attack [Hope] JevanFynn
+< Basic Point +2 >
+
+[18:35:21] [Eternity] Fang(2 grade) → Attack [Hope] Cük
+< Basic Point +2 >
+
+[18:35:21] [Eternity] Fang(2 grade) → Attack [Hope] Packsii
+< Basic Point +2 >
+
+[18:35:24] [Justice] AngelicBabe(2 grade) → Attack [Hope] Vegeta
+< Basic Point +2 >
+
+[18:35:28] [Eternity] Fang(2 grade) → Attack [Hope] Kamui
+< Basic Point +2 >
+
+[18:35:28] [Justice] Majin(2 grade) → Attack [Eternity] Lyra
+< Basic Point +2 >
+
+[18:35:34] [Justice] Madara(2 grade) → Attack [Hope] Rizz
+< Basic Point +2 >
+
+[18:35:36] [Justice] Majin(2 grade) → Attack [Hope] Backupele
+< Basic Point +2 >
+
+[18:35:42] [Justice] Madara(2 grade) → Attack [Hope] シーク
+< Basic Point +2 >
+
+[18:35:43] [Eternity] Guardiane(2 grade) → Attack [Justice] Logout
+< Basic Point +2 >
+
+[18:35:46] [Eternity] Fang(2 grade) → Attack [Justice] Madara
+< Basic Point +2 >
+
+[18:35:47] [Eternity] Fang(3 grade) → Attack [Hope] Defender eimagi
+< Basic Point +2, Defender Bonus +1 >
+
+[18:35:49] [Justice] Majin(2 grade) → Attack [Hope] I9hdkill
+< Basic Point +2 >
+
+[18:35:51] [Eternity] Guardiane(4 grade) → Attack [Justice] Majin
+< Basic Point +2, Killing streak Bonus +2 >
+
+[18:35:53] [Hope] Guild Master Nika(4 grade) → Attack [Justice] AngelicBabe
+< Basic Point +2, Killing streak Bonus +2 >
+
+[18:35:56] [Eternity] Guardiane(2 grade) → Attack [Justice] ありがとう
+< Basic Point +2 >
+
+[18:35:57] [Eternity] Fang(2 grade) → Attack [Justice] Misang
+< Basic Point +2 >
+
+[18:36:13] [Justice] Noutix(4 grade) → Attack [Eternity] Guardiane
+< Basic Point +2, Killing streak Bonus +2 >
+
+[18:36:15] [Eternity] Ariii(2 grade) → Attack [Justice] Noutix
+< Basic Point +2 >
+
+[18:36:31] [Hope] Guild Master Nika(2 grade) → Attack [Justice] Damagedieter
+< Basic Point +2 >
+
+[18:36:35] [Eternity] Fang(2 grade) → Attack [Hope] Rio
+< Basic Point +2 >
+
+[18:36:35] [Eternity] Fang(2 grade) → Attack [Hope] Lea
+< Basic Point +2 >
+
+[18:36:38] [Eternity] Ariii(2 grade) → Attack [Hope] Guild Master Nika
+< Basic Point +2 >
+
+[18:36:41] [Hope] PsychicSquare(5 grade) → Attack [Eternity] Fang
+< Basic Point +2, Killing streak Bonus +3 >
+
+[18:36:43] [Eternity] Ariii(2 grade) → Attack [Hope] PsychicSquare
+< Basic Point +2 >
+
+[18:36:56] [Hope] Cük(2 grade) → Attack [Justice] Seductive
+< Basic Point +2 >
+
+[18:36:57] [Hope] Vegeta(3 grade) → Attack [Justice] Defender Seepferdchen
+< Basic Point +2, Defender Bonus +1 >
+
+[18:37:03] [Hope] Broblemspieler(2 grade) → Attack [Justice] bobele
+< Basic Point +2 >
+
+[18:37:08] [Eternity] Bojaro(2 grade) → Attack [Justice] Ringmaster
+< Basic Point +2 >
+
+[18:37:08] [Hope] JevanFynn(2 grade) → Attack [Justice] C17
+< Basic Point +2 >
+
+[18:37:20] [Hope] Vegeta(2 grade) → Attack [Justice] Madara
+< Basic Point +2 >
+
+[18:37:26] [Hope] JevanFynn(2 grade) → Attack [Justice] Guild Master Prydazo
+< Basic Point +2 >
+
+[18:37:31] [Hope] Cük(2 grade) → Attack [Justice] AngelicBabe
+< Basic Point +2 >
+
+[18:37:31] [Eternity] Ariii(2 grade) → Attack [Justice] Logout
+< Basic Point +2 >
+
+[18:37:33] [Eternity] Bojaro(2 grade) → Attack [Justice] Majin
+< Basic Point +2 >
+
+[18:37:37] [Hope] Cük(2 grade) → Attack [Justice] ありがとう
+< Basic Point +2 >
+
+[18:37:40] [Justice] Stinki(3 grade) → Attack [Eternity] Ariii
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:37:40] [Hope] Vegeta(2 grade) → Attack [Justice] Misang
+< Basic Point +2 >
+
+[18:37:49] [Justice] Noutix(2 grade) → Attack [Hope] Broblemspieler
+< Basic Point +2 >
+
+[18:37:50] [Hope] Vegeta(2 grade) → Attack [Justice] Damagedieter
+< Basic Point +2 >
+
+[18:37:55] [Hope] Cük(2 grade) → Attack [Justice] Noutix
+< Basic Point +2 >
+
+[18:37:55] [Eternity] Bojaro(2 grade) → Attack [Justice] bobele
+< Basic Point +2 >
+
+[18:37:58] [Hope] Cük(2 grade) → Attack [Justice] Seductive
+< Basic Point +2 >
+
+[18:37:58] [Hope] Vegeta(2 grade) → Attack [Justice] Stinki
+< Basic Point +2 >
+
+[18:38:02] [Eternity] Totk(3 grade) → Attack [Justice] Defender Seepferdchen
+< Basic Point +2, Defender Bonus +1 >
+
+[18:38:08] [Hope] Vegeta(2 grade) → Attack [Justice] Madara
+< Basic Point +2 >
+
+[18:38:12] [Hope] Cük(2 grade) → Attack [Justice] Ringmaster
+< Basic Point +2 >
+
+[18:38:16] [Eternity] Whiskey(2 grade) → Attack [Justice] Guild Master Prydazo
+< Basic Point +2 >
+
+[18:38:20] [Eternity] Bojaro(2 grade) → Attack [Justice] AngelicBabe
+< Basic Point +2 >
+
+[18:38:21] [Hope] JevanFynn(2 grade) → Attack [Justice] C17
+< Basic Point +2 >
+
+[18:38:30] [Hope] Cük(2 grade) → Attack [Justice] ありがとう
+< Basic Point +2 >
+
+[18:38:36] [Hope] JevanFynn(2 grade) → Attack [Justice] Majin
+< Basic Point +2 >
+
+[18:38:39] [Justice] Misang(2 grade) → Attack [Eternity] Whiskey
+< Basic Point +2 >
+
+[18:38:44] [Hope] Rizz(2 grade) → Attack [Justice] bobele
+< Basic Point +2 >
+
+[18:38:51] [Hope] Cük(2 grade) → Attack [Justice] Noutix
+< Basic Point +2 >
+
+[18:38:54] [Justice] Damagedieter(2 grade) → Attack [Hope] Kamui
+< Basic Point +2 >
+
+[18:39:00] [Hope] Rizz(2 grade) → Attack [Justice] Logout
+< Basic Point +2 >
+
+[18:39:08] [Eternity] KemalKilicdaroglu(2 grade) → Attack [Hope] Backupele
+< Basic Point +2 >
+
+[18:39:46] [Eternity] Bojaro(2 grade) → Attack [Hope] Packsii
+< Basic Point +2 >
+
+[18:39:50] [Eternity] fettywap(4 grade) → Attack [Hope] Cük
+< Basic Point +2, Killing streak Bonus +2 >
+
+[18:39:52] [Justice] Seepferdchen(2 grade) → Attack [Hope] シーク
+< Basic Point +2 >
+
+[18:39:54] [Justice] Stinki(2 grade) → Attack [Hope] Rizz
+< Basic Point +2 >
+
+[18:39:57] [Eternity] KemalKilicdaroglu(2 grade) → Attack [Justice] Damagedieter
+< Basic Point +2 >
+
+[18:39:59] [Justice] Seductive(3 grade) → Attack [Hope] JevanFynn
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:40:04] [Eternity] KemalKilicdaroglu(2 grade) → Attack [Justice] Stinki
+< Basic Point +2 >
+
+[18:40:17] [Eternity] fettywap(3 grade) → Attack [Hope] Defender eimagi
+< Basic Point +2, Defender Bonus +1 >
+
+[18:40:22] [Justice] Seductive(2 grade) → Attack [Hope] Rio
+< Basic Point +2 >
+
+[18:40:24] [Hope] Vegeta(3 grade) → Attack [Eternity] KemalKilicdaroglu
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:40:35] [Hope] Lea(2 grade) → Attack [Justice] Seductive
+< Basic Point +2 >
+
+[18:40:54] [Hope] Vegeta(4 grade) → Attack [Eternity] Bojaro
+< Basic Point +2, Killing streak Bonus +2 >
+
+[18:40:55] [Eternity] fettywap(4 grade) → Attack [Hope] Vegeta
+< Basic Point +2, Killing streak Bonus +2 >
+
+[18:40:58] [Hope] PsychicSquare(3 grade) → Attack [Eternity] Defender Totk
+< Basic Point +2, Defender Bonus +1 >
+
+[18:41:01] [Hope] Guild Master Nika(2 grade) → Attack [Eternity] LeStrangler
+< Basic Point +2 >
+
+[18:41:03] [Justice] Misang(2 grade) → Attack [Hope] Lea
+< Basic Point +2 >
+
+[18:41:05] [Justice] Guild Master Prydazo(2 grade) → Attack [Hope] Guild Master Nika
+< Basic Point +2 >
+
+[18:41:14] [Justice] Seepferdchen(2 grade) → Attack [Hope] Broblemspieler
+< Basic Point +2 >
+
+[18:41:15] [Justice] Misang(2 grade) → Attack [Eternity] RecepTayyipErdogan
+< Basic Point +2 >
+
+[18:41:16] [Eternity] FookᅟMi(2 grade) → Attack [Hope] PsychicSquare
+< Basic Point +2 >
+
+[18:41:24] [Justice] Madara(2 grade) → Attack [Hope] Backupele
+< Basic Point +2 >
+
+[18:41:29] [Hope] Cük(2 grade) → Attack [Justice] Madara
+< Basic Point +2 >
+
+[18:41:30] [Eternity] FookᅟMi(2 grade) → Attack [Hope] Packsii
+< Basic Point +2 >
+
+[18:42:13] [Eternity] Steffen(2 grade) → Attack [Hope] Cük
+< Basic Point +2 >
+
+[18:42:14] [Eternity] fettywap(2 grade) → Attack [Hope] I9hdkill
+< Basic Point +2 >
+
+[18:42:18] [Eternity] Steffen(2 grade) → Attack [Hope] Kamui
+< Basic Point +2 >
+
+[18:42:19] [Justice] Seepferdchen(2 grade) → Attack [Hope] Rizz
+< Basic Point +2 >
+
+[18:42:22] [Eternity] Guild Master FookᅟYu(2 grade) → Attack [Hope] シーク
+< Basic Point +2 >
+
+[18:42:41] [Eternity] fettywap(2 grade) → Attack [Hope] Guild Master Nika
+< Basic Point +2 >
+
+[18:42:46] [Eternity] FookᅟMi(2 grade) → Attack [Hope] Lea
+< Basic Point +2 >
+
+[18:42:50] [Eternity] Guild Master FookᅟYu(2 grade) → Attack [Hope] Rio
+< Basic Point +2 >
+
+[18:42:52] [Justice] Misang(2 grade) → Attack [Hope] Vegeta
+< Basic Point +2 >
+
+[18:43:00] [Eternity] Guild Master FookᅟYu(2 grade) → Attack [Hope] Broblemspieler
+< Basic Point +2 >
+
+[18:43:05] [Eternity] fettywap(2 grade) → Attack [Hope] Backupele
+< Basic Point +2 >
+
+[18:43:08] [Justice] C17(2 grade) → Attack [Hope] PsychicSquare
+< Basic Point +2 >
+
+[18:43:12] [Justice] Guild Master Prydazo(3 grade) → Attack [Hope] Defender eimagi
+< Basic Point +2, Defender Bonus +1 >
+
+[18:43:18] [Justice] Seepferdchen(2 grade) → Attack [Hope] Packsii
+< Basic Point +2 >
+
+[18:43:18] [Hope] Cük(4 grade) → Attack [Justice] Defender Seepferdchen
+< Basic Point +2, Defender Bonus +1, Killing streak Bonus +1 >
+
+[18:43:20] [Eternity] Guild Master FookᅟYu(2 grade) → Attack [Justice] Guild Master Prydazo
+< Basic Point +2 >
+
+[18:43:22] [Justice] Misang(2 grade) → Attack [Hope] Cük
+< Basic Point +2 >
+
+[18:43:30] [Eternity] Steffen(2 grade) → Attack [Hope] I9hdkill
+< Basic Point +2 >
+
+[18:43:33] [Justice] Majin(2 grade) → Attack [Hope] JevanFynn
+< Basic Point +2 >
+
+[18:43:34] [Hope] Rizz(2 grade) → Attack [Justice] Ringmaster
+< Basic Point +2 >
+
+[18:43:34] [Justice] C17(2 grade) → Attack [Hope] Rizz
+< Basic Point +2 >
+
+[18:43:35] [Hope] シーク(2 grade) → Attack [Justice] ありがとう
+< Basic Point +2 >
+
+[18:43:38] [Eternity] Steffen(2 grade) → Attack [Justice] AngelicBabe
+< Basic Point +2 >
+
+[18:43:41] [Hope] シーク(2 grade) → Attack [Justice] Majin
+< Basic Point +2 >
+
+[18:43:41] [Eternity] Steffen(4 grade) → Attack [Justice] Misang
+< Basic Point +2, Killing streak Bonus +2 >
+
+[18:43:48] [Eternity] Steffen(2 grade) → Attack [Hope] Rio
+< Basic Point +2 >
+
+[18:43:59] [Hope] Guild Master Nika(2 grade) → Attack [Eternity] Kumi
+< Basic Point +2 >
+
+[18:44:07] [Hope] Guild Master Nika(2 grade) → Attack [Eternity] Lyra
+< Basic Point +2 >
+
+[18:44:22] [Eternity] Fang(2 grade) → Attack [Hope] Vegeta
+< Basic Point +2 >
+
+[18:44:22] [Eternity] Fang(2 grade) → Attack [Hope] Broblemspieler
+< Basic Point +2 >
+
+[18:44:22] [Eternity] Fang(2 grade) → Attack [Hope] Lea
+< Basic Point +2 >
+
+[18:44:22] [Eternity] Fang(2 grade) → Attack [Hope] Kamui
+< Basic Point +2 >
+
+[18:44:23] [Eternity] fettywap(2 grade) → Attack [Hope] Guild Master Nika
+< Basic Point +2 >
+
+[18:44:27] [Eternity] Fang(2 grade) → Attack [Justice] Noutix
+< Basic Point +2 >
+
+[18:44:30] [Justice] Damagedieter(2 grade) → Attack [Hope] シーク
+< Basic Point +2 >
+
+[18:44:33] [Eternity] Guardiane(2 grade) → Attack [Justice] C17
+< Basic Point +2 >
+
+[18:44:35] [Eternity] Fang(2 grade) → Attack [Justice] bobele
+< Basic Point +2 >
+
+[18:44:35] [Eternity] Fang(2 grade) → Attack [Hope] Backupele
+< Basic Point +2 >
+
+[18:44:40] [Justice] Damagedieter(2 grade) → Attack [Hope] PsychicSquare
+< Basic Point +2 >
+
+[18:44:41] [Eternity] FookᅟMi(2 grade) → Attack [Hope] Packsii
+< Basic Point +2 >
+
+[18:44:42] [Justice] Damagedieter(2 grade) → Attack [Hope] Cük
+< Basic Point +2 >
+
+[18:44:43] [Eternity] Guild Master FookᅟYu(3 grade) → Attack [Hope] Defender eimagi
+< Basic Point +2, Defender Bonus +1 >
+
+[18:44:47] [Eternity] Steffen(2 grade) → Attack [Justice] Madara
+< Basic Point +2 >
+
+[18:44:48] [Eternity] Guild Master FookᅟYu(3 grade) → Attack [Justice] Damagedieter
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:44:52] [Eternity] Guardiane(2 grade) → Attack [Hope] I9hdkill
+< Basic Point +2 >
+
+[18:44:55] [Eternity] Fang(2 grade) → Attack [Justice] Seductive
+< Basic Point +2 >
+
+[18:44:57] [Eternity] Fang(2 grade) → Attack [Justice] Logout
+< Basic Point +2 >
+
+[18:44:59] [Eternity] Fang(3 grade) → Attack [Justice] Defender Seepferdchen
+< Basic Point +2, Defender Bonus +1 >
+
+[18:44:59] [Eternity] Fang(2 grade) → Attack [Justice] Stinki
+< Basic Point +2 >
+
+[18:45:02] [Eternity] fettywap(2 grade) → Attack [Hope] Vegeta
+< Basic Point +2 >
+
+[18:45:05] [Eternity] Fang(2 grade) → Attack [Hope] Rio
+< Basic Point +2 >
+
+[18:45:05] [Eternity] Guardiane(2 grade) → Attack [Hope] Lea
+< Basic Point +2 >
+
+[18:45:08] [Hope] JevanFynn(4 grade) → Attack [Eternity] fettywap
+< Basic Point +2, Killing streak Bonus +2 >
+
+[18:45:08] [Eternity] Fang(2 grade) → Attack [Hope] Rizz
+< Basic Point +2 >
+
+[18:45:08] [Eternity] Fang(2 grade) → Attack [Hope] JevanFynn
+< Basic Point +2 >
+
+[18:45:14] [Justice] Guild Master Prydazo(2 grade) → Attack [Hope] Broblemspieler
+< Basic Point +2 >
+
+[18:45:22] [Justice] Majin(5 grade) → Attack [Eternity] Fang
+< Basic Point +2, Killing streak Bonus +3 >
+
+[18:45:24] [Justice] Majin(2 grade) → Attack [Hope] Backupele
+< Basic Point +2 >
+
+[18:45:35] [Eternity] Guild Master FookᅟYu(2 grade) → Attack [Hope] Packsii
+< Basic Point +2 >
+
+[18:45:39] [Justice] AngelicBabe(2 grade) → Attack [Hope] Kamui
+< Basic Point +2 >
+
+[18:45:41] [Justice] AngelicBabe(2 grade) → Attack [Hope] シーク
+< Basic Point +2 >
+
+[18:45:41] [Justice] Misang(2 grade) → Attack [Hope] PsychicSquare
+< Basic Point +2 >
+
+[18:45:42] [Hope] Cük(2 grade) → Attack [Justice] AngelicBabe
+< Basic Point +2 >
+
+[18:45:43] [Justice] Misang(2 grade) → Attack [Hope] Cük
+< Basic Point +2 >
+
+[18:45:44] [Eternity] Whiskey(2 grade) → Attack [Justice] ありがとう
+< Basic Point +2 >
+
+[18:45:46] [Eternity] Guild Master FookᅟYu(2 grade) → Attack [Hope] Guild Master Nika
+< Basic Point +2 >
+
+[18:45:49] [Justice] Majin(3 grade) → Attack [Hope] Defender eimagi
+< Basic Point +2, Defender Bonus +1 >
+
+[18:45:55] [Eternity] Whiskey(2 grade) → Attack [Justice] Guild Master Prydazo
+< Basic Point +2 >
+
+[18:45:57] [Hope] Vegeta(2 grade) → Attack [Justice] Misang
+< Basic Point +2 >
+
+[18:46:01] [Eternity] Steffen(3 grade) → Attack [Justice] Majin
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:46:02] [Justice] Noutix(3 grade) → Attack [Hope] Rio
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[18:46:12] [Hope] Rizz(2 grade) → Attack [Justice] Noutix
+< Basic Point +2 >
+
+[18:46:16] [Eternity] Guardiane(2 grade) → Attack [Justice] Ringmaster
+< Basic Point +2 >
+
+[18:46:21] [Eternity] Whiskey(2 grade) → Attack [Justice] Damagedieter
+< Basic Point +2 >
+
+[18:46:39] [Hope] Broblemspieler(2 grade) → Attack [Justice] bobele
+< Basic Point +2 >
+
+[18:46:43] [Hope] Rizz(2 grade) → Attack [Justice] Logout
+< Basic Point +2 >
+
+[18:46:44] [Justice] Madara(3 grade) → Attack [Hope] Rizz
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[18:46:50] [Eternity] Guardiane(2 grade) → Attack [Hope] Lea
+< Basic Point +2 >
+
+[18:46:53] [Justice] Stinki(2 grade) → Attack [Hope] Vegeta
+< Basic Point +2 >
+
+[18:46:54] [Eternity] FookᅟMi(2 grade) → Attack [Hope] I9hdkill
+< Basic Point +2 >
+
+[18:46:58] [Justice] C17(2 grade) → Attack [Hope] Broblemspieler
+< Basic Point +2 >
+
+[18:47:00] [Eternity] Ariii(2 grade) → Attack [Hope] JevanFynn
+< Basic Point +2 >
+
+[18:47:00] [Justice] AngelicBabe(3 grade) → Attack [Hope] Backupele
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[18:47:03] [Justice] AngelicBabe(3 grade) → Attack [Hope] Packsii
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[18:47:10] [Eternity] Guild Master FookᅟYu(2 grade) → Attack [Justice] C17
+< Basic Point +2 >
+
+[18:47:19] [Eternity] Ariii(2 grade) → Attack [Justice] Madara
+< Basic Point +2 >
+
+[18:47:20] [Eternity] Guardiane(3 grade) → Attack [Hope] Defender eimagi
+< Basic Point +2, Defender Bonus +1 >
+
+[18:47:23] [Eternity] Ariii(2 grade) → Attack [Justice] Stinki
+< Basic Point +2 >
+
+[18:47:24] [Eternity] Guild Master FookᅟYu(2 grade) → Attack [Justice] Seductive
+< Basic Point +2 >
+
+[18:47:26] [Hope] PsychicSquare(2 grade) → Attack [Justice] ありがとう
+< Basic Point +2 >
+
+[18:47:28] [Hope] Cük(3 grade) → Attack [Eternity] Whiskey
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:47:31] [Hope] Guild Master Nika(3 grade) → Attack [Eternity] Ariii
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:47:33] [Eternity] Guild Master FookᅟYu(3 grade) → Attack [Justice] Defender Seepferdchen
+< Basic Point +2, Defender Bonus +1 >
+
+[18:47:47] [Eternity] FookᅟMi(2 grade) → Attack [Hope] Cük
+< Basic Point +2 >
+
+[18:47:48] [Hope] Kamui(4 grade) → Attack [Eternity] Steffen
+< Basic Point +2, Killing streak Bonus +2 >
+
+[18:47:49] [Eternity] Guild Master FookᅟYu(2 grade) → Attack [Hope] Rio
+< Basic Point +2 >
+
+[18:47:52] [Hope] Guild Master Nika(4 grade) → Attack [Eternity] Guardiane
+< Basic Point +2, Killing streak Bonus +2 >
+
+[18:47:56] [Justice] Guild Master Prydazo(3 grade) → Attack [Hope] Kamui
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[18:47:59] [Justice] AngelicBabe(3 grade) → Attack [Hope] PsychicSquare
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[18:48:00] [Eternity] KemalKilicdaroglu(2 grade) → Attack [Hope] Guild Master Nika
+< Basic Point +2 >
+
+[18:48:04] [Justice] Majin(3 grade) → Attack [Hope] Rizz
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[18:48:05] [Justice] Guild Master Prydazo(3 grade) → Attack [Hope] シーク
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[18:48:07] [Eternity] Bojaro(2 grade) → Attack [Hope] Lea
+< Basic Point +2 >
+
+[18:48:12] [Hope] Vegeta(2 grade) → Attack [Justice] Guild Master Prydazo
+< Basic Point +2 >
+
+[18:48:14] [Eternity] FookᅟMi(2 grade) → Attack [Hope] I9hdkill
+< Basic Point +2 >
+
+[18:48:19] [Justice] AngelicBabe(3 grade) → Attack [Hope] Vegeta
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[18:48:26] [Eternity] Guild Master FookᅟYu(2 grade) → Attack [Hope] Packsii
+< Basic Point +2 >
+
+[18:48:26] [Justice] Majin(3 grade) → Attack [Hope] Broblemspieler
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[18:48:31] [Eternity] LeStrangler(3 grade) → Attack [Hope] JevanFynn
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[18:48:35] [Hope] Cük(3 grade) → Attack [Justice] AngelicBabe
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:48:36] [Justice] Misang(2 grade) → Attack [Hope] Backupele
+< Basic Point +2 >
+
+[18:48:39] [Eternity] Guild Master FookᅟYu(3 grade) → Attack [Hope] Defender eimagi
+< Basic Point +2, Defender Bonus +1 >
+
+[18:48:40] [Eternity] KemalKilicdaroglu(2 grade) → Attack [Justice] Majin
+< Basic Point +2 >
+
+[18:48:46] [Eternity] FookᅟMi(2 grade) → Attack [Hope] Cük
+< Basic Point +2 >
+
+[18:48:49] [Eternity] LeStrangler(3 grade) → Attack [Hope] Rio
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[18:49:01] [Hope] Guild Master Nika(2 grade) → Attack [Justice] Logout
+< Basic Point +2 >
+
+[18:49:03] [Justice] Stinki(3 grade) → Attack [Hope] Lea
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[18:49:19] [Hope] PsychicSquare(2 grade) → Attack [Justice] Misang
+< Basic Point +2 >
+
+[18:49:21] [Hope] PsychicSquare(2 grade) → Attack [Justice] C17
+< Basic Point +2 >
+
+[18:49:26] [Hope] PsychicSquare(2 grade) → Attack [Justice] Stinki
+< Basic Point +2 >
+
+[18:49:27] [Eternity] Guild Master FookᅟYu(2 grade) → Attack [Justice] Seductive
+< Basic Point +2 >
+
+[18:49:28] [Hope] シーク(3 grade) → Attack [Justice] Defender Seepferdchen
+< Basic Point +2, Defender Bonus +1 >
+
+[18:49:29] [Eternity] Bojaro(2 grade) → Attack [Justice] Ringmaster
+< Basic Point +2 >
+
+[18:49:33] [Hope] PsychicSquare(2 grade) → Attack [Eternity] LeStrangler
+< Basic Point +2 >
+
+[18:49:46] [Eternity] Guild Master FookᅟYu(2 grade) → Attack [Justice] C17
+< Basic Point +2 >
+
+[18:49:50] [Hope] PsychicSquare(2 grade) → Attack [Justice] Misang
+< Basic Point +2 >
+
+[18:49:53] [Hope] PsychicSquare(2 grade) → Attack [Justice] Ringmaster
+< Basic Point +2 >
+
+[18:50:04] [Eternity] KemalKilicdaroglu(2 grade) → Attack [Hope] I9hdkill
+< Basic Point +2 >
+
+[18:50:27] [Eternity] Guild Master FookᅟYu(2 grade) → Attack [Hope] Kamui
+< Basic Point +2 >
+
+[18:50:28] [Hope] PsychicSquare(2 grade) → Attack [Eternity] Bojaro
+< Basic Point +2 >
+
+[18:50:29] [Eternity] FookᅟMi(2 grade) → Attack [Hope] Rizz
+< Basic Point +2 >
+
+[18:50:31] [Eternity] Guild Master FookᅟYu(2 grade) → Attack [Hope] Vegeta
+< Basic Point +2 >
+
+[18:50:31] [Eternity] KemalKilicdaroglu(4 grade) → Attack [Hope] PsychicSquare
+< Basic Point +2, Killing streak Bonus +2 >
+
+[18:50:31] [Eternity] Totk(2 grade) → Attack [Hope] Guild Master Nika
+< Basic Point +2 >
+
+[18:50:35] [Eternity] Guild Master FookᅟYu(2 grade) → Attack [Hope] シーク
+< Basic Point +2 >
+
+[18:50:42] [Eternity] FookᅟMi(2 grade) → Attack [Hope] Broblemspieler
+< Basic Point +2 >
+
+[18:50:45] [Hope] Cük(6 grade) → Attack [Eternity] Guild Master FookᅟYu
+< Basic Point +2, Resurrecting Bonus +1, Killing streak Bonus +3 >
+
+[18:51:08] [Eternity] FookᅟMi(3 grade) → Attack [Hope] Defender eimagi
+< Basic Point +2, Defender Bonus +1 >
+
+[18:51:11] [Hope] Cük(3 grade) → Attack [Eternity] Kumi
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[18:51:30] [Hope] Cük(3 grade) → Attack [Eternity] Lyra
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[18:51:42] [Eternity] Fang(3 grade) → Attack [Hope] I9hdkill
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[18:51:57] [Hope] PsychicSquare(4 grade) → Attack [Eternity] Defender Totk
+< Basic Point +2, Defender Bonus +1, Resurrecting Bonus +1 >
+
+[18:52:00] [Hope] Vegeta(3 grade) → Attack [Eternity] Fang
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[18:52:04] [Eternity] FookᅟMi(2 grade) → Attack [Hope] Packsii
+< Basic Point +2 >
+
+[18:52:09] [Hope] JevanFynn(2 grade) → Attack [Eternity] RecepTayyipErdogan
+< Basic Point +2 >
+
+[18:52:10] [Hope] Cük(6 grade) → Attack [Eternity] FookᅟMi
+< Basic Point +2, Resurrecting Bonus +1, Killing streak Bonus +3 >
+
+[18:52:13] [Hope] PsychicSquare(3 grade) → Attack [Eternity] fettywap
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[18:52:17] [Hope] PsychicSquare(3 grade) → Attack [Eternity] Ariii
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[18:52:18] [Eternity] KemalKilicdaroglu(3 grade) → Attack [Hope] PsychicSquare
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:52:19] [Hope] Guild Master Nika(3 grade) → Attack [Eternity] Whiskey
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[18:52:25] [Eternity] KemalKilicdaroglu(2 grade) → Attack [Hope] Guild Master Nika
+< Basic Point +2 >
+
+[18:52:28] [Hope] Vegeta(3 grade) → Attack [Eternity] Guardiane
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[18:52:31] [Hope] JevanFynn(4 grade) → Attack [Eternity] KemalKilicdaroglu
+< Basic Point +2, Killing streak Bonus +2 >
+
+[18:52:31] [Eternity] Guild Master FookᅟYu(3 grade) → Attack [Hope] Cük
+< Basic Point +2, Killing streak Bonus +1 >
+
+[18:52:36] [Hope] シーク(3 grade) → Attack [Eternity] Guild Master FookᅟYu
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[18:52:39] [Hope] JevanFynn(2 grade) → Attack [Eternity] Steffen
+< Basic Point +2 >
+
+[18:53:00] [Hope] シーク(4 grade) → Attack [Eternity] Defender Totk
+< Basic Point +2, Defender Bonus +1, Resurrecting Bonus +1 >
+
+[18:53:05] [Eternity] FookᅟMi(3 grade) → Attack [Hope] Defender eimagi
+< Basic Point +2, Defender Bonus +1 >
+
+[18:53:09] [Hope] シーク(3 grade) → Attack [Eternity] FookᅟMi
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[18:53:19] [Hope] シーク(3 grade) → Attack [Eternity] Bojaro
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[18:53:19] [Eternity] Guardiane(3 grade) → Attack [Hope] Vegeta
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[18:53:25] [Hope] シーク(3 grade) → Attack [Eternity] fettywap
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[18:53:36] [Eternity] Guild Master FookᅟYu(3 grade) → Attack [Hope] Kamui
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[18:53:46] [Eternity] KemalKilicdaroglu(4 grade) → Attack [Hope] シーク
+< Basic Point +2, Killing streak Bonus +2 >
+
+[18:53:55] [Eternity] Whiskey(4 grade) → Attack [Hope] JevanFynn
+< Basic Point +2, Resurrecting Bonus +1, Killing streak Bonus +1 >
+
+[18:54:00] [Eternity] Guild Master FookᅟYu(3 grade) → Attack [Hope] Kamui
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[18:54:17] [Hope] JevanFynn(2 grade) → Attack [Eternity] Guild Master FookᅟYu
+< Basic Point +2 >
+
+[18:54:18] [Eternity] Guardiane(3 grade) → Attack [Hope] JevanFynn
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[18:54:43] [Eternity] FookᅟMi(3 grade) → Attack [Hope] JevanFynn
+< Basic Point +2, Resurrecting Bonus +1 >

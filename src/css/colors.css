@@ -1,0 +1,20 @@
+:root {
+  --grey-medium: #f3f4f9;
+  --grey-normal: #d9e4f1;
+  --grey-medium-dark: #bec7d9;
+  --text-color: #151b26;
+  --success-light: #8ae99e;
+  --success-dark: #318844;
+  --danger-dark: #9c3d49;
+  --danger: #ce5c6b;
+  --danger-light: #f37989;
+  --gold: #dbba0b;
+  --silver: #C0C0C0;
+  --bronze: #CD7F32;
+  --button-primary: #2a93ed;
+  --button-hover: #216cad;
+  --background-dark: #1c2935;
+  --sidebar-bg-dark: #253646;
+  --panel-bg-dark: #09121a;
+  --panel-bg: #fff;
+}

@@ -1,0 +1,88 @@
+.sl-item {
+  background: #fff;
+  border-radius: 5px;
+  padding: 5px 15px 5px 15px;
+  height: 95px;
+  box-shadow: rgb(145 158 171 / 20%) 0px 0px 2px 0px, rgb(145 158 171 / 12%) 0px 12px 24px -4px;
+  text-decoration: none;
+  color: var(--text-color);
+  transition: all 0.1s linear;
+  -webkit-transition: all 0.1s linear;
+  -moz-transition: all 0.1s linear;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.sl-item:hover {
+  background: var(--grey-normal);
+}
+
+.sl-item:active {
+  transform: scale(0.98);
+}
+
+.dark .sl-item {
+  box-shadow: none;
+  background: var(--panel-bg-dark);
+  color: #fff;
+}
+
+.sl-item-server {
+  font-weight: 400;
+}
+
+.sl-item-label {
+  font-weight: 600;
+}
+
+.sl-item-val {
+  font-weight: 400;
+}
+
+.sl-item-left {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-grow: 1;
+  width: 80%;
+}
+
+.sl-item-right {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: flex-end;
+  text-align: left;
+}
+
+.sl-item-icon {
+  color: var(--gold);
+  margin-right: 5px;
+}
+
+.sl-item-icon.vod {
+  color: var(--button-hover);
+}
+
+.sl-item-winner {
+  display: flex;
+  align-items: center;
+  text-align: right;
+  justify-content: flex-start;
+}
+
+.sl-item-winner-val,
+.sl-item-vods-val,
+.sl-item-mvp-val {
+  width: 100px;
+  text-align: left;
+  margin-left: 5px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-weight: 600;
+  max-height: 28px;
+}

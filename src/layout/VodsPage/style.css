@@ -1,0 +1,29 @@
+.vp-containe {
+  overflow-y: scroll;
+  margin-bottom: 50px;
+}
+
+.vod-tile-container {
+  display: grid;
+  grid-gap: 15px;
+  grid-template-columns: repeat(auto-fit, 200px);
+}
+
+.vp-top {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.vp-title {
+  flex-grow: 1;
+}
+
+.vp-submit {
+  margin-right: 15px;
+  min-width: 130px;
+}
+
+.vp-empty {
+  text-align: center;
+}

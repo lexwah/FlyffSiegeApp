@@ -1,0 +1,1772 @@
+[Kern] Knumi(2 grade) → Attack [Eternal] Zubuwu
+< Basic Point +2 >
+
+[Eternal] RadioΩctivë(2 grade) → Attack [Kern] Kamukura
+< Basic Point +2 >
+
+[Glory] Mojofly(2 grade) → Attack [Aphyria] JurassicPark
+< Basic Point +2 >
+
+[Eternal] RadioΩctivë(2 grade) → Attack [Kern] Ksí
+< Basic Point +2 >
+
+[Kern] Guild Master SeanJuan(2 grade) → Attack [Eternal] ißlaze
+< Basic Point +2 >
+
+[Glory] Mojofly(2 grade) → Attack [Aphyria] Guild Master Yhava
+< Basic Point +2 >
+
+[Kern] Knumi(2 grade) → Attack [Eternal] RadioΩctivë
+< Basic Point +2 >
+
+[Eternal] Guild Master RyuseÍÍ(2 grade) → Attack [Kern] Guild Master SeanJuan
+< Basic Point +2 >
+
+[Relapse] Bhencho(2 grade) → Attack [Glory] Mojofly
+< Basic Point +2 >
+
+[Glory] Ruler(2 grade) → Attack [Aphyria] Zenzedi
+< Basic Point +2 >
+
+[Aphyria] kahula(2 grade) → Attack [Relapse] Guild Master Jurassic
+< Basic Point +2 >
+
+[Relapse] Bhencho(2 grade) → Attack [Aphyria] kahula
+< Basic Point +2 >
+
+[Kern] Honcho(2 grade) → Attack [Eternal] Tobiii
+< Basic Point +2 >
+
+[Aphyria] Tafla04(2 grade) → Attack [Relapse] Bhencho
+< Basic Point +2 >
+
+[Glory] Zerum(2 grade) → Attack [Aphyria] DealtrenS
+< Basic Point +2 >
+
+[Kern] Knumi(2 grade) → Attack [Eternal] Guild Master RyuseÍÍ
+< Basic Point +2 >
+
+[Glory] Ruler(2 grade) → Attack [Aphyria] Wink
+< Basic Point +2 >
+
+[Eternal] Maliciousツ(2 grade) → Attack [Kern] Trab
+< Basic Point +2 >
+
+[Kern] Cuhz(2 grade) → Attack [Eternal] Maliciousツ
+< Basic Point +2 >
+
+[Glory] Zerum(3 grade) → Attack [Aphyria] Defender CosmicGigachad
+< Basic Point +2, Defender Bonus +1 >
+
+[Kern] Honcho(2 grade) → Attack [Eternal] Tunechi
+< Basic Point +2 >
+
+[Relapse] Angel(2 grade) → Attack [Aphyria] Sailant
+< Basic Point +2 >
+
+[Glory] TRiLLAKAMi(2 grade) → Attack [Aphyria] iCĘ
+< Basic Point +2 >
+
+[Relapse] Angel(2 grade) → Attack [Aphyria] Tafla04
+< Basic Point +2 >
+
+[Glory] Zerum(2 grade) → Attack [Aphyria] Riigel
+< Basic Point +2 >
+
+[Kern] Cuhz(2 grade) → Attack [Eternal] xProzaki
+< Basic Point +2 >
+
+[Aphyria] TearDropp(2 grade) → Attack [Glory] Ruler
+< Basic Point +2 >
+
+[Kern] Knumi(2 grade) → Attack [Eternal] PAÍN
+< Basic Point +2 >
+
+[Relapse] Whimsy(2 grade) → Attack [Aphyria] Chineitsang
+< Basic Point +2 >
+
+[Relapse] Angel(2 grade) → Attack [Aphyria] Psyck0
+< Basic Point +2 >
+
+[Kern] Cuhz(2 grade) → Attack [Aphyria] TearDropp
+< Basic Point +2 >
+
+[Relapse] Whimsy(2 grade) → Attack [Aphyria] HiBuffin
+< Basic Point +2 >
+
+[Glory] KamSlayer(2 grade) → Attack [Aphyria] JurassicPark
+< Basic Point +2 >
+
+[Kern] Knumi(2 grade) → Attack [Glory] TRiLLAKAMi
+< Basic Point +2 >
+
+[Relapse] Whimsy(2 grade) → Attack [Aphyria] Guild Master Yhava
+< Basic Point +2 >
+
+[Kern] Honcho(3 grade) → Attack [Glory] Zerum
+< Basic Point +2, Killing streak Bonus +1 >
+
+[Relapse] Whimsy(2 grade) → Attack [Aphyria] kahula
+< Basic Point +2 >
+
+[Glory] KamSlayer(2 grade) → Attack [Aphyria] Zenzedi
+< Basic Point +2 >
+
+[Kern] Cuhz(2 grade) → Attack [Glory] FistinForFun
+< Basic Point +2 >
+
+[Aphyria] iCĘ(3 grade) → Attack [Relapse] Whimsy
+< Basic Point +2, Killing streak Bonus +1 >
+
+[Aphyria] Wink(3 grade) → Attack [Relapse] Angel
+< Basic Point +2, Killing streak Bonus +1 >
+
+[Aphyria] Wink(2 grade) → Attack [Relapse] Chonky
+< Basic Point +2 >
+
+[Glory] KamSlayer(2 grade) → Attack [Aphyria] iCĘ
+< Basic Point +2 >
+
+[Aphyria] Sailant(2 grade) → Attack [Relapse] Anubìs
+< Basic Point +2 >
+
+[Aphyria] Tafla04(2 grade) → Attack [Relapse] Maliah
+< Basic Point +2 >
+
+[Relapse] myptsd(2 grade) → Attack [Aphyria] Tafla04
+< Basic Point +2 >
+
+[Glory] Dope(3 grade) → Attack [Relapse] Defender IncrediblyDead
+< Basic Point +2, Defender Bonus +1 >
+
+[Eternal] Gato(2 grade) → Attack [Kern] Jokey
+< Basic Point +2 >
+
+[Aphyria] Wink(2 grade) → Attack [Relapse] myptsd
+< Basic Point +2 >
+
+[Relapse] iPath(2 grade) → Attack [Glory] Dope
+< Basic Point +2 >
+
+[Kern] Cuhz(2 grade) → Attack [Relapse] Carambola
+< Basic Point +2 >
+
+[Aphyria] Riigel(2 grade) → Attack [Relapse] Cdv190
+< Basic Point +2 >
+
+[Relapse] iPath(2 grade) → Attack [Eternal] Gato
+< Basic Point +2 >
+
+[Aphyria] Sailant(2 grade) → Attack [Eternal] Dailyvibes
+< Basic Point +2 >
+
+[Aphyria] Wink(2 grade) → Attack [Relapse] Bhencho
+< Basic Point +2 >
+
+[Kern] Honcho(3 grade) → Attack [Glory] KamSlayer
+< Basic Point +2, Killing streak Bonus +1 >
+
+[Kern] Cuhz(2 grade) → Attack [Glory] IceLemonade
+< Basic Point +2 >
+
+[Relapse] iPath(3 grade) → Attack [Aphyria] Wink
+< Basic Point +2, Killing streak Bonus +1 >
+
+[Eternal] snkylnk(2 grade) → Attack [Aphyria] Riigel
+< Basic Point +2 >
+
+[Kern] Honcho(2 grade) → Attack [Glory] Trangy
+< Basic Point +2 >
+
+[Eternal] Zubuwu(2 grade) → Attack [Relapse] Whimsy
+< Basic Point +2 >
+
+[Aphyria] Psyck0(2 grade) → Attack [Relapse] Roza
+< Basic Point +2 >
+
+[Relapse] Guild Master Jurassic(2 grade) → Attack [Aphyria] Psyck0
+< Basic Point +2 >
+
+[Eternal] Zubuwu(3 grade) → Attack [Kern] Defender Makaveli
+< Basic Point +2, Defender Bonus +1 >
+
+[Glory] Zate(4 grade) → Attack [Kern] Knumi
+< Basic Point +2, Killing streak Bonus +2 >
+
+[Kern] Cuhz(2 grade) → Attack [Eternal] Zubuwu
+< Basic Point +2 >
+
+[Kern] Honcho(2 grade) → Attack [Eternal] ißlaze
+< Basic Point +2 >
+
+[Relapse] iPath(2 grade) → Attack [Aphyria] Chineitsang
+< Basic Point +2 >
+
+[Aphyria] TearDropp(3 grade) → Attack [Relapse] iPath
+< Basic Point +2, Killing streak Bonus +1 >
+
+[Glory] Dranked(2 grade) → Attack [Relapse] Angel
+< Basic Point +2 >
+
+[Kern] Runa(2 grade) → Attack [Eternal] snkylnk
+< Basic Point +2 >
+
+[Glory] Zate(2 grade) → Attack [Relapse] Violent
+< Basic Point +2 >
+
+[Relapse] Guild Master Jurassic(2 grade) → Attack [Aphyria] TearDropp
+< Basic Point +2 >
+
+[Glory] Dranked(2 grade) → Attack [Relapse] Guild Master Jurassic
+< Basic Point +2 >
+
+[Eternal] Guild Master RyuseÍÍ(2 grade) → Attack [Aphyria] HiBuffin
+< Basic Point +2 >
+
+[Kern] OGBobbyJohnson(2 grade) → Attack [Glory] Dranked
+< Basic Point +2 >
+
+[Kern] Honcho(2 grade) → Attack [Glory] Zate
+< Basic Point +2 >
+
+[Eternal] RadioΩctivë(2 grade) → Attack [Glory] Yuunoms
+< Basic Point +2 >
+
+[Eternal] Tobiii(2 grade) → Attack [Aphyria] JurassicPark
+< Basic Point +2 >
+
+[Aphyria] DealtrenS(2 grade) → Attack [Relapse] myptsd
+< Basic Point +2 >
+
+[Aphyria] Sailant(2 grade) → Attack [Glory] Widepeepo
+< Basic Point +2 >
+
+[Glory] Mojofly(2 grade) → Attack [Relapse] Anubìs
+< Basic Point +2 >
+
+[Aphyria] kahula(2 grade) → Attack [Relapse] Carambola
+< Basic Point +2 >
+
+[Glory] Ruler(2 grade) → Attack [Aphyria] kahula
+< Basic Point +2 >
+
+[Kern] OGBobbyJohnson(3 grade) → Attack [Eternal] Defender Tobì
+< Basic Point +2, Defender Bonus +1 >
+
+[Kern] Cuhz(2 grade) → Attack [Eternal] Tobiii
+< Basic Point +2 >
+
+[Glory] Mojofly(2 grade) → Attack [Relapse] Cdv190
+< Basic Point +2 >
+
+[Relapse] Bhencho(2 grade) → Attack [Aphyria] Zenzedi
+< Basic Point +2 >
+
+[Kern] Runa(2 grade) → Attack [Eternal] Maliciousツ
+< Basic Point +2 >
+
+[Aphyria] iCĘ(2 grade) → Attack [Relapse] Bhencho
+< Basic Point +2 >
+
+[Eternal] Tunechi(4 grade) → Attack [Kern] Honcho
+< Basic Point +2, Killing streak Bonus +2 >
+
+[Glory] Mojofly(2 grade) → Attack [Aphyria] DealtrenS
+< Basic Point +2 >
+
+[Glory] Ruler(2 grade) → Attack [Eternal] Tunechi
+< Basic Point +2 >
+
+[Kern] OGBobbyJohnson(2 grade) → Attack [Eternal] Guild Master RyuseÍÍ
+< Basic Point +2 >
+
+[Relapse] Whimsy(3 grade) → Attack [Aphyria] Sailant
+< Basic Point +2, Killing streak Bonus +1 >
+
+[Kern] Cuhz(2 grade) → Attack [Eternal] Pleasure
+< Basic Point +2 >
+
+[Glory] Mojofly(2 grade) → Attack [Eternal] RadioΩctivë
+< Basic Point +2 >
+
+[Kern] Runa(3 grade) → Attack [Glory] Mojofly
+< Basic Point +2, Killing streak Bonus +1 >
+
+[Glory] Ruler(3 grade) → Attack [Kern] Runa
+< Basic Point +2, Killing streak Bonus +1 >
+
+[Aphyria] Wink(2 grade) → Attack [Relapse] Whimsy
+< Basic Point +2 >
+
+[Aphyria] iCĘ(2 grade) → Attack [Relapse] Maliah
+< Basic Point +2 >
+
+[Relapse] iPath(2 grade) → Attack [Aphyria] iCĘ
+< Basic Point +2 >
+
+[Eternal] Gato(2 grade) → Attack [Aphyria] Tafla04
+< Basic Point +2 >
+
+[Glory] Ruler(2 grade) → Attack [Aphyria] Wink
+< Basic Point +2 >
+
+[Eternal] xProzaki(2 grade) → Attack [Relapse] Chonky
+< Basic Point +2 >
+
+[Kern] Cuhz(2 grade) → Attack [Glory] TRiLLAKAMi
+< Basic Point +2 >
+
+[Kern] OzzoKo(2 grade) → Attack [Relapse] iPath
+< Basic Point +2 >
+
+[Kern] Pikiri(3 grade) → Attack [Glory] Defender Gore
+< Basic Point +2, Defender Bonus +1 >
+
+[Glory] Zerum(2 grade) → Attack [Relapse] Angel
+< Basic Point +2 >
+
+[Eternal] xProzaki(2 grade) → Attack [Relapse] Roza
+< Basic Point +2 >
+
+[Glory] Ruler(2 grade) → Attack [Aphyria] Chineitsang
+< Basic Point +2 >
+
+[Glory] Zerum(5 grade) → Attack [Kern] Cuhz
+< Basic Point +2, Killing streak Bonus +3 >
+
+[Kern] Pikiri(2 grade) → Attack [Glory] Dope
+< Basic Point +2 >
+
+[Eternal] Gato(2 grade) → Attack [Relapse] Guild Master Jurassic
+< Basic Point +2 >
+
+[Eternal] xProzaki(3 grade) → Attack [Relapse] Defender IncrediblyDead
+< Basic Point +2, Defender Bonus +1 >
+
+[Relapse] Anubìs(2 grade) → Attack [Eternal] Gato
+< Basic Point +2 >
+
+[Aphyria] Psyck0(2 grade) → Attack [Relapse] Violent
+< Basic Point +2 >
+
+[Kern] Pikiri(4 grade) → Attack [Glory] Ruler
+< Basic Point +2, Killing streak Bonus +2 >
+
+[Relapse] Carambola(2 grade) → Attack [Aphyria] Psyck0
+< Basic Point +2 >
+
+[Eternal] xProzaki(2 grade) → Attack [Relapse] Anubìs
+< Basic Point +2 >
+
+[Kern] OGBobbyJohnson(2 grade) → Attack [Relapse] myptsd
+< Basic Point +2 >
+
+[Aphyria] TearDropp(2 grade) → Attack [Relapse] Carambola
+< Basic Point +2 >
+
+[Glory] Zerum(3 grade) → Attack [Kern] OGBobbyJohnson
+< Basic Point +2, Killing streak Bonus +1 >
+
+[Eternal] xProzaki(2 grade) → Attack [Aphyria] HiBuffin
+< Basic Point +2 >
+
+[Glory] IceLemonade(2 grade) → Attack [Kern] OzzoKo
+< Basic Point +2 >
+
+[Glory] KamSlayer(2 grade) → Attack [Kern] Hearsay
+< Basic Point +2 >
+
+[Aphyria] Riigel(2 grade) → Attack [Glory] FistinForFun
+< Basic Point +2 >
+
+[Eternal] Zubuwu(2 grade) → Attack [Relapse] Whimsy
+< Basic Point +2 >
+
+[Kern] Guild Master SeanJuan(2 grade) → Attack [Glory] Guild Master Kira
+< Basic Point +2 >
+
+[Glory] Zerum(2 grade) → Attack [Kern] Ksí
+< Basic Point +2 >
+
+[Eternal] xProzaki(2 grade) → Attack [Relapse] Cdv190
+< Basic Point +2 >
+
+[Glory] IceLemonade(3 grade) → Attack [Kern] Pikiri
+< Basic Point +2, Killing streak Bonus +1 >
+
+[Aphyria] TearDropp(2 grade) → Attack [Relapse] Maliah
+< Basic Point +2 >
+
+[Relapse] iPath(4 grade) → Attack [Eternal] xProzaki
+< Basic Point +2, Killing streak Bonus +2 >
+
+[Kern] Guild Master SeanJuan(3 grade) → Attack [Glory] Zerum
+< Basic Point +2, Killing streak Bonus +1 >
+
+[Relapse] Angel(2 grade) → Attack [Aphyria] Riigel
+< Basic Point +2 >
+
+[Aphyria] TearDropp(2 grade) → Attack [Relapse] Angel
+< Basic Point +2 >
+
+[Glory] IceLemonade(2 grade) → Attack [Relapse] iPath
+< Basic Point +2 >
+
+[Eternal] ißlaze(2 grade) → Attack [Glory] Dranked
+< Basic Point +2 >
+
+[Glory] Zate(2 grade) → Attack [Relapse] Bhencho
+< Basic Point +2 >
+
+[Kern] Jokey(2 grade) → Attack [Glory] KamSlayer
+< Basic Point +2 >
+
+[Aphyria] TearDropp(2 grade) → Attack [Relapse] Roza
+< Basic Point +2 >
+
+[Kern] Trab(3 grade) → Attack [Glory] IceLemonade
+< Basic Point +2, Killing streak Bonus +1 >
+
+[Kern] Guild Master SeanJuan(2 grade) → Attack [Glory] Widepeepo
+< Basic Point +2 >
+
+[Glory] Zate(2 grade) → Attack [Kern] Jokey
+< Basic Point +2 >
+
+[Relapse] Anubìs(3 grade) → Attack [Aphyria] TearDropp
+< Basic Point +2, Killing streak Bonus +1 >
+
+[Eternal] Zubuwu(2 grade) → Attack [Glory] Zate
+< Basic Point +2 >
+
+[Aphyria] JurassicPark(2 grade) → Attack [Relapse] Violent
+< Basic Point +2 >
+
+[Eternal] Zubuwu(2 grade) → Attack [Kern] Kamukura
+< Basic Point +2 >
+
+[Relapse] Guild Master Jurassic(2 grade) → Attack [Eternal] ißlaze
+< Basic Point +2 >
+
+[Aphyria] kahula(2 grade) → Attack [Glory] Trangy
+< Basic Point +2 >
+
+[Glory] Mojofly(2 grade) → Attack [Aphyria] kahula
+< Basic Point +2 >
+
+[Relapse] myptsd(3 grade) → Attack [Eternal] Zubuwu
+< Basic Point +2, Killing streak Bonus +1 >
+
+[Relapse] Anubìs(2 grade) → Attack [Eternal] Miyagi
+< Basic Point +2 >
+
+[Eternal] snkylnk(2 grade) → Attack [Relapse] Guild Master Jurassic
+< Basic Point +2 >
+
+[Glory] TRiLLAKAMi(3 grade) → Attack [Kern] Guild Master SeanJuan
+< Basic Point +2, Killing streak Bonus +1 >
+
+[Glory] Mojofly(2 grade) → Attack [Aphyria] JurassicPark
+< Basic Point +2 >
+
+[Kern] Knumi(2 grade) → Attack [Glory] Dope
+< Basic Point +2 >
+
+[Kern] Trab(2 grade) → Attack [Glory] Yuunoms
+< Basic Point +2 >
+
+[Relapse] myptsd(2 grade) → Attack [Eternal] snkylnk
+< Basic Point +2 >
+
+[Eternal] Dailyvibes(2 grade) → Attack [Relapse] Anubìs
+< Basic Point +2 >
+
+[Kern] Trab(2 grade) → Attack [Relapse] Carambola
+< Basic Point +2 >
+
+[Glory] Ruler(3 grade) → Attack [Kern] Trab
+< Basic Point +2, Killing streak Bonus +1 >
+
+[Eternal] Maliciousツ(2 grade) → Attack [Relapse] myptsd
+< Basic Point +2 >
+
+[Glory] FistinForFun(2 grade) → Attack [Kern] Knumi
+< Basic Point +2 >
+
+[Glory] Mojofly(2 grade) → Attack [Kern] Runa
+< Basic Point +2 >
+
+[Eternal] Tobiii(2 grade) → Attack [Relapse] Whimsy
+< Basic Point +2 >
+
+[Relapse] Maliah(2 grade) → Attack [Eternal] Dailyvibes
+< Basic Point +2 >
+
+[Kern] Cuhz(2 grade) → Attack [Glory] FistinForFun
+< Basic Point +2 >
+
+[Kern] Honcho(2 grade) → Attack [Relapse] Maliah
+< Basic Point +2 >
+
+[Glory] Mojofly(2 grade) → Attack [Relapse] Angel
+< Basic Point +2 >
+
+[Kern] Cuhz(2 grade) → Attack [Glory] Ruler
+< Basic Point +2 >
+
+[Kern] Honcho(2 grade) → Attack [Relapse] Cdv190
+< Basic Point +2 >
+
+[Eternal] Maliciousツ(2 grade) → Attack [Aphyria] Zenzedi
+< Basic Point +2 >
+
+[Kern] OGBobbyJohnson(2 grade) → Attack [Relapse] iPath
+< Basic Point +2 >
+
+[Relapse] Bhencho(2 grade) → Attack [Kern] Cuhz
+< Basic Point +2 >
+
+[Kern] OGBobbyJohnson(3 grade) → Attack [Relapse] Defender IncrediblyDead
+< Basic Point +2, Defender Bonus +1 >
+
+[Aphyria] iCĘ(2 grade) → Attack [Eternal] PAÍN
+< Basic Point +2 >
+
+[Glory] Zerum(2 grade) → Attack [Aphyria] Guild Master Yhava
+< Basic Point +2 >
+
+[Kern] OGBobbyJohnson(2 grade) → Attack [Relapse] Chonky
+< Basic Point +2 >
+
+[Relapse] Guild Master Jurassic(3 grade) → Attack [Kern] OGBobbyJohnson
+< Basic Point +2, Killing streak Bonus +1 >
+
+[Glory] Mojofly(2 grade) → Attack [Aphyria] iCĘ
+< Basic Point +2 >
+
+[Aphyria] Tafla04(2 grade) → Attack [Eternal] Tunechi
+< Basic Point +2 >
+
+[Eternal] Maliciousツ(2 grade) → Attack [Aphyria] Tafla04
+< Basic Point +2 >
+
+[Eternal] Tobiii(2 grade) → Attack [Aphyria] DealtrenS
+< Basic Point +2 >
+
+[Kern] Honcho(2 grade) → Attack [Relapse] Bhencho
+< Basic Point +2 >
+
+[Relapse] Anubìs(2 grade) → Attack [Kern] WikkedDreams
+< Basic Point +2 >
+
+[Glory] Zerum(2 grade) → Attack [Aphyria] Sailant
+< Basic Point +2 >
+
+[Glory] Mojofly(2 grade) → Attack [Aphyria] Wink
+< Basic Point +2 >
+
+[Kern] Honcho(2 grade) → Attack [Relapse] Guild Master Jurassic
+< Basic Point +2 >
+
+[Eternal] Guild Master RyuseÍÍ(2 grade) → Attack [Relapse] Anubìs
+< Basic Point +2 >
+
+[Eternal] Tobiii(2 grade) → Attack [Kern] OzzoKo
+< Basic Point +2 >
+
+[Glory] TRiLLAKAMi(2 grade) → Attack [Aphyria] Psyck0
+< Basic Point +2 >
+
+[Kern] Ksí(2 grade) → Attack [Relapse] myptsd
+< Basic Point +2 >
+
+[Glory] Zerum(2 grade) → Attack [Aphyria] HiBuffin
+< Basic Point +2 >
+
+[Kern] Honcho(2 grade) → Attack [Relapse] Whimsy
+< Basic Point +2 >
+
+[Eternal] Maliciousツ(2 grade) → Attack [Kern] Ksí
+< Basic Point +2 >
+
+[Eternal] Guild Master RyuseÍÍ(2 grade) → Attack [Relapse] Carambola
+< Basic Point +2 >
+
+[Glory] Mojofly(2 grade) → Attack [Aphyria] kahula
+< Basic Point +2 >
+
+[Kern] Honcho(2 grade) → Attack [Relapse] Angel
+< Basic Point +2 >
+
+[Eternal] Maliciousツ(2 grade) → Attack [Aphyria] TearDropp
+< Basic Point +2 >
+
+[Glory] Zerum(2 grade) → Attack [Aphyria] Riigel
+< Basic Point +2 >
+
+[Glory] Mojofly(2 grade) → Attack [Aphyria] Chineitsang
+< Basic Point +2 >
+
+[Kern] Makaveli(2 grade) → Attack [Relapse] Violent
+< Basic Point +2 >
+
+[Kern] Jokey(2 grade) → Attack [Relapse] Cdv190
+< Basic Point +2 >
+
+[Eternal] Maliciousツ(2 grade) → Attack [Aphyria] Zenzedi
+< Basic Point +2 >
+
+[Glory] Mojofly(2 grade) → Attack [Aphyria] JurassicPark
+< Basic Point +2 >
+
+[Glory] TRiLLAKAMi(2 grade) → Attack [Aphyria] iCĘ
+< Basic Point +2 >
+
+[Relapse] iPath(4 grade) → Attack [Eternal] Maliciousツ
+< Basic Point +2, Killing streak Bonus +2 >
+
+[Eternal] Guild Master RyuseÍÍ(2 grade) → Attack [Aphyria] Tafla04
+< Basic Point +2 >
+
+[Glory] TRiLLAKAMi(2 grade) → Attack [Aphyria] Guild Master Yhava
+< Basic Point +2 >
+
+[Kern] Jokey(3 grade) → Attack [Eternal] Tobiii
+< Basic Point +2, Killing streak Bonus +1 >
+
+[Eternal] RadioΩctivë(4 grade) → Attack [Glory] Mojofly
+< Basic Point +2, Killing streak Bonus +2 >
+
+[Relapse] iPath(3 grade) → Attack [Eternal] Guild Master RyuseÍÍ
+< Basic Point +2, Killing streak Bonus +1 >
+
+[Kern] Pikiri(2 grade) → Attack [Eternal] Pleasure
+< Basic Point +2 >
+
+[Relapse] iPath(2 grade) → Attack [Eternal] RadioΩctivë
+< Basic Point +2 >
+
+[Kern] Pikiri(3 grade) → Attack [Glory] TRiLLAKAMi
+< Basic Point +2, Killing streak Bonus +1 >
+
+[Kern] Honcho(3 grade) → Attack [Glory] Zerum
+< Basic Point +2, Killing streak Bonus +1 >
+
+[Eternal] ißlaze(3 grade) → Attack [Relapse] iPath
+< Basic Point +2, Killing streak Bonus +1 >
+
+[Glory] Dranked(2 grade) → Attack [Kern] Pikiri
+< Basic Point +2 >
+
+[Relapse] Bhencho(2 grade) → Attack [Eternal] Gato
+< Basic Point +2 >
+
+[Relapse] Guild Master Jurassic(2 grade) → Attack [Eternal] Zubuwu
+< Basic Point +2 >
+
+[Aphyria] Sailant(2 grade) → Attack [Relapse] Bhencho
+< Basic Point +2 >
+
+[Kern] Honcho(2 grade) → Attack [Glory] IceLemonade
+< Basic Point +2 >
+
+[Relapse] Guild Master Jurassic(2 grade) → Attack [Eternal] ißlaze
+< Basic Point +2 >
+
+[Eternal] xProzaki(2 grade) → Attack [Relapse] Guild Master Jurassic
+< Basic Point +2 >
+
+[Aphyria] Psyck0(2 grade) → Attack [Glory] Dranked
+< Basic Point +2 >
+
+[Aphyria] Sailant(2 grade) → Attack [Glory] Widepeepo
+< Basic Point +2 >
+
+[Kern] Honcho(2 grade) → Attack [Glory] KamSlayer
+< Basic Point +2 >
+
+[Relapse] myptsd(2 grade) → Attack [Eternal] xProzaki
+< Basic Point +2 >
+
+[Relapse] Anubìs(2 grade) → Attack [Eternal] snkylnk
+< Basic Point +2 >
+
+[Glory] Dope(2 grade) → Attack [Aphyria] Psyck0
+< Basic Point +2 >
+
+[Eternal] Tunechi(2 grade) → Attack [Relapse] myptsd
+< Basic Point +2 >
+
+[Aphyria] Wink(3 grade) → Attack [Glory] Defender Gore
+< Basic Point +2, Defender Bonus +1 >
+
+[Aphyria] Wink(2 grade) → Attack [Glory] Dope
+< Basic Point +2 >
+
+[Aphyria] CosmicGigachad(2 grade) → Attack [Glory] Trangy
+< Basic Point +2 >
+
+[Kern] Honcho(2 grade) → Attack [Eternal] Tunechi
+< Basic Point +2 >
+
+[Eternal] Maliciousツ(2 grade) → Attack [Kern] Jokey
+< Basic Point +2 >
+
+[Relapse] Anubìs(2 grade) → Attack [Aphyria] Wink
+< Basic Point +2 >
+
+[Eternal] Maliciousツ(2 grade) → Attack [Kern] Hearsay
+< Basic Point +2 >
+
+[Eternal] Tobiii(2 grade) → Attack [Kern] Kamukura
+< Basic Point +2 >
+
+[Relapse] IncrediblyDead(2 grade) → Attack [Aphyria] HiBuffin
+< Basic Point +2 >
+
+[Relapse] Anubìs(2 grade) → Attack [Aphyria] Sailant
+< Basic Point +2 >
+
+[Eternal] Maliciousツ(2 grade) → Attack [Kern] Guild Master SeanJuan
+< Basic Point +2 >
+
+[Aphyria] kahula(2 grade) → Attack [Relapse] Whimsy
+< Basic Point +2 >
+
+[Aphyria] TearDropp(3 grade) → Attack [Relapse] Anubìs
+< Basic Point +2, Killing streak Bonus +1 >
+
+[Glory] Zate(5 grade) → Attack [Kern] Honcho
+< Basic Point +2, Killing streak Bonus +3 >
+
+[Kern] Makaveli(2 grade) → Attack [Eternal] Tobiii
+< Basic Point +2 >
+
+[Eternal] Dailyvibes(3 grade) → Attack [Kern] Defender Makaveli
+< Basic Point +2, Defender Bonus +1 >
+
+[Glory] FistinForFun(2 grade) → Attack [Kern] Runa
+< Basic Point +2 >
+
+[Relapse] Angel(2 grade) → Attack [Aphyria] kahula
+< Basic Point +2 >
+
+[Eternal] Guild Master RyuseÍÍ(2 grade) → Attack [Kern] Trab
+< Basic Point +2 >
+
+[Kern] OGBobbyJohnson(2 grade) → Attack [Aphyria] TearDropp
+< Basic Point +2 >
+
+[Kern] Cuhz(2 grade) → Attack [Relapse] Carambola
+< Basic Point +2 >
+
+[Kern] OzzoKo(2 grade) → Attack [Relapse] Angel
+< Basic Point +2 >
+
+[Eternal] Maliciousツ(2 grade) → Attack [Aphyria] Riigel
+< Basic Point +2 >
+
+[Glory] FistinForFun(2 grade) → Attack [Kern] Cuhz
+< Basic Point +2 >
+
+[Eternal] Maliciousツ(2 grade) → Attack [Aphyria] Zenzedi
+< Basic Point +2 >
+
+[Kern] OzzoKo(2 grade) → Attack [Glory] Yuunoms
+< Basic Point +2 >
+
+[Aphyria] Chineitsang(2 grade) → Attack [Eternal] Dailyvibes
+< Basic Point +2 >
+
+[Glory] Ruler(2 grade) → Attack [Kern] OzzoKo
+< Basic Point +2 >
+
+[Eternal] Guild Master RyuseÍÍ(2 grade) → Attack [Aphyria] Chineitsang
+< Basic Point +2 >
+
+[Eternal] Maliciousツ(2 grade) → Attack [Aphyria] JurassicPark
+< Basic Point +2 >
+
+[Aphyria] iCĘ(2 grade) → Attack [Relapse] Cdv190
+< Basic Point +2 >
+
+[Eternal] Maliciousツ(2 grade) → Attack [Aphyria] iCĘ
+< Basic Point +2 >
+
+[Kern] Pikiri(2 grade) → Attack [Glory] Zate
+< Basic Point +2 >
+
+[Kern] Knumi(2 grade) → Attack [Glory] FistinForFun
+< Basic Point +2 >
+
+[Aphyria] CosmicGigachad(4 grade) → Attack [Eternal] Maliciousツ
+< Basic Point +2, Killing streak Bonus +2 >
+
+[Aphyria] Psyck0(2 grade) → Attack [Relapse] Roza
+< Basic Point +2 >
+
+[Eternal] Guild Master RyuseÍÍ(2 grade) → Attack [Kern] Knumi
+< Basic Point +2 >
+
+[Glory] Zerum(2 grade) → Attack [Aphyria] Tafla04
+< Basic Point +2 >
+
+[Relapse] iPath(2 grade) → Attack [Aphyria] Psyck0
+< Basic Point +2 >
+
+[Eternal] RadioΩctivë(2 grade) → Attack [Kern] Pikiri
+< Basic Point +2 >
+
+[Glory] Ruler(2 grade) → Attack [Kern] OGBobbyJohnson
+< Basic Point +2 >
+
+[Eternal] Guild Master RyuseÍÍ(2 grade) → Attack [Glory] TRiLLAKAMi
+< Basic Point +2 >
+
+[Aphyria] Wink(2 grade) → Attack [Relapse] Violent
+< Basic Point +2 >
+
+[Eternal] Guild Master RyuseÍÍ(2 grade) → Attack [Kern] Hearsay
+< Basic Point +2 >
+
+[Eternal] RadioΩctivë(2 grade) → Attack [Kern] Ksí
+< Basic Point +2 >
+
+[Glory] Zerum(2 grade) → Attack [Kern] WikkedDreams
+< Basic Point +2 >
+
+[Glory] Mojofly(2 grade) → Attack [Kern] Kamukura
+< Basic Point +2 >
+
+[Relapse] iPath(2 grade) → Attack [Aphyria] Guild Master Yhava
+< Basic Point +2 >
+
+[Glory] Ruler(2 grade) → Attack [Kern] Jokey
+< Basic Point +2 >
+
+[Glory] IceLemonade(2 grade) → Attack [Kern] Guild Master SeanJuan
+< Basic Point +2 >
+
+[Aphyria] DealtrenS(2 grade) → Attack [Relapse] iPath
+< Basic Point +2 >
+
+[Glory] Mojofly(2 grade) → Attack [Kern] Runa
+< Basic Point +2 >
+
+[Relapse] Guild Master Jurassic(2 grade) → Attack [Aphyria] Wink
+< Basic Point +2 >
+
+[Glory] IceLemonade(2 grade) → Attack [Kern] Cuhz
+< Basic Point +2 >
+
+[Kern] Honcho(2 grade) → Attack [Glory] Zerum
+< Basic Point +2 >
+
+[Relapse] Bhencho(2 grade) → Attack [Aphyria] HiBuffin
+< Basic Point +2 >
+
+[Eternal] Guild Master RyuseÍÍ(2 grade) → Attack [Kern] Trab
+< Basic Point +2 >
+
+[Relapse] Bhencho(2 grade) → Attack [Aphyria] Sailant
+< Basic Point +2 >
+
+[Glory] Ruler(2 grade) → Attack [Kern] Honcho
+< Basic Point +2 >
+
+[Glory] Mojofly(2 grade) → Attack [Kern] OzzoKo
+< Basic Point +2 >
+
+[Relapse] Bhencho(2 grade) → Attack [Aphyria] kahula
+< Basic Point +2 >
+
+[Relapse] Guild Master Jurassic(2 grade) → Attack [Aphyria] TearDropp
+< Basic Point +2 >
+
+[Glory] IceLemonade(2 grade) → Attack [Kern] Pikiri
+< Basic Point +2 >
+
+[Glory] Dranked(2 grade) → Attack [Kern] OGBobbyJohnson
+< Basic Point +2 >
+
+[Kern] Knumi(3 grade) → Attack [Glory] IceLemonade
+< Basic Point +2, Killing streak Bonus +1 >
+
+[Glory] Mojofly(2 grade) → Attack [Kern] Knumi
+< Basic Point +2 >
+
+[Aphyria] DealtrenS(2 grade) → Attack [Relapse] Guild Master Jurassic
+< Basic Point +2 >
+
+[Relapse] Bhencho(2 grade) → Attack [Eternal] RadioΩctivë
+< Basic Point +2 >
+
+[Glory] Dranked(3 grade) → Attack [Kern] Defender Makaveli
+< Basic Point +2, Defender Bonus +1 >
+
+[Glory] Ruler(2 grade) → Attack [Kern] Ksí
+< Basic Point +2 >
+
+[Eternal] Pleasure(2 grade) → Attack [Glory] Widepeepo
+< Basic Point +2 >
+
+[Glory] Mojofly(2 grade) → Attack [Kern] Guild Master SeanJuan
+< Basic Point +2 >
+
+[Aphyria] Chineitsang(2 grade) → Attack [Glory] Dranked
+< Basic Point +2 >
+
+[Relapse] Bhencho(4 grade) → Attack [Eternal] Guild Master RyuseÍÍ
+< Basic Point +2, Killing streak Bonus +2 >
+
+[Glory] Ruler(2 grade) → Attack [Kern] Runa
+< Basic Point +2 >
+
+[Glory] KamSlayer(2 grade) → Attack [Kern] Kamukura
+< Basic Point +2 >
+
+[Kern] Cuhz(4 grade) → Attack [Glory] Mojofly
+< Basic Point +2, Killing streak Bonus +2 >
+
+[Relapse] Bhencho(2 grade) → Attack [Eternal] Gato
+< Basic Point +2 >
+
+[Glory] KamSlayer(2 grade) → Attack [Kern] WikkedDreams
+< Basic Point +2 >
+
+[Glory] KamSlayer(2 grade) → Attack [Kern] Hearsay
+< Basic Point +2 >
+
+[Eternal] Zubuwu(4 grade) → Attack [Relapse] Bhencho
+< Basic Point +2, Killing streak Bonus +2 >
+
+[Glory] Dope(2 grade) → Attack [Kern] Honcho
+< Basic Point +2 >
+
+[Eternal] ißlaze(2 grade) → Attack [Relapse] myptsd
+< Basic Point +2 >
+
+[Glory] Ruler(2 grade) → Attack [Kern] Cuhz
+< Basic Point +2 >
+
+[Eternal] Zubuwu(2 grade) → Attack [Relapse] Maliah
+< Basic Point +2 >
+
+[Glory] KamSlayer(2 grade) → Attack [Kern] OzzoKo
+< Basic Point +2 >
+
+[Glory] Dope(2 grade) → Attack [Kern] OGBobbyJohnson
+< Basic Point +2 >
+
+[Relapse] Carambola(2 grade) → Attack [Eternal] Zubuwu
+< Basic Point +2 >
+
+[Eternal] ißlaze(2 grade) → Attack [Relapse] Whimsy
+< Basic Point +2 >
+
+[Relapse] Anubìs(2 grade) → Attack [Eternal] ißlaze
+< Basic Point +2 >
+
+[Glory] Ruler(2 grade) → Attack [Kern] Pikiri
+< Basic Point +2 >
+
+[Glory] Dope(2 grade) → Attack [Kern] Trab
+< Basic Point +2 >
+
+[Relapse] Angel(2 grade) → Attack [Aphyria] Riigel
+< Basic Point +2 >
+
+[Aphyria] DealtrenS(2 grade) → Attack [Relapse] Angel
+< Basic Point +2 >
+
+[Kern] Ksí(3 grade) → Attack [Glory] Dope
+< Basic Point +2, Killing streak Bonus +1 >
+
+[Glory] KamSlayer(3 grade) → Attack [Kern] Defender Makaveli
+< Basic Point +2, Defender Bonus +1 >
+
+[Glory] Ruler(2 grade) → Attack [Kern] Jokey
+< Basic Point +2 >
+
+[Relapse] Anubìs(2 grade) → Attack [Eternal] xProzaki
+< Basic Point +2 >
+
+[Glory] KamSlayer(2 grade) → Attack [Kern] Guild Master SeanJuan
+< Basic Point +2 >
+
+[Aphyria] JurassicPark(2 grade) → Attack [Relapse] Carambola
+< Basic Point +2 >
+
+[Relapse] Cdv190(2 grade) → Attack [Aphyria] Zenzedi
+< Basic Point +2 >
+
+[Glory] KamSlayer(2 grade) → Attack [Kern] Knumi
+< Basic Point +2 >
+
+[Aphyria] JurassicPark(2 grade) → Attack [Relapse] Anubìs
+< Basic Point +2 >
+
+[Glory] Ruler(2 grade) → Attack [Kern] Runa
+< Basic Point +2 >
+
+[Relapse] Cdv190(2 grade) → Attack [Eternal] snkylnk
+< Basic Point +2 >
+
+[Glory] KamSlayer(2 grade) → Attack [Kern] Hearsay
+< Basic Point +2 >
+
+[Glory] Ruler(2 grade) → Attack [Kern] Ksí
+< Basic Point +2 >
+
+[Kern] Honcho(5 grade) → Attack [Glory] Ruler
+< Basic Point +2, Killing streak Bonus +3 >
+
+[Glory] KamSlayer(2 grade) → Attack [Kern] Honcho
+< Basic Point +2 >
+
+[Aphyria] iCĘ(2 grade) → Attack [Relapse] Cdv190
+< Basic Point +2 >
+
+[Glory] KamSlayer(2 grade) → Attack [Kern] OzzoKo
+< Basic Point +2 >
+
+[Kern] OGBobbyJohnson(2 grade) → Attack [Glory] Yuunoms
+< Basic Point +2 >
+
+[Eternal] Tobiii(5 grade) → Attack [Glory] KamSlayer
+< Basic Point +2, Killing streak Bonus +3 >
+
+[Aphyria] iCĘ(2 grade) → Attack [Kern] Cuhz
+< Basic Point +2 >
+
+[Relapse] iPath(2 grade) → Attack [Aphyria] JurassicPark
+< Basic Point +2 >
+
+[Kern] Pikiri(3 grade) → Attack [Glory] Defender Gore
+< Basic Point +2, Defender Bonus +1 >
+
+[Aphyria] Tafla04(2 grade) → Attack [Relapse] iPath
+< Basic Point +2 >
+
+[Aphyria] iCĘ(2 grade) → Attack [Kern] OGBobbyJohnson
+< Basic Point +2 >
+
+[Glory] FistinForFun(2 grade) → Attack [Kern] WikkedDreams
+< Basic Point +2 >
+
+[Aphyria] Tafla04(2 grade) → Attack [Glory] TRiLLAKAMi
+< Basic Point +2 >
+
+[Glory] Zate(2 grade) → Attack [Kern] Pikiri
+< Basic Point +2 >
+
+[Relapse] Bhencho(2 grade) → Attack [Kern] Jokey
+< Basic Point +2 >
+
+[Relapse] Bhencho(2 grade) → Attack [Glory] FistinForFun
+< Basic Point +2 >
+
+[Aphyria] DealtrenS(3 grade) → Attack [Kern] Defender Makaveli
+< Basic Point +2, Defender Bonus +1 >
+
+[Relapse] Guild Master Jurassic(2 grade) → Attack [Glory] Zate
+< Basic Point +2 >
+
+[Aphyria] iCĘ(2 grade) → Attack [Kern] Kamukura
+< Basic Point +2 >
+
+[Eternal] Tunechi(2 grade) → Attack [Kern] Guild Master SeanJuan
+< Basic Point +2 >
+
+[Glory] IceLemonade(2 grade) → Attack [Eternal] PAÍN
+< Basic Point +2 >
+
+[Aphyria] Tafla04(2 grade) → Attack [Relapse] Guild Master Jurassic
+< Basic Point +2 >
+
+[Eternal] Tunechi(2 grade) → Attack [Glory] Widepeepo
+< Basic Point +2 >
+
+[Eternal] Tobiii(2 grade) → Attack [Glory] Zerum
+< Basic Point +2 >
+
+[Aphyria] iCĘ(2 grade) → Attack [Relapse] Bhencho
+< Basic Point +2 >
+
+[Eternal] Tunechi(2 grade) → Attack [Glory] IceLemonade
+< Basic Point +2 >
+
+[Relapse] myptsd(4 grade) → Attack [Aphyria] iCĘ
+< Basic Point +2, Killing streak Bonus +2 >
+
+[Glory] Mojofly(3 grade) → Attack [Eternal] Tunechi
+< Basic Point +2, Killing streak Bonus +1 >
+
+[Eternal] Tobiii(2 grade) → Attack [Glory] Mojofly
+< Basic Point +2 >
+
+[Relapse] Roza(3 grade) → Attack [Aphyria] Tafla04
+< Basic Point +2, Killing streak Bonus +1 >
+
+[Kern] Ksí(2 grade) → Attack [Aphyria] Chineitsang
+< Basic Point +2 >
+
+[Eternal] Maliciousツ(2 grade) → Attack [Glory] Dranked
+< Basic Point +2 >
+
+[Relapse] myptsd(2 grade) → Attack [Aphyria] Psyck0
+< Basic Point +2 >
+
+[Kern] Trab(3 grade) → Attack [Aphyria] Defender CosmicGigachad
+< Basic Point +2, Defender Bonus +1 >
+
+[Eternal] Tobiii(2 grade) → Attack [Glory] Dope
+< Basic Point +2 >
+
+[Glory] Ruler(2 grade) → Attack [Eternal] Maliciousツ
+< Basic Point +2 >
+
+[Kern] Knumi(2 grade) → Attack [Aphyria] Wink
+< Basic Point +2 >
+
+[Eternal] Tobiii(2 grade) → Attack [Glory] KamSlayer
+< Basic Point +2 >
+
+[Glory] Yuunoms(2 grade) → Attack [Eternal] Dailyvibes
+< Basic Point +2 >
+
+[Kern] Trab(2 grade) → Attack [Aphyria] HiBuffin
+< Basic Point +2 >
+
+[Aphyria] DealtrenS(2 grade) → Attack [Relapse] myptsd
+< Basic Point +2 >
+
+[Eternal] RadioΩctivë(2 grade) → Attack [Glory] Ruler
+< Basic Point +2 >
+
+[Kern] Knumi(2 grade) → Attack [Aphyria] kahula
+< Basic Point +2 >
+
+[Eternal] Tobiii(2 grade) → Attack [Glory] Yuunoms
+< Basic Point +2 >
+
+[Aphyria] Sailant(3 grade) → Attack [Relapse] Defender IncrediblyDead
+< Basic Point +2, Defender Bonus +1 >
+
+[Kern] Runa(2 grade) → Attack [Aphyria] TearDropp
+< Basic Point +2 >
+
+[Glory] FistinForFun(4 grade) → Attack [Eternal] Tobiii
+< Basic Point +2, Killing streak Bonus +2 >
+
+[Kern] Knumi(2 grade) → Attack [Relapse] Carambola
+< Basic Point +2 >
+
+[Relapse] Angel(2 grade) → Attack [Aphyria] Zenzedi
+< Basic Point +2 >
+
+[Eternal] Guild Master RyuseÍÍ(2 grade) → Attack [Aphyria] Riigel
+< Basic Point +2 >
+
+[Kern] Trab(2 grade) → Attack [Aphyria] Sailant
+< Basic Point +2 >
+
+[Kern] Ksí(2 grade) → Attack [Relapse] Angel
+< Basic Point +2 >
+
+[Aphyria] Tafla04(2 grade) → Attack [Eternal] Gato
+< Basic Point +2 >
+
+[Aphyria] iCĘ(2 grade) → Attack [Relapse] Whimsy
+< Basic Point +2 >
+
+[Eternal] RadioΩctivë(2 grade) → Attack [Aphyria] iCĘ
+< Basic Point +2 >
+
+[Aphyria] DealtrenS(2 grade) → Attack [Relapse] Anubìs
+< Basic Point +2 >
+
+[Aphyria] Tafla04(2 grade) → Attack [Relapse] Cdv190
+< Basic Point +2 >
+
+[Glory] FistinForFun(3 grade) → Attack [Eternal] Defender Tobì
+< Basic Point +2, Defender Bonus +1 >
+
+[Eternal] Guild Master RyuseÍÍ(2 grade) → Attack [Glory] Guild Master Kira
+< Basic Point +2 >
+
+[Glory] TRiLLAKAMi(2 grade) → Attack [Eternal] Zubuwu
+< Basic Point +2 >
+
+[Eternal] RadioΩctivë(3 grade) → Attack [Kern] Knumi
+< Basic Point +2, Killing streak Bonus +1 >
+
+[Kern] Ksí(2 grade) → Attack [Relapse] iPath
+< Basic Point +2 >
+
+[Relapse] Chonky(2 grade) → Attack [Aphyria] Chineitsang
+< Basic Point +2 >
+
+[Relapse] Guild Master Jurassic(2 grade) → Attack [Aphyria] JurassicPark
+< Basic Point +2 >
+
+[Aphyria] Tafla04(3 grade) → Attack [Eternal] RadioΩctivë
+< Basic Point +2, Killing streak Bonus +1 >
+
+[Eternal] xProzaki(3 grade) → Attack [Aphyria] Tafla04
+< Basic Point +2, Killing streak Bonus +1 >
+
+[Relapse] Bhencho(4 grade) → Attack [Aphyria] DealtrenS
+< Basic Point +2, Killing streak Bonus +2 >
+
+[Eternal] snkylnk(2 grade) → Attack [Aphyria] Psyck0
+< Basic Point +2 >
+
+[Glory] TRiLLAKAMi(3 grade) → Attack [Kern] Ksí
+< Basic Point +2, Killing streak Bonus +1 >
+
+[Glory] Zate(2 grade) → Attack [Aphyria] HiBuffin
+< Basic Point +2 >
+
+[Glory] FistinForFun(2 grade) → Attack [Kern] Honcho
+< Basic Point +2 >
+
+[Relapse] Guild Master Jurassic(2 grade) → Attack [Aphyria] Wink
+< Basic Point +2 >
+
+[Glory] Gore(2 grade) → Attack [Kern] Runa
+< Basic Point +2 >
+
+[Eternal] xProzaki(3 grade) → Attack [Glory] FistinForFun
+< Basic Point +2, Killing streak Bonus +1 >
+
+[Glory] Zate(3 grade) → Attack [Kern] Trab
+< Basic Point +2, Killing streak Bonus +1 >
+
+[Relapse] Guild Master Jurassic(2 grade) → Attack [Aphyria] kahula
+< Basic Point +2 >
+
+[Eternal] ißlaze(2 grade) → Attack [Relapse] Bhencho
+< Basic Point +2 >
+
+[Kern] OGBobbyJohnson(2 grade) → Attack [Glory] TRiLLAKAMi
+< Basic Point +2 >
+
+[Relapse] Guild Master Jurassic(2 grade) → Attack [Aphyria] TearDropp
+< Basic Point +2 >
+
+[Kern] OGBobbyJohnson(3 grade) → Attack [Glory] Defender Gore
+< Basic Point +2, Defender Bonus +1 >
+
+[Eternal] xProzaki(3 grade) → Attack [Relapse] Guild Master Jurassic
+< Basic Point +2, Killing streak Bonus +1 >
+
+[Kern] OGBobbyJohnson(2 grade) → Attack [Glory] Zate
+< Basic Point +2 >
+
+[Glory] Zerum(3 grade) → Attack [Kern] OGBobbyJohnson
+< Basic Point +2, Killing streak Bonus +1 >
+
+[Kern] OzzoKo(2 grade) → Attack [Glory] IceLemonade
+< Basic Point +2 >
+
+[Glory] Mojofly(2 grade) → Attack [Kern] OzzoKo
+< Basic Point +2 >
+
+[Relapse] Chonky(2 grade) → Attack [Glory] Widepeepo
+< Basic Point +2 >
+
+[Relapse] myptsd(2 grade) → Attack [Aphyria] Zenzedi
+< Basic Point +2 >
+
+[Eternal] Guild Master RyuseÍÍ(2 grade) → Attack [Kern] Hearsay
+< Basic Point +2 >
+
+[Eternal] ißlaze(2 grade) → Attack [Aphyria] Riigel
+< Basic Point +2 >
+
+[Aphyria] iCĘ(2 grade) → Attack [Relapse] myptsd
+< Basic Point +2 >
+
+[Glory] Zerum(2 grade) → Attack [Kern] Jokey
+< Basic Point +2 >
+
+[Eternal] snkylnk(2 grade) → Attack [Glory] Dranked
+< Basic Point +2 >
+
+[Aphyria] iCĘ(2 grade) → Attack [Relapse] Chonky
+< Basic Point +2 >
+
+[Glory] Zerum(2 grade) → Attack [Kern] Cuhz
+< Basic Point +2 >
+
+[Kern] Pikiri(2 grade) → Attack [Glory] Mojofly
+< Basic Point +2 >
+
+[Eternal] ißlaze(2 grade) → Attack [Relapse] Maliah
+< Basic Point +2 >
+
+[Glory] KamSlayer(2 grade) → Attack [Kern] Pikiri
+< Basic Point +2 >
+
+[Aphyria] Sailant(2 grade) → Attack [Relapse] Violent
+< Basic Point +2 >
+
+[Relapse] Carambola(3 grade) → Attack [Eternal] xProzaki
+< Basic Point +2, Killing streak Bonus +1 >
+
+[Kern] Guild Master SeanJuan(2 grade) → Attack [Glory] KamSlayer
+< Basic Point +2 >
+
+[Glory] Ruler(2 grade) → Attack [Kern] Guild Master SeanJuan
+< Basic Point +2 >
+
+[Eternal] snkylnk(2 grade) → Attack [Relapse] Carambola
+< Basic Point +2 >
+
+[Eternal] snkylnk(2 grade) → Attack [Relapse] Roza
+< Basic Point +2 >
+
+[Relapse] Angel(4 grade) → Attack [Eternal] ißlaze
+< Basic Point +2, Resurrecting Bonus +1, Killing streak Bonus +1 >
+
+[Eternal] Guild Master RyuseÍÍ(2 grade) → Attack [Relapse] Whimsy
+< Basic Point +2 >
+
+[Kern] Ksí(3 grade) → Attack [Glory] Zerum
+< Basic Point +2, Killing streak Bonus +1 >
+
+[Aphyria] iCĘ(2 grade) → Attack [Eternal] Miyagi
+< Basic Point +2 >
+
+[Glory] Ruler(2 grade) → Attack [Kern] Ksí
+< Basic Point +2 >
+
+[Eternal] Guild Master RyuseÍÍ(2 grade) → Attack [Relapse] Angel
+< Basic Point +2 >
+
+[Glory] Dope(2 grade) → Attack [Kern] Knumi
+< Basic Point +2 >
+
+[Relapse] iPath(4 grade) → Attack [Eternal] Guild Master RyuseÍÍ
+< Basic Point +2, Killing streak Bonus +2 >
+
+[Eternal] Tunechi(2 grade) → Attack [Relapse] iPath
+< Basic Point +2 >
+
+[Kern] Honcho(2 grade) → Attack [Glory] Ruler
+< Basic Point +2 >
+
+[Aphyria] iCĘ(2 grade) → Attack [Relapse] Cdv190
+< Basic Point +2 >
+
+[Relapse] Anubìs(3 grade) → Attack [Eternal] snkylnk
+< Basic Point +2, Killing streak Bonus +1 >
+
+[Eternal] Maliciousツ(2 grade) → Attack [Relapse] Anubìs
+< Basic Point +2 >
+
+[Eternal] Tunechi(2 grade) → Attack [Relapse] Bhencho
+< Basic Point +2 >
+
+[Relapse] Guild Master Jurassic(4 grade) → Attack [Aphyria] iCĘ
+< Basic Point +2, Resurrecting Bonus +1, Killing streak Bonus +1 >
+
+[Glory] FistinForFun(2 grade) → Attack [Kern] Honcho
+< Basic Point +2 >
+
+[Glory] Dope(2 grade) → Attack [Kern] Runa
+< Basic Point +2 >
+
+[Glory] Yuunoms(2 grade) → Attack [Kern] Kamukura
+< Basic Point +2 >
+
+[Eternal] Maliciousツ(2 grade) → Attack [Aphyria] Chineitsang
+< Basic Point +2 >
+
+[Relapse] Guild Master Jurassic(3 grade) → Attack [Glory] Yuunoms
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[Kern] OGBobbyJohnson(2 grade) → Attack [Glory] Dope
+< Basic Point +2 >
+
+[Eternal] Tunechi(2 grade) → Attack [Aphyria] Tafla04
+< Basic Point +2 >
+
+[Glory] TRiLLAKAMi(2 grade) → Attack [Aphyria] JurassicPark
+< Basic Point +2 >
+
+[Kern] OzzoKo(2 grade) → Attack [Aphyria] Guild Master Yhava
+< Basic Point +2 >
+
+[Relapse] Guild Master Jurassic(4 grade) → Attack [Eternal] Tunechi
+< Basic Point +2, Resurrecting Bonus +1, Killing streak Bonus +1 >
+
+[Kern] OGBobbyJohnson(2 grade) → Attack [Aphyria] DealtrenS
+< Basic Point +2 >
+
+[Glory] FistinForFun(2 grade) → Attack [Aphyria] Sailant
+< Basic Point +2 >
+
+[Relapse] Guild Master Jurassic(3 grade) → Attack [Eternal] Maliciousツ
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[Relapse] myptsd(3 grade) → Attack [Eternal] Tobiii
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[Aphyria] Wink(2 grade) → Attack [Kern] OGBobbyJohnson
+< Basic Point +2 >
+
+[Eternal] Gato(2 grade) → Attack [Relapse] myptsd
+< Basic Point +2 >
+
+[Eternal] Dailyvibes(3 grade) → Attack [Relapse] Guild Master Jurassic
+< Basic Point +2, Killing streak Bonus +1 >
+
+[Aphyria] Psyck0(2 grade) → Attack [Kern] OzzoKo
+< Basic Point +2 >
+
+[Glory] TRiLLAKAMi(2 grade) → Attack [Aphyria] Psyck0
+< Basic Point +2 >
+
+[Glory] FistinForFun(2 grade) → Attack [Aphyria] kahula
+< Basic Point +2 >
+
+[Aphyria] Wink(2 grade) → Attack [Glory] TRiLLAKAMi
+< Basic Point +2 >
+
+[Aphyria] Wink(3 grade) → Attack [Glory] FistinForFun
+< Basic Point +2, Killing streak Bonus +1 >
+
+[Glory] Zate(2 grade) → Attack [Kern] Trab
+< Basic Point +2 >
+
+[Eternal] Dailyvibes(2 grade) → Attack [Aphyria] HiBuffin
+< Basic Point +2 >
+
+[Kern] Jokey(2 grade) → Attack [Aphyria] TearDropp
+< Basic Point +2 >
+
+[Relapse] Carambola(3 grade) → Attack [Eternal] PAÍN
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[Eternal] Gato(2 grade) → Attack [Relapse] Carambola
+< Basic Point +2 >
+
+[Kern] Cuhz(2 grade) → Attack [Glory] IceLemonade
+< Basic Point +2 >
+
+[Glory] Zate(2 grade) → Attack [Kern] Jokey
+< Basic Point +2 >
+
+[Relapse] iPath(3 grade) → Attack [Eternal] Gato
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[Eternal] Zubuwu(2 grade) → Attack [Relapse] Chonky
+< Basic Point +2 >
+
+[Kern] Cuhz(2 grade) → Attack [Glory] Zate
+< Basic Point +2 >
+
+[Aphyria] Wink(3 grade) → Attack [Glory] Defender Gore
+< Basic Point +2, Defender Bonus +1 >
+
+[Relapse] iPath(3 grade) → Attack [Eternal] Zubuwu
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[Eternal] RadioΩctivë(2 grade) → Attack [Relapse] iPath
+< Basic Point +2 >
+
+[Glory] Widepeepo(2 grade) → Attack [Eternal] Dailyvibes
+< Basic Point +2 >
+
+[Eternal] RadioΩctivë(2 grade) → Attack [Glory] Widepeepo
+< Basic Point +2 >
+
+[Kern] Pikiri(2 grade) → Attack [Glory] Guild Master Kira
+< Basic Point +2 >
+
+[Glory] Mojofly(2 grade) → Attack [Aphyria] iCĘ
+< Basic Point +2 >
+
+[Relapse] Cdv190(3 grade) → Attack [Eternal] RadioΩctivë
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[Eternal] ißlaze(2 grade) → Attack [Relapse] Cdv190
+< Basic Point +2 >
+
+[Glory] Zerum(2 grade) → Attack [Kern] Cuhz
+< Basic Point +2 >
+
+[Glory] Mojofly(2 grade) → Attack [Kern] Pikiri
+< Basic Point +2 >
+
+[Eternal] Miyagi(2 grade) → Attack [Aphyria] Zenzedi
+< Basic Point +2 >
+
+[Glory] Zerum(3 grade) → Attack [Kern] Defender Makaveli
+< Basic Point +2, Defender Bonus +1 >
+
+[Glory] KamSlayer(2 grade) → Attack [Kern] Hearsay
+< Basic Point +2 >
+
+[Aphyria] Wink(2 grade) → Attack [Eternal] ißlaze
+< Basic Point +2 >
+
+[Eternal] xProzaki(4 grade) → Attack [Aphyria] Wink
+< Basic Point +2, Killing streak Bonus +2 >
+
+[Eternal] Guild Master RyuseÍÍ(2 grade) → Attack [Aphyria] Chineitsang
+< Basic Point +2 >
+
+[Aphyria] Tafla04(3 grade) → Attack [Eternal] Pleasure
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[Glory] Zerum(2 grade) → Attack [Kern] Guild Master SeanJuan
+< Basic Point +2 >
+
+[Kern] Honcho(3 grade) → Attack [Glory] Zerum
+< Basic Point +2, Killing streak Bonus +1 >
+
+[Glory] Mojofly(2 grade) → Attack [Kern] Ksí
+< Basic Point +2 >
+
+[Kern] Knumi(2 grade) → Attack [Glory] Dranked
+< Basic Point +2 >
+
+[Eternal] xProzaki(2 grade) → Attack [Aphyria] Tafla04
+< Basic Point +2 >
+
+[Eternal] Guild Master RyuseÍÍ(2 grade) → Attack [Aphyria] Riigel
+< Basic Point +2 >
+
+[Glory] Yuunoms(2 grade) → Attack [Kern] WikkedDreams
+< Basic Point +2 >
+
+[Kern] Runa(2 grade) → Attack [Glory] Yuunoms
+< Basic Point +2 >
+
+[Eternal] Guild Master RyuseÍÍ(2 grade) → Attack [Aphyria] JurassicPark
+< Basic Point +2 >
+
+[Eternal] snkylnk(2 grade) → Attack [Aphyria] Guild Master Yhava
+< Basic Point +2 >
+
+[Glory] Mojofly(2 grade) → Attack [Eternal] Miyagi
+< Basic Point +2 >
+
+[Relapse] Anubìs(4 grade) → Attack [Eternal] Guild Master RyuseÍÍ
+< Basic Point +2, Resurrecting Bonus +1, Killing streak Bonus +1 >
+
+[Relapse] Anubìs(3 grade) → Attack [Aphyria] Psyck0
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[Aphyria] DealtrenS(2 grade) → Attack [Eternal] snkylnk
+< Basic Point +2 >
+
+[Kern] Honcho(2 grade) → Attack [Relapse] Anubìs
+< Basic Point +2 >
+
+[Glory] Ruler(2 grade) → Attack [Aphyria] HiBuffin
+< Basic Point +2 >
+
+[Glory] KamSlayer(2 grade) → Attack [Aphyria] Sailant
+< Basic Point +2 >
+
+[Kern] Knumi(2 grade) → Attack [Relapse] Roza
+< Basic Point +2 >
+
+[Glory] Mojofly(2 grade) → Attack [Eternal] Tunechi
+< Basic Point +2 >
+
+[Eternal] Maliciousツ(4 grade) → Attack [Glory] Mojofly
+< Basic Point +2, Killing streak Bonus +2 >
+
+[Glory] Dope(2 grade) → Attack [Eternal] Maliciousツ
+< Basic Point +2 >
+
+[Glory] Ruler(2 grade) → Attack [Aphyria] TearDropp
+< Basic Point +2 >
+
+[Kern] OGBobbyJohnson(2 grade) → Attack [Relapse] Violent
+< Basic Point +2 >
+
+[Glory] KamSlayer(2 grade) → Attack [Aphyria] Chineitsang
+< Basic Point +2 >
+
+[Kern] Honcho(2 grade) → Attack [Relapse] Maliah
+< Basic Point +2 >
+
+[Glory] TRiLLAKAMi(2 grade) → Attack [Aphyria] Wink
+< Basic Point +2 >
+
+[Kern] OGBobbyJohnson(2 grade) → Attack [Relapse] Violent
+< Basic Point +2 >
+
+[Eternal] Tobiii(2 grade) → Attack [Glory] Ruler
+< Basic Point +2 >
+
+[Eternal] xProzaki(2 grade) → Attack [Glory] Dope
+< Basic Point +2 >
+
+[Kern] OGBobbyJohnson(2 grade) → Attack [Relapse] Roza
+< Basic Point +2 >
+
+[Kern] Runa(2 grade) → Attack [Glory] TRiLLAKAMi
+< Basic Point +2 >
+
+[Eternal] xProzaki(2 grade) → Attack [Glory] FistinForFun
+< Basic Point +2 >
+
+[Kern] OGBobbyJohnson(2 grade) → Attack [Glory] Trangy
+< Basic Point +2 >
+
+[Eternal] Gato(2 grade) → Attack [Glory] IceLemonade
+< Basic Point +2 >
+
+[Kern] Honcho(2 grade) → Attack [Glory] Zate
+< Basic Point +2 >
+
+[Aphyria] CosmicGigachad(3 grade) → Attack [Eternal] xProzaki
+< Basic Point +2, Killing streak Bonus +1 >
+
+[Glory] KamSlayer(2 grade) → Attack [Eternal] PAÍN
+< Basic Point +2 >
+
+[Kern] Knumi(2 grade) → Attack [Eternal] Gato
+< Basic Point +2 >
+
+[Glory] Zerum(3 grade) → Attack [Kern] Honcho
+< Basic Point +2, Killing streak Bonus +1 >
+
+[Aphyria] DealtrenS(3 grade) → Attack [Eternal] Defender Tobì
+< Basic Point +2, Defender Bonus +1 >
+
+[Relapse] Maliah(2 grade) → Attack [Glory] Widepeepo
+< Basic Point +2 >
+
+[Aphyria] CosmicGigachad(2 grade) → Attack [Eternal] Dailyvibes
+< Basic Point +2 >
+
+[Glory] Zerum(2 grade) → Attack [Kern] Kamukura
+< Basic Point +2 >
+
+[Eternal] ißlaze(2 grade) → Attack [Aphyria] Riigel
+< Basic Point +2 >
+
+[Glory] KamSlayer(2 grade) → Attack [Relapse] Roza
+< Basic Point +2 >
+
+[Glory] Dranked(2 grade) → Attack [Relapse] Maliah
+< Basic Point +2 >
+
+[Eternal] Tobiii(3 grade) → Attack [Kern] OGBobbyJohnson
+< Basic Point +2, Killing streak Bonus +1 >
+
+[Aphyria] Sailant(2 grade) → Attack [Kern] Runa
+< Basic Point +2 >
+
+[Glory] KamSlayer(2 grade) → Attack [Eternal] Zubuwu
+< Basic Point +2 >
+
+[Glory] Dranked(2 grade) → Attack [Relapse] Chonky
+< Basic Point +2 >
+
+[Eternal] Tobiii(2 grade) → Attack [Kern] OzzoKo
+< Basic Point +2 >
+
+[Glory] KamSlayer(2 grade) → Attack [Eternal] ißlaze
+< Basic Point +2 >
+
+[Aphyria] DealtrenS(2 grade) → Attack [Eternal] Miyagi
+< Basic Point +2 >
+
+[Kern] Knumi(2 grade) → Attack [Relapse] Maliah
+< Basic Point +2 >
+
+[Glory] Zerum(2 grade) → Attack [Eternal] Pleasure
+< Basic Point +2 >
+
+[Kern] Pikiri(3 grade) → Attack [Relapse] Defender IncrediblyDead
+< Basic Point +2, Defender Bonus +1 >
+
+[Eternal] Guild Master RyuseÍÍ(3 grade) → Attack [Glory] Zerum
+< Basic Point +2, Killing streak Bonus +1 >
+
+[Glory] Dranked(3 grade) → Attack [Eternal] Tobiii
+< Basic Point +2, Killing streak Bonus +1 >
+
+[Eternal] Tunechi(4 grade) → Attack [Glory] KamSlayer
+< Basic Point +2, Killing streak Bonus +2 >
+
+[Kern] Pikiri(2 grade) → Attack [Eternal] RadioΩctivë
+< Basic Point +2 >
+
+[Kern] Cuhz(2 grade) → Attack [Eternal] snkylnk
+< Basic Point +2 >
+
+[Eternal] Maliciousツ(3 grade) → Attack [Glory] Dranked
+< Basic Point +2, Killing streak Bonus +1 >
+
+[Aphyria] DealtrenS(2 grade) → Attack [Eternal] Tunechi
+< Basic Point +2 >
+
+[Kern] Pikiri(3 grade) → Attack [Relapse] Defender IncrediblyDead
+< Basic Point +2, Defender Bonus +1 >
+
+[Kern] Jokey(3 grade) → Attack [Relapse] Chonky
+< Basic Point +2, Resurrecting Bonus +1 >
+
+[Eternal] xProzaki(2 grade) → Attack [Kern] Jokey
+< Basic Point +2 >
+
+[Kern] Knumi(2 grade) → Attack [Eternal] xProzaki
+< Basic Point +2 >
+
+[Aphyria] CosmicGigachad(2 grade) → Attack [Kern] Trab
+< Basic Point +2 >
+
+[Eternal] Guild Master RyuseÍÍ(2 grade) → Attack [Glory] Yuunoms
+< Basic Point +2 >
+
+[Kern] Cuhz(2 grade) → Attack [Glory] Mojofly
+< Basic Point +2 >
+
+[Glory] Ruler(2 grade) → Attack [Eternal] Guild Master RyuseÍÍ
+< Basic Point +2 >
+
+[Glory] Dope(2 grade) → Attack [Eternal] Maliciousツ
+< Basic Point +2 >
+
+[Glory] Ruler(2 grade) → Attack [Eternal] PAÍN
+< Basic Point +2 >
+
+[Eternal] Gato(2 grade) → Attack [Glory] Dope
+< Basic Point +2 >
+
+[Kern] Pikiri(2 grade) → Attack [Aphyria] Guild Master Yhava
+< Basic Point +2 >
+
+[Kern] Cuhz(2 grade) → Attack [Aphyria] Sailant
+< Basic Point +2 >
+
+[Eternal] Zubuwu(3 grade) → Attack [Glory] Defender Gore
+< Basic Point +2, Defender Bonus +1 >
+
+[Glory] TRiLLAKAMi(2 grade) → Attack [Eternal] Zubuwu
+< Basic Point +2 >
+
+[Glory] FistinForFun(2 grade) → Attack [Eternal] Gato
+< Basic Point +2 >
+
+[Glory] TRiLLAKAMi(2 grade) → Attack [Eternal] ißlaze
+< Basic Point +2 >
+
+[Kern] Pikiri(2 grade) → Attack [Aphyria] Guild Master Yhava
+< Basic Point +2 >
+
+[Glory] Ruler(3 grade) → Attack [Eternal] Defender Tobì
+< Basic Point +2, Defender Bonus +1 >
+
+[Kern] Cuhz(3 grade) → Attack [Glory] Ruler
+< Basic Point +2, Killing streak Bonus +1 >

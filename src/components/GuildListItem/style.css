@@ -1,0 +1,45 @@
+.guild {
+  display: flex;
+  align-items: center;
+  padding: 10px 0px 10px 5px;
+  border-radius: 5px;
+  /* cursor: pointer; */
+}
+
+.guild:hover {
+  background: var(--grey-medium);
+}
+
+.guild-ranking {
+  width: 32px;
+}
+
+.guild-name {
+  width: 100px;
+  /* overflow: hidden; */
+  text-overflow: ellipsis;
+  /* font-weight: 700; */
+  flex-grow: 1;
+}
+
+.guild-pts {
+  margin-right: 5px;
+}
+
+.medal.first {
+  color: var(--gold);
+}
+
+.medal.second {
+  color: var(--silver);
+}
+
+.medal.third {
+  color: var(--bronze);
+}
+
+.guild-tooltip {
+  z-index: 4;
+  background: var(--text-color);
+  opacity: 1;
+}
